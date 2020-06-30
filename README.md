@@ -1,7 +1,7 @@
 # 我的日常科研笔记
 
 ## 模版
-1. **题目**：[。。。]() [Github]()  
+1. **题目**：[。。。]() [【Github】]()  
   **作者及接受期刊/会议**：  
   **摘要**：
 
@@ -23,7 +23,7 @@
 5. **题目**：[XGNN-可解释图神经网络，从模型级解释构建可信赖GNN](https://xiaolonw.github.io/graphnnv2/)  
   **作者及接受期刊/会议**：KDD2020  
   **摘要**：图神经网络通过聚合和结合邻居信息来学习节点特征，在许多图的任务中取得了良好的性能。然而，GNN大多被视为黑盒，缺乏人类可理解的解释。因此，如果不能解释GNN模型，就不能完全信任它们并在某些应用程序域中使用它们。在这项工作中，我们提出了一种新的方法，称为XGNN，在模型级别上解释GNN。我们的方法可以为GNNs的工作方式提供高层次的见解和一般性的理解。特别地，我们提出通过训练一个图生成器来解释GNN，使生成的图模式最大化模型的某种预测。我们将图形生成表述为一个强化学习任务，其中对于每一步，图形生成器预测如何向当前图形中添加一条边。基于训练后的GNN信息，采用策略梯度方法对图生成器进行训练。此外，我们还加入了一些图规则，以促使生成的图是有效的。在合成和真实数据集上的实验结果表明，我们提出的方法有助于理解和验证训练过的GNN。此外，我们的实验结果表明，所生成的图可以为如何改进训练的神经网络提供指导。
-6. **题目**：[CLEVRER数据集，推动视频理解的因果逻辑推理](https://arxiv.org/abs/1910.01442) [Project](http://clevrer.csail.mit.edu/)  
+6. **题目**：[CLEVRER数据集，推动视频理解的因果逻辑推理](https://arxiv.org/abs/1910.01442) [【Project】](http://clevrer.csail.mit.edu/)  
   **作者及接受期刊/会议**：ICLR 2020 论文，麻省理工、DeepMind  
   **摘要**：提出了一种针对时间和因果推理问题的数据集，包含 20,000 个关于碰撞物体的合成视频以及 300,000 多个问题和答案，从互补的角度研究了视频中的时间和因果推理问题。
 7. **题目**：[对视觉与语言的思考：从自洽、交互到共生](https://github.com/JDAI-CV/image-captioning)  
@@ -32,13 +32,13 @@
 8. **题目**：[Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions](https://arxiv.org/pdf/2004.03967.pdf)  
   **作者及接受期刊/会议**：CVPR2020  
   **摘要**：场景理解（scene understanding）一直是计算机视觉领域的研究热点。它不仅包括识别场景中的对象，还包括识别它们在给定上下文中的关系。基于这一目标，最近的一系列工作解决了3D语义分割和场景布局预测问题。在我们的工作中，我们关注场景图，这是一种在图中组织场景实体的数据结构，其中对象是节点，它们的关系建模为边。我们利用场景图上的推理作为实现3D场景理解、映射对象及其关系的一种方式。特别地，我们提出了一种从场景的点云回归场景图的学习方法。我们的新体系结构是基于PointNet和图卷积网络(GCN)的。此外，我们还介绍了一个半自动生成的数据集3DSSG，它包含了语义丰富的三维场景图。我们展示了我们的方法在一个领域无关的检索任务中的应用，其中图作为3D-3D和2D-3D匹配的中间表示。
-9. **题目**：[Graph-Structured Referring Expression Reasoning in The Wild](https://arxiv.org/pdf/2004.08814.pdf) [Github](https://github.com/sibeiyang/sgmn)    
+9. **题目**：[Graph-Structured Referring Expression Reasoning in The Wild](https://arxiv.org/pdf/2004.08814.pdf) [【Github】](https://github.com/sibeiyang/sgmn)    
   **作者及接受期刊/会议**：CVPR2020  
   **摘要**：Grounding referring expressions的目标是参照自然语言表达式在图像中定位一个目标。指代表达式（referring expression）的语言结构为视觉内容提供了推理的布局，并且该结构对于校准和共同理解图像与指代表达式是十分重要的。本文提出了一种场景图引导的模块化网络(SGMN)，它在表达式的语言结构指导下，用神经模块对语义图和场景图进行推理。特别地，我们将图像（image）建模为结构化语义图，并将表达式解析为语言场景图。语言场景图不仅对表达式的语言结构进行解码，而且与图像语义图具有一致的表示。除了探索指代表达式基础的结构化解决方案外，我们还提出了Ref-Reasning，一个用于结构化指代表达式推理的大规模真实数据集。我们使用不同的表达式模板和函数式程序自动生成图像场景图上的指代表达式。该数据集配备了真实世界的可视化内容以及具有不同推理布局的语义丰富的表达式。实验结果表明，SGMN不仅在新的Ref-Reasning数据集上的性能明显优于现有的算法，而且在常用的基准数据集上也超过了最先进的结构化方法。它还可以为推理提供可解释的可视化证据。
 10. **题目**：[Say As Y ou Wish: Fine-grained Control of Image Caption Generation with Abstract Scene Graphs](https://arxiv.org/pdf/2003.00387.pdf)  
   **作者及接受期刊/会议**：CVPR2020  
   **摘要**：人类能够随心所欲地用粗到细的细节来描述图像内容。然而，大多数图像字幕模型是意图不可知的（intention-agnostic），不能主动根据不同的用户意图生成各种描述。在这项工作中，我们提出了抽象场景图(ASG)结构来在细粒度层次上表示用户意图，并控制生成的描述应该是什么和有多详细。ASG是一个由三种类型的抽象节点(对象、属性、关系)组成的有向图，它们以图像为基础，没有任何具体的语义标签。因此，这些节点可以很容易通过手动或自动获得。与在VisualGenome和MSCOCO数据集上精心设计的基线相比，我们的模型在ASG上实现了更好的可控性条件。它还通过自动采样不同的ASG作为控制信号，显著提高了字幕多样性。
-11. **题目**：[Semantic Image Manipulation Using Scene Graphs](https://www.researchgate.net/publication/340523427_Semantic_Image_Manipulation_Using_Scene_Graphs) [Github](https://he-dhamo.github.io/SIMSG/)  
+11. **题目**：[Semantic Image Manipulation Using Scene Graphs](https://www.researchgate.net/publication/340523427_Semantic_Image_Manipulation_Using_Scene_Graphs) [【Github】](https://he-dhamo.github.io/SIMSG/)  
   **作者及接受期刊/会议**：CVPR2020  
   **摘要**：图像处理可以被认为是图像生成的特例，其中要生成的图像是对现有图像的修改。在很大程度上，图像生成和处理都是对原始像素进行操作的任务。然而，在学习丰富的图像和对象表示方面的显著进展已经为主要由语义驱动的诸如文本到图像或布局到图像生成之类的任务开辟了道路。在我们的工作中，我们解决了从场景图进行图像处理的新问题，在该问题中，用户可以仅通过对从图像生成的语义图的节点或边进行修改来编辑图像。我们的目标是对给定constellation中的图像信息进行编码，然后在此基础上生成新的constellation，例如替换对象，甚至改变对象之间的关系，同时尊重原始图像的语义和样式。我们引入了空间语义场景图网络，该网络不需要直接监督constellation变化或图像编辑。这使得从现有的现实世界数据集中训练系统成为可能，而无需额外的注释工作。
 12. **题目**：[Spatio-Temporal Graph for Video Captioning with Knowledge Distillation](https://arxiv.org/pdf/2003.13942.pdf)  
