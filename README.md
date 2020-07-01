@@ -44,6 +44,59 @@
 12. **题目**：[Spatio-Temporal Graph for Video Captioning with Knowledge Distillation](https://arxiv.org/pdf/2003.13942.pdf)  
   **作者及接受期刊/会议**：CVPR2020  
   **摘要**：视频描述生成是一项具有挑战性的任务，需要对视觉场景有深刻的理解。最先进的方法使用场景级或对象级信息生成字幕，但没有显式建模对象交互。因此，它们通常无法做出基于视觉的预测，并且对虚假相关性敏感。在本文中，我们为视频字幕提出了一种新颖的时空图模型，该模型利用了时空中的对象交互作用。我们的模型建立了可解释的连接，并且能够提供明确的视觉基础。为了避免对象数量变化带来的性能不稳定，我们进一步提出了一种对象感知的知识提炼机制，该机制利用局部对象信息对全局场景特征进行正则化。通过在两个基准上的广泛实验证明了我们的方法的有效性，表明我们的方法在可解释的预测上产生了具有竞争力的性能。
-13. **题目**：[]()  
+13. **题目**：[ContrastiveMulti-ViewRepresentationLearningonGraphs](https://arxiv.org/pdf/2006.05582.pdf)  
+  **作者及接受期刊/会议**：ICML2020，对比多视角表示学习   
+  **摘要**：我们介绍了一种通过对比图的结构视图来学习节点和图表示的自监督方法。我们表明，与视觉表示学习不同，增加视图数量到两个以上或对比多尺度编码不会提高性能，而最佳性能是通过对比一阶邻居编码和图扩散来实现的。在线性评估协议下，我们在8个节点中的8个和图分类基准上实现了新的最先进的自监督学习结果。例如，在Cora(节点)和reddy - binary(图形)分类基准上，我们实现了86.8%和84.5%的准确率，相对于之前的最先进水平分别提高了5.5%和2.4%。与监督基准相比，我们的方法在8个基准中有4个优于监督基准。
+14. **题目**：[Object Relational Graph with Teacher-Recommended Learning for Video Captioning](https://arxiv.org/pdf/2002.11566.pdf)  
+  **作者及接受期刊/会议**：CVPR2020，ORG-TRL：基于物体关系图和教师推荐学习的视频描述   
+  **摘要**：视频描述任务作为一种结合视觉与语言的高层任务，近年来得到研究者的广泛关注。该任务的关键包括如何充分提取视频中关键的视觉信息和如何构建从视觉到语言的映射关系。自动化所视频内容安全团队张子琦、史雅雅博士等人针对当前视频描述任务中，视觉层面缺少物体之间的交互关系，以及语言层面缺乏与内容相关单词的充分训练等问题，提出了基于物体关系图和教师推荐学习的视频描述系统。图1为该系统的框架图，该系统利用图卷积神经网络获取视频中物体间的相互关联，同时利用知识蒸馏的方法将外部语言模型的知识传授给视频描述模型。团队所提出的模型和训练策略，能够充分挖掘物体之间的关联，有效吸纳外部语言模型的语言学知识。在三个大型视频描述数据集（MSVD、MSR-VTT和VATEX）上均验证了该系统的有效性。
+15. **题目**：[赛尔笔记 | 多模态信息抽取简述](https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247524098&idx=6&sn=4585f6a1e00a3d3b9360476db7002a2d&chksm=fc867e11cbf1f707211c4ab8d72f31deff7cb51dfb2975aaf58f172c720b577025da613ac8ed&scene=0&xtrack=1&key=f74daa37e4bd8ddc7a8d4ba238316b5106a21002f8de5f7b70419d2c5820ae0d849c8ef87a602717bd98d49d9df41d7406a36a7553bd29a0fa57fb03e267239f0f7415278b3252e7a4ace34706a96cd2&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10+x64&version=62090523&lang=zh_CN&exportkey=A5Fa2JDTtV0iJble5bUXTLY%3D&pass_ticket=j%2FylNa%2FNKHDOVnthS3zCYteKHaC%2FBaJihtPsKLSPzLN4M6KsOQOucf7E4PKqTuc6)
+16. **题目**：[BERT在多模态领域中的应用](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247503902&idx=1&sn=eb0e9a512c69c7cfd42ab89d4e8c202d&chksm=96ea0f9ea19d868886eef0798186a553da5dbb03000126acf4af992d9d8e9e5d0b4531ae453e&mpshare=1&scene=24&srcid=&sharer_sharetime=1583384019015&sharer_shareid=0091823d7fc0a9eb9f042a61c73cc17a&key=fb6555550f80da0ccd0d60a2f93f7d0ad9fd9e1ca66b9ef4df7c382711b9a93738e97198c3933bcbb186d139a6b66a3f44b6fcc6b530101560aba176ab1304b5f276baf81335222ef642d3b0a19ed06a&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10+x64&version=62090523&lang=zh_CN&exportkey=A5RLs5sWQxiLxWDS9rffUcg%3D&pass_ticket=j%2FylNa%2FNKHDOVnthS3zCYteKHaC%2FBaJihtPsKLSPzLN4M6KsOQOucf7E4PKqTuc6)
+17. **题目**：[让机器读懂视频：亿级淘宝视频背后的多模态AI算法揭秘](https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247490231&idx=1&sn=2b750b1143272344939e8f626778d5df&chksm=96f368e3a184e1f5f8a44db8a239b1d7952c39f0b319b885e57aae648a681029eaf9baf068ba&scene=0&xtrack=1&key=46828b3a71d4b504d8480d28c4a9597623bbac0c507736f14af212f8f08f27f756a2b8d4372fbceaa9ea6ddc885568ac833c33ca56ec98449943757a1434a9674bdfe4dbaef21da98bb6a638f5120e47&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10+x64&version=62090523&lang=zh_CN&exportkey=A6HPGxTEBiiM%2FEm7rp%2F%2Bb4Q%3D&pass_ticket=j%2FylNa%2FNKHDOVnthS3zCYteKHaC%2FBaJihtPsKLSPzLN4M6KsOQOucf7E4PKqTuc6)
+18. **题目**：[多模态情感分析简述](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247490881&idx=5&sn=abed4c6bbf3de75889e29c8f1c19267d&chksm=ebb42595dcc3ac836f82182c48a0f147663e9bee5a853e447379bbdc03092f46ff0941ad039d&scene=0&xtrack=1&key=835f76b9f6281b48135da4ee5e5acc81347b450c040bc2dba259f38d955918f82e6d3bc4bb6e9320c3a8110de3fd04a2e58983fc973d17d1024d2b49a2ced1fc34a5f9008f153d149ecf256106b1e513&ascene=14&uin=MTM2NDUyMTkxOQ%3D%3D&devicetype=Windows+10+x64&version=62090523&lang=zh_CN&exportkey=A6YYvKl8zQPcoG9N7jV8%2F5I%3D&pass_ticket=j%2FylNa%2FNKHDOVnthS3zCYteKHaC%2FBaJihtPsKLSPzLN4M6KsOQOucf7E4PKqTuc6)
+19. **题目**：[VL-BERT: Pre-training of Generic Visual-Linguistic Representations](https://arxiv.org/abs/1908.08530)  
+  **作者及接受期刊/会议**：ICLR 2020，微软亚洲研究院  
+  **摘要**：研究员提出了一种新的通用的多模态预训练模型VL-BERT，该模型采用简单而强大的Transformer模型作为主干网络，并将其输入扩展为同时包含视觉与语言输入的多模态形式，适用于绝大多数视觉语义下游任务。为了让VL-BERT模型利用更为通用的特征表示，研究员在大规模图片描述生成数据集Conceptual Captions中进行VL-BERT的预训练，实验证明此预训练过程可以显著提高下游的视觉语义任务的效果，包含视觉常识推理、视觉问答与引用表达式理解等。
+20. **题目**：[]()  
+  **作者及接受期刊/会议**：  
+  **摘要**：
+  
+21. **题目**：[]()  
+  **作者及接受期刊/会议**：  
+  **摘要**：
+  
+22. **题目**：[]()  
+  **作者及接受期刊/会议**：  
+  **摘要**：
+  
+23. **题目**：[]()  
+  **作者及接受期刊/会议**：  
+  **摘要**：
+  
+24. **题目**：[]()  
+  **作者及接受期刊/会议**：  
+  **摘要**：
+  
+25. **题目**：[]()  
+  **作者及接受期刊/会议**：  
+  **摘要**：
+  
+26. **题目**：[]()  
+  **作者及接受期刊/会议**：  
+  **摘要**：
+  
+27. **题目**：[]()  
+  **作者及接受期刊/会议**：  
+  **摘要**：
+  
+28. **题目**：[]()  
+  **作者及接受期刊/会议**：  
+  **摘要**：
+  
+29. **题目**：[]()  
+  **作者及接受期刊/会议**：  
+  **摘要**：
+  
+30. **题目**：[]()  
   **作者及接受期刊/会议**：  
   **摘要**：
