@@ -2,7 +2,7 @@
 1. ml-visuals [Github](https://github.com/dair-ai/ml-visuals)
 2. manim-tutorial-CN [Github](https://github.com/cai-hust/manim-tutorial-CN)
 3. milvus [Github](https://github.com/milvus-io/milvus)
-4. visdom [Github](https://github.com/facebookresearch/visdom)
+4. **visdom [Github](https://github.com/facebookresearch/visdom)**
 5. netron [Github](https://github.com/lutzroeder/netron)
 6. facets [Github](https://github.com/PAIR-code/facets)
 7. scikit-plot [Github](https://github.com/reiinakano/scikit-plot)
@@ -16,6 +16,8 @@
 1. WWW20-Hands-on-Tutorial [Github](https://github.com/dglai/WWW20-Hands-on-Tutorial)
 2. CVPR2020-Code [Github](https://github.com/amusi/CVPR2020-Code)
 3. Awesome-CVPR-Paper [Github](https://github.com/Sophia-11/Awesome-CVPR-Paper)
+4. CVPR2019-Code [Github](https://github.com/amusi/CVPR2019-Code)
+5. CVPR2020-Paper-Code-Interpretation [Github](https://github.com/extreme-assistant/CVPR2020-Paper-Code-Interpretation)
 
 ---
 
@@ -27,7 +29,7 @@
 5. pycls [Github](https://github.com/facebookresearch/pycls)
 6. Ultra-Light-Fast-Generic-Face-Detector-1MB [Github](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
 7. label-studio [Github](https://github.com/heartexlabs/label-studio)
-8. detectron2 [Github](https://github.com/facebookresearch/detectron2)
+8. **detectron2 [Github](https://github.com/facebookresearch/detectron2)**
 9. Anime4K [Github](https://github.com/bloc97/Anime4K)
 10. A-Light-and-Fast-Face-Detector-for-Edge-Devices [Github](https://github.com/YonghaoHe/A-Light-and-Fast-Face-Detector-for-Edge-Devices)
 11. tesseract [Github](https://github.com/tesseract-ocr/tesseract)
@@ -41,14 +43,22 @@
 19. PyTorch-Encoding [Github](https://github.com/zhanghang1989/PyTorch-Encoding)
 20. C-3-Framework [Github](https://github.com/gjy3035/C-3-Framework)
 21. Datasets2Darknet [Github](https://github.com/angeligareta/Datasets2Darknet)
-4. visdom [Github](https://github.com/facebookresearch/visdom)
-4. visdom [Github](https://github.com/facebookresearch/visdom)
-4. visdom [Github](https://github.com/facebookresearch/visdom)
+22. torchcv [Github](https://github.com/donnyyou/torchcv)
+23. pysot [Github](https://github.com/STVIR/pysot)
+24. HyperLPR [Github](https://github.com/zeusees/HyperLPR)
+25. segmentation_models.pytorch [Github](https://github.com/qubvel/segmentation_models.pytorch)
+26. HyperVID [Github](https://github.com/zeusees/HyperVID)
+27. FaceDetection-DSFD [Github](https://github.com/Tencent/FaceDetection-DSFD)
+28. pytracking [Github](https://github.com/visionml/pytracking)
+29. Segmentation.X [Github](https://github.com/wutianyiRosun/Segmentation.X)
+30. openpose [Github](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+31. learnopencv [Github](https://github.com/spmallick/learnopencv)
+32. libfacedetection [Github](https://github.com/ShiqiYu/libfacedetection)
 
 ---
 
 ## NLP tools
-1. SceneGraphParser [Github](https://github.com/vacancy/SceneGraphParser)
+1. **SceneGraphParser [Github](https://github.com/vacancy/SceneGraphParser)**
 2. albert_zh [Github](https://github.com/brightmart/albert_zh)
 3. GPT2-Chinese [Github](https://github.com/Morizeyao/GPT2-Chinese)
 4. weibo_spider [Github](https://github.com/python3xxx/weibo_spider)
@@ -59,6 +69,8 @@
 1. CVWC2019-Amur-Tiger-Re-ID [Github](https://github.com/LcenArthas/CVWC2019-Amur-Tiger-Re-ID)
 2. Pedestrian-Detection [Github](https://github.com/xingkongliang/Pedestrian-Detection)
 3. icme2019-bytedance-grand-challenge  [Github](https://github.com/JiDong-CS/icme2019-bytedance-grand-challenge)
+4. AI-Challenger-Retinal-Edema-Segmentation [Github](https://github.com/ShawnBIT/AI-Challenger-Retinal-Edema-Segmentation)
+5. subway_analysis [Github](https://github.com/Tobby-star/subway_analysis)
 
 ---
 
@@ -76,29 +88,35 @@
 11. mediapipe [Github](https://github.com/google/mediapipe)
 12. graphvite [Github](https://github.com/DeepGraphLearning/graphvite)
 13. Caffe2-Tutorial [Github](https://github.com/BIGBALLON/Caffe2-Tutorial)
-14. pytorch-lightning [Github](https://github.com/PyTorchLightning/pytorch-lightning)
+14. **pytorch-lightning [Github](https://github.com/PyTorchLightning/pytorch-lightning)**
 15. pretrained-models.pytorch [Github](https://github.com/Cadene/pretrained-models.pytorch)
 16. TDengine [Github](https://github.com/taosdata/TDengine)
 17. YOLOv3-model-pruning [Github](https://github.com/Lam1360/YOLOv3-model-pruning)
 18. LiteratureDL4Graph [Github](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
-19. Deep Graph Library (DGL) [Github](https://github.com/dmlc/dgl)
+19. **Deep Graph Library (DGL) [Github](https://github.com/dmlc/dgl)**
 20. TensorRT [Github](https://github.com/NVIDIA/TensorRT)
 21. pytorch-custom-cuda-tutorial [Github](https://github.com/chrischoy/pytorch-custom-cuda-tutorial)
 22. TorchSnooper [Github](https://github.com/zasdfgbnm/TorchSnooper)
 23. openvino_training_extensions [Github](https://github.com/opencv/openvino_training_extensions)
 24. ncnn [Github](https://github.com/Tencent/ncnn)
 25. PytorchInsight [Github](https://github.com/implus/PytorchInsight)
-26. mmf [Github](https://github.com/facebookresearch/mmf)
+26. **mmf [Github](https://github.com/facebookresearch/mmf)**
 27. pywick [Github](https://github.com/achaiah/pywick)
 28. GAN_Review [Github](https://github.com/sheqi/GAN_Review)
-4. visdom [Github](https://github.com/facebookresearch/visdom)
-4. visdom [Github](https://github.com/facebookresearch/visdom)
-4. visdom [Github](https://github.com/facebookresearch/visdom)
+29. MNN [Github](https://github.com/alibaba/MNN)
+30. tvm [Github](https://github.com/pytorch/tvm)
+31. pipeline [Github](https://github.com/PipelineAI/pipeline)
+32. xai_resources [Github](https://github.com/pbiecek/xai_resources)
+33. python-fire [Github](https://github.com/google/python-fire)
+34. pybind11 [Github](https://github.com/pybind/pybind11)
+35. knockknock [Github](https://github.com/huggingface/knockknock)
+36. MMdnn [Github](https://github.com/microsoft/MMdnn)
+37. **pytorch_geometric [Github](https://github.com/rusty1s/pytorch_geometric)**
 
 ---
 
 ## awesome
-1. Visual Grounding [Github](https://github.com/TheShadow29/awesome-grounding)
+1. **Visual Grounding [Github](https://github.com/TheShadow29/awesome-grounding)**
 2. Pedestrian-Detection [Github](https://github.com/xingkongliang/Pedestrian-Detection)
 3. visual-question-answering [Github](https://github.com/jokieleung/awesome-visual-question-answering)
 4. Papers with Code [Github](https://github.com/zziz/pwc)
@@ -106,8 +124,20 @@
 6. graph-classification [Github](https://github.com/benedekrozemberczki/awesome-graph-classification)
 7. Image-Inpainting [Github](https://github.com/1900zyh/Awesome-Image-Inpainting)
 8. automl-papers [Github](https://github.com/hibayesian/awesome-automl-papers)
-4. Papers with Code [Github](https://github.com/zziz/pwc)
-4. Papers with Code [Github](https://github.com/zziz/pwc)
+9. Super-Resolution [Github](https://github.com/ChaofWang/Awesome-Super-Resolution)
+10. Cool-Fashion-Papers [Github](https://github.com/lzhbrian/Cool-Fashion-Papers)
+11. AutoML-and-Lightweight-Models [Github](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
+12. architecture-search [Github](https://github.com/markdtw/awesome-architecture-search)
+13. deep_learning_object_detection [Github](https://github.com/hoya012/deep_learning_object_detection)
+14. model-compression-and-acceleration [Github](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
+15. public-datasets [Github](https://github.com/awesomedata/awesome-public-datasets)
+16. computer-vision [Github](https://github.com/jbhuang0604/awesome-computer-vision)
+17. deep-vision [Github](https://github.com/kjw0612/awesome-deep-vision)
+18. awesome-courses [Github](https://github.com/prakhar1989/awesome-courses)
+19. really-awesome-gan [Github](https://github.com/nightrome/really-awesome-gan)
+20. deep-learning [Github](https://github.com/ChristosChristofidis/awesome-deep-learning)
+21. deep-text-detection-recognition [Github](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
+22. CV-arXiv-Daily [Github](https://github.com/zhengzhugithub/CV-arXiv-Daily)
 
 ---
 
@@ -121,7 +151,5 @@
 7. handout [Github](https://github.com/danijar/handout)
 8. call-python-from-cpp [Github](https://github.com/wkentaro/call-python-from-cpp)
 9. Remu [Github](https://github.com/zenghongtu/Remu)
-6. DeepConnection [Github](https://github.com/Bribak/DeepConnection)
-6. DeepConnection [Github](https://github.com/Bribak/DeepConnection)
-6. DeepConnection [Github](https://github.com/Bribak/DeepConnection)
-6. DeepConnection [Github](https://github.com/Bribak/DeepConnection)
+10. wxpy [Github](https://github.com/youfou/wxpy)
+11. NeteaseCloudMusicFlac [Github](https://github.com/YongHaoWu/NeteaseCloudMusicFlac)
