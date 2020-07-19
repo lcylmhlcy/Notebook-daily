@@ -9,7 +9,6 @@
 8. tensorwatch [Github](https://github.com/microsoft/tensorwatch)
 9. visdat [Github](https://github.com/ropensci/visdat)
 
-
 ---
 
 ## meetings
@@ -18,6 +17,7 @@
 3. Awesome-CVPR-Paper [Github](https://github.com/Sophia-11/Awesome-CVPR-Paper)
 4. CVPR2019-Code [Github](https://github.com/amusi/CVPR2019-Code)
 5. CVPR2020-Paper-Code-Interpretation [Github](https://github.com/extreme-assistant/CVPR2020-Paper-Code-Interpretation)
+6. AAAI-19_slide_poster [Github](https://github.com/zhiyuanhubj/AAAI-19_slide_poster)
 
 ---
 
@@ -54,6 +54,16 @@
 30. openpose [Github](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 31. learnopencv [Github](https://github.com/spmallick/learnopencv)
 32. libfacedetection [Github](https://github.com/ShiqiYu/libfacedetection)
+33. comixify [Github](https://github.com/maciej3031/comixify)
+34. pytorch-ssd [Github](https://github.com/qfgaohao/pytorch-ssd)
+35. kornia [Github](https://github.com/kornia/kornia)
+36. AlphaPose [Github](https://github.com/MVIG-SJTU/AlphaPose)
+37. alpr-unconstrained [Github](https://github.com/sergiomsilva/alpr-unconstrained)
+38. maskrcnn-benchmark [Github](https://github.com/facebookresearch/maskrcnn-benchmark)
+39. mmcv [Github](https://github.com/open-mmlab/mmcv)
+40. faceswap [Github](https://github.com/deepfakes/faceswap)
+41. gluon-cv [Github](https://github.com/dmlc/gluon-cv)
+42. labelImg [Github](https://github.com/tzutalin/labelImg)
 
 ---
 
@@ -62,15 +72,6 @@
 2. albert_zh [Github](https://github.com/brightmart/albert_zh)
 3. GPT2-Chinese [Github](https://github.com/Morizeyao/GPT2-Chinese)
 4. weibo_spider [Github](https://github.com/python3xxx/weibo_spider)
-
----
-
-## competition
-1. CVWC2019-Amur-Tiger-Re-ID [Github](https://github.com/LcenArthas/CVWC2019-Amur-Tiger-Re-ID)
-2. Pedestrian-Detection [Github](https://github.com/xingkongliang/Pedestrian-Detection)
-3. icme2019-bytedance-grand-challenge  [Github](https://github.com/JiDong-CS/icme2019-bytedance-grand-challenge)
-4. AI-Challenger-Retinal-Edema-Segmentation [Github](https://github.com/ShawnBIT/AI-Challenger-Retinal-Edema-Segmentation)
-5. subway_analysis [Github](https://github.com/Tobby-star/subway_analysis)
 
 ---
 
@@ -112,6 +113,11 @@
 35. knockknock [Github](https://github.com/huggingface/knockknock)
 36. MMdnn [Github](https://github.com/microsoft/MMdnn)
 37. **pytorch_geometric [Github](https://github.com/rusty1s/pytorch_geometric)**
+38. **ignite [Github](https://github.com/pytorch/ignite)**
+39. apex [Github](https://github.com/NVIDIA/apex)
+40. skorch [Github](https://github.com/skorch-dev/skorch)
+41. torchgan [Github](https://github.com/torchgan/torchgan)
+42. DeepLearningExamples [Github](https://github.com/NVIDIA/DeepLearningExamples)
 
 ---
 
@@ -138,6 +144,35 @@
 20. deep-learning [Github](https://github.com/ChristosChristofidis/awesome-deep-learning)
 21. deep-text-detection-recognition [Github](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
 22. CV-arXiv-Daily [Github](https://github.com/zhengzhugithub/CV-arXiv-Daily)
+23. lane-detection [Github](https://github.com/amusi/awesome-lane-detection)
+22. human-pose-estimation [Github](https://github.com/cbsudux/awesome-human-pose-estimation)
+23. deep-learning-papers [Github](https://github.com/terryum/awesome-deep-learning-papers)
+24. action-recognition [Github](https://github.com/jinwchoi/awesome-action-recognition)
+25. image-captioning [Github](https://github.com/zhjohnchan/awesome-image-captioning)
+26. Vehicle_reID [Github](https://github.com/layumi/Vehicle_reID-Collection)
+27. daily-paper-computer-vision [Github](https://github.com/amusi/daily-paper-computer-vision)
+28. Crowd-Counting [Github](https://github.com/gjy3035/Awesome-Crowd-Counting)
+29. object-detection [Github](https://github.com/amusi/awesome-object-detection)
+30. semantic-segmentation [Github](https://github.com/mrgloom/awesome-semantic-segmentation)
+31. deep-learning-roadmap [Github](https://github.com/machinelearningmindset/deep-learning-roadmap)
+32. image-classification [Github](https://github.com/weiaicunzai/awesome-image-classification)
+33. Face_Recognition [Github](https://github.com/ChanChiChoi/awesome-Face_Recognition)
+34. NAS [Github](https://github.com/D-X-Y/Awesome-NAS)
+
+---
+
+## competition
+1. CVWC2019-Amur-Tiger-Re-ID [Github](https://github.com/LcenArthas/CVWC2019-Amur-Tiger-Re-ID)
+2. Pedestrian-Detection [Github](https://github.com/xingkongliang/Pedestrian-Detection)
+3. icme2019-bytedance-grand-challenge  [Github](https://github.com/JiDong-CS/icme2019-bytedance-grand-challenge)
+4. AI-Challenger-Retinal-Edema-Segmentation [Github](https://github.com/ShawnBIT/AI-Challenger-Retinal-Edema-Segmentation)
+5. subway_analysis [Github](https://github.com/Tobby-star/subway_analysis)
+6. kaggle-airbus-ship-detection [Github](https://github.com/davidtvs/kaggle-airbus-ship-detection)
+7. pytorch-saltnet [Github](https://github.com/tugstugi/pytorch-saltnet)
+8. kaggle_tgs_salt_identification_challenge [Github](https://github.com/jamesdellinger/kaggle_tgs_salt_identification_challenge)
+9. kaggle_airbus_ship_detection [Github](https://github.com/pascal1129/kaggle_airbus_ship_detection)
+10. Satellite-Segmentation [Github](https://github.com/AstarLight/Satellite-Segmentation)
+11. satellite_seg [Github](https://github.com/Jiangfeng-Xiong/satellite_seg)
 
 ---
 
@@ -153,3 +188,4 @@
 9. Remu [Github](https://github.com/zenghongtu/Remu)
 10. wxpy [Github](https://github.com/youfou/wxpy)
 11. NeteaseCloudMusicFlac [Github](https://github.com/YongHaoWu/NeteaseCloudMusicFlac)
+12. 12306 [Github](https://github.com/testerSunshine/12306)
