@@ -64,6 +64,7 @@
 40. faceswap [Github](https://github.com/deepfakes/faceswap)
 41. gluon-cv [Github](https://github.com/dmlc/gluon-cv)
 42. labelImg [Github](https://github.com/tzutalin/labelImg)
+42. microsoft computervision-recipes [Github](https://github.com/microsoft/computervision-recipes)
 
 ---
 
@@ -173,6 +174,18 @@
 9. kaggle_airbus_ship_detection [Github](https://github.com/pascal1129/kaggle_airbus_ship_detection)
 10. Satellite-Segmentation [Github](https://github.com/AstarLight/Satellite-Segmentation)
 11. satellite_seg [Github](https://github.com/Jiangfeng-Xiong/satellite_seg)
+
+---
+
+## Blog
+1. [深度学习调参有哪些技巧？](https://www.zhihu.com/question/25097993)
+2. [物体检测和分割轻松上手：从detectron2开始（合篇）](https://mp.weixin.qq.com/s?__biz=MzUyMjE2MTE0Mw==&mid=2247491348&idx=2&sn=6b045db35d23dacfa8616e7537aa859b&chksm=f9d1418ccea6c89aa3719bd500e425022bf9f6744ebb660e5629a1b2bf64f9246860635b21f0&mpshare=1&scene=24&srcid=0826PQQHQfg2JCfFf7g5lU7B&sharer_sharetime=1598400273963&sharer_shareid=bb7ccc9815659f0ecf35d36a8d679bb6#rd)
+3. [高效 PyTorch：6个Tips，为训练管道加涡轮增压](https://zhuanlan.zhihu.com/p/194303854)
+4. [2020年算法工程师技术路线图](https://zhuanlan.zhihu.com/p/192633890)
+5. [如何配置一台深度学习工作站?](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247504997&idx=4&sn=79a11fe041b98f3c7b1d1dd78a6d66e6&chksm=ec1c399cdb6bb08aa718df04f0011cbed22653d33fbec567880ffa4487cbb49e65e3f3b328d5&mpshare=1&scene=24&srcid=0821igYAeUKEmxFkBLPg3nRp&sharer_sharetime=1598020087660&sharer_shareid=bb7ccc9815659f0ecf35d36a8d679bb6#rd)
+6. [基于web端和C++的两种深度学习模型部署方式](https://mp.weixin.qq.com/s?__biz=MzI4ODY2NjYzMQ==&mid=2247488048&idx=1&sn=7e4d0a7a5bdd9b94a4f8624ca6daab02&chksm=ec3bb758db4c3e4e326805ff098e8b0bd1988384bfdd4cf630a20ed9ab231f03c933256194a0&mpshare=1&scene=24&srcid=0817Y5EcMAXcel2xTs4qWopt&sharer_sharetime=1597664824794&sharer_shareid=bb7ccc9815659f0ecf35d36a8d679bb6#rd)
+7. [PyTorch Trick集锦](https://zhuanlan.zhihu.com/p/76459295)
+8. [万字综述，核心开发者全面解读PyTorch内部机制](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247525436&idx=2&sn=c84be5de37580e84dd020e996d7808a1&chksm=e873b571df043c673acf92cf30dcfb2e49eddee99693dbe7ecc215c9a200a721da4e96ec0237&mpshare=1&scene=24&srcid=0808tf94PtxH7TFESSeVDLGs&sharer_sharetime=1596892706079&sharer_shareid=bb7ccc9815659f0ecf35d36a8d679bb6#rd)
 
 ---
 
