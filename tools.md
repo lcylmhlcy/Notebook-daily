@@ -64,7 +64,8 @@
 40. faceswap [Github](https://github.com/deepfakes/faceswap)
 41. gluon-cv [Github](https://github.com/dmlc/gluon-cv)
 42. labelImg [Github](https://github.com/tzutalin/labelImg)
-42. microsoft computervision-recipes [Github](https://github.com/microsoft/computervision-recipes)
+43. microsoft computervision-recipes [Github](https://github.com/microsoft/computervision-recipes)
+44. M3d-CAM [Github](https://github.com/MECLabTUDA/M3d-Cam)
 
 ---
 
@@ -186,6 +187,11 @@
 6. [基于web端和C++的两种深度学习模型部署方式](https://mp.weixin.qq.com/s?__biz=MzI4ODY2NjYzMQ==&mid=2247488048&idx=1&sn=7e4d0a7a5bdd9b94a4f8624ca6daab02&chksm=ec3bb758db4c3e4e326805ff098e8b0bd1988384bfdd4cf630a20ed9ab231f03c933256194a0&mpshare=1&scene=24&srcid=0817Y5EcMAXcel2xTs4qWopt&sharer_sharetime=1597664824794&sharer_shareid=bb7ccc9815659f0ecf35d36a8d679bb6#rd)
 7. [PyTorch Trick集锦](https://zhuanlan.zhihu.com/p/76459295)
 8. [万字综述，核心开发者全面解读PyTorch内部机制](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247525436&idx=2&sn=c84be5de37580e84dd020e996d7808a1&chksm=e873b571df043c673acf92cf30dcfb2e49eddee99693dbe7ecc215c9a200a721da4e96ec0237&mpshare=1&scene=24&srcid=0808tf94PtxH7TFESSeVDLGs&sharer_sharetime=1596892706079&sharer_shareid=bb7ccc9815659f0ecf35d36a8d679bb6#rd)
+9. [Graph-Bert阅读笔记](https://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247486997&idx=1&sn=efa36fae209a9cf748fe4b60d32a4f28&chksm=97aee8c7a0d961d186c7b423291a02af4222d4a65b2f42d9d2e97cfb8be4bcb2947603bbbb57&mpshare=1&scene=24&srcid=0817ELJmqgdJxqFJbVA2sgD9&sharer_sharetime=1597664705499&sharer_shareid=bb7ccc9815659f0ecf35d36a8d679bb6#rd)
+10. [顶会最佳论文奖得主：初入科研领域，如何正确做科研？](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247489757&idx=1&sn=c961bfcd97c46ed64f1c5244795de171&chksm=febf5b19c9c8d20f1d7dea99c055126faa5717770f26be75e7f5295f98032d94acce795fb302&mpshare=1&scene=24&srcid=0806JkGg2XxNsLomd3iT15Pz&sharer_sharetime=1596714435727&sharer_shareid=bb7ccc9815659f0ecf35d36a8d679bb6#rd)
+11. [轻松学 Pytorch–Visdom 可视化](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247503065&idx=4&sn=8c4f3766e4426c6f22e8385a6ea9c3b0&chksm=976c6944a01be05213d9c58af609177d32dc1ca5f2f844213f75faf419484d48df5ee1960fb9&mpshare=1&scene=24&srcid=07215teuOaofHZqsWqbjtJpW&sharer_sharetime=1595297504480&sharer_shareid=bb7ccc9815659f0ecf35d36a8d679bb6#rd)
+12. [高性能 PyTorch—消除 I/O 和 CPU 瓶颈](https://mp.weixin.qq.com/s?__biz=MzI2MTAzOTE5OQ==&mid=2247486983&idx=7&sn=062e4349199e8e9c1e3bfe8fda7af5d0&chksm=ea613b37dd16b221bb991e7c3a27f9d9663193a1c1657811b3432a9249ffecb029ed395cf587&mpshare=1&scene=24&srcid=0718IjdKuSA2TCHOtGyAhbrZ&sharer_sharetime=1595027718757&sharer_shareid=bb7ccc9815659f0ecf35d36a8d679bb6#rd)
+13. [How to Publish Paper in Top Journal？](https://zhuanlan.zhihu.com/p/97904667)
 
 ---
 
