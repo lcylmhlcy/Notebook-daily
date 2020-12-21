@@ -1,3 +1,11 @@
+# Top Conferences and Journals for Multi-modal
+1. Vision[C]: CVPR, ICCV, ECCV
+1. AI[C]: NIPS, AAAI, ICASSP, IJCAI
+1. Multimedia[C]: ACMMM, ICME
+1. Vision[J]: TPAMI, TIP, IJCV, PR
+1. Multimedia[J]: TMM
+
+
 # Grounding Relations / Referring Relations
 
 1. [Referring relationships](https://arxiv.org/pdf/1803.10362.pdf), CVPR 2018. [[Code]](https://github.com/StanfordVL/ReferringRelationships) [[Website]](https://cs.stanford.edu/people/ranjaykrishna/referringrelationships/index.html)
