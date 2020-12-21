@@ -207,8 +207,8 @@ ConvNet (SCRC)* [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_
 ---
 
 # References
-[1] https://github.com/pliang279/awesome-multimodal-ml#multimodal-fusion
-[2] https://github.com/Eurus-Holmes/Awesome-Multimodal-Research
-[3] https://github.com/TheShadow29/awesome-grounding
-[4] https://github.com/iworldtong/Awesome-Temporal-Sentence-Grounding-in-Videos
-[5] https://github.com/WuJie1010/Temporally-language-grounding
+1. https://github.com/pliang279/awesome-multimodal-ml#multimodal-fusion
+1. https://github.com/Eurus-Holmes/Awesome-Multimodal-Research
+1. https://github.com/TheShadow29/awesome-grounding
+1. https://github.com/iworldtong/Awesome-Temporal-Sentence-Grounding-in-Videos
+1. https://github.com/WuJie1010/Temporally-language-grounding
