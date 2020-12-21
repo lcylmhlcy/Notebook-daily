@@ -5,6 +5,21 @@
 1. Vision[J]: TPAMI, TIP, IJCV, PR
 1. Multimedia[J]: TMM
 
+---
+
+# Survey
+
+1. [Referring Expression Comprehension: A Survey of Methods and Datasets](https://arxiv.org/abs/2007.09554), Arxiv 2020.
+
+1. [Visual question answering: A survey of methods and datasets](https://www.sciencedirect.com/science/article/pii/S1077314217300772), CVIU 2017.
+
+---
+
+# Don't Know
+
+1. [Grounding Visual Explanations](https://link.springer.com/chapter/10.1007/978-3-030-01216-8_17), ECCV 2018.
+
+---
 
 # Grounding Relations / Referring Relations
 
