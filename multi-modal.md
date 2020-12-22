@@ -55,23 +55,17 @@
 
 1. [Grounded Language Learning Fast and Slow](https://arxiv.org/abs/2009.01719), arXiv 2020
 
-1. [What Does BERT with Vision Look At?](https://www.aclweb.org/anthology/2020.acl-main.469/), ACL 2020
-
 1. [VIOLIN: A Large-Scale Dataset for Video-and-Language Inference](https://arxiv.org/abs/2003.11618), CVPR 2020 [[code]](https://github.com/jimmy646/violin)
 
 1. [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/abs/1811.10652), CVPR 2019
 
 1. [Multilevel Language and Vision Integration for Text-to-Clip Retrieval](https://arxiv.org/abs/1804.05113), AAAI 2019 [[code]](https://github.com/VisionLearningGroup/Text-to-Clip_Retrieval)
 
-1. [Binary Image Selection (BISON): Interpretable Evaluation of Visual Grounding](https://arxiv.org/abs/1901.06595), arXiv 2019 [[code]](https://github.com/facebookresearch/binary-image-selection)
-
 1. [Finding “It”: Weakly-Supervised Reference-Aware Visual Grounding in Instructional Videos](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.pdf), CVPR 2018
 
 1. [Grounding Visual Explanations](https://link.springer.com/chapter/10.1007/978-3-030-01216-8_17), ECCV 2018.
 
 1. [Gated-Attention Architectures for Task-Oriented Language Grounding](https://arxiv.org/abs/1706.07230), AAAI 2018 [[code]](https://github.com/devendrachaplot/DeepRL-Grounding)
-
-1. [Using Syntax to Ground Referring Expressions in Natural Images](https://arxiv.org/abs/1805.10547), AAAI 2018 [[code]](https://github.com/volkancirik/groundnet)
 
 1. [Grounding language acquisition by training semantic parsers using captioned videos](https://cbmm.mit.edu/sites/default/files/publications/Ross-et-al_ACL2018_Grounding%20language%20acquisition%20by%20training%20semantic%20parsing%20using%20caption%20videos.pdf), ACL 2018
 
@@ -149,6 +143,8 @@
 
 1. [Conditional image-text embedding networks](https://arxiv.org/pdf/1711.08389.pdf), ECCV 2018. [[Code]](https://github.com/BryanPlummer/cite)
 
+1. [Using Syntax to Ground Referring Expressions in Natural Images](https://arxiv.org/abs/1805.10547), AAAI 2018 [[code]](https://github.com/volkancirik/groundnet)
+
 1. [Multi-level Multimodal Common Semantic Space for Image-Phrase Grounding](https://arxiv.org/pdf/1811.11683v1.pdf), Arxiv 2018.
 
 1. [PIRC Net: Using Proposal Indexing, Relationships and Context for Phrase Grounding](https://arxiv.org/pdf/1812.03213v1.pdf), Arxiv 2018.
@@ -202,6 +198,10 @@
 1. [Transferrable Referring Expression Grounding with Concept Transfer and Context Inheritance](https://dl.acm.org/doi/abs/10.1145/3394171.3413677), ACMMM 2020
 
 1. [Bi-Directional Relationship Inferring Network for Referring Image Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/html/Hu_Bi-Directional_Relationship_Inferring_Network_for_Referring_Image_Segmentation_CVPR_2020_paper.html), CVPR 2020.
+
+1. [What Does BERT with Vision Look At?](https://www.aclweb.org/anthology/2020.acl-main.469/), ACL 2020
+
+1. [Binary Image Selection (BISON): Interpretable Evaluation of Visual Grounding](https://arxiv.org/abs/1901.06595), arXiv 2019 [[code]](https://github.com/facebookresearch/binary-image-selection)
 
 ---
 
