@@ -201,6 +201,8 @@
 
 1. [Transferrable Referring Expression Grounding with Concept Transfer and Context Inheritance](https://dl.acm.org/doi/abs/10.1145/3394171.3413677), ACMMM 2020
 
+1. [Bi-Directional Relationship Inferring Network for Referring Image Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/html/Hu_Bi-Directional_Relationship_Inferring_Network_for_Referring_Image_Segmentation_CVPR_2020_paper.html), CVPR 2020.
+
 ---
 
 # References
