@@ -107,6 +107,10 @@
 
 1. [Visual Grounding via Accumulated Attention](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_Visual_Grounding_via_CVPR_2018_paper.pdf), CVPR 2018.
 
+1. [Knowledge Aided Consistency for Weakly Supervised Phrase Grounding](https://openaccess.thecvf.com/content_cvpr_2018/html/Chen_Knowledge_Aided_Consistency_CVPR_2018_paper.html), CVPR 2018.
+
+1. [Weakly Supervised Phrase Localization With Multi-Scale Anchored Transformer Network](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhao_Weakly_Supervised_Phrase_CVPR_2018_paper.html), CVPR 2018.
+
 1. [Referring image segmentation via recurrent refinement networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Referring_Image_Segmentation_CVPR_2018_paper.pdf), CVPR 2018. [[Code]](https://github.com/liruiyu/referseg_rrn)
 
 1. [Grounding referring expressions in images by variational context](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Grounding_Referring_Expressions_CVPR_2018_paper.pdf), CVPR 2018. [[Code]](https://github.com/yuleiniu/vc/)
@@ -180,6 +184,8 @@
 1. [Transferrable Referring Expression Grounding with Concept Transfer and Context Inheritance](https://dl.acm.org/doi/abs/10.1145/3394171.3413677), ACMMM 2020
 
 1. [Bi-Directional Relationship Inferring Network for Referring Image Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/html/Hu_Bi-Directional_Relationship_Inferring_Network_for_Referring_Image_Segmentation_CVPR_2020_paper.html), CVPR 2020.
+
+1. [A Real-Time Cross-Modality Correlation Filtering Method for Referring Expression Comprehension](https://openaccess.thecvf.com/content_CVPR_2020/html/Liao_A_Real-Time_Cross-Modality_Correlation_Filtering_Method_for_Referring_Expression_Comprehension_CVPR_2020_paper.html), CVPR 2020.
 
 1. [What Does BERT with Vision Look At?](https://www.aclweb.org/anthology/2020.acl-main.469/), ACL 2020
 
