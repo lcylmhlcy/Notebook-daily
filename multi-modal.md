@@ -153,6 +153,8 @@
 
 1. [Neighbourhood Watch: Referring Expression Comprehension via Language-guided Graph Attention Networks](https://arxiv.org/pdf/1812.04794.pdf), Arxiv 2018.
 
+1. [Visual Referring Expression Recognition: What Do Systems Actually Learn?](https://arxiv.org/abs/1805.11818), NAACL 2018 short.
+
 1. [You Only Look & Listen Once: Towards Fast and Accurate Visual Grounding](https://arxiv.org/pdf/1902.04213.pdf), Arxiv 2019.
 
 1. [Learning to Compose and Reason with Language Tree Structures for Visual Grounding](https://arxiv.org/pdf/1906.01784.pdf), TPAMI 2019.
