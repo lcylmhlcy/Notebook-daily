@@ -171,13 +171,15 @@
 
 1. [Phrase Grounding by Soft-Label Chain Conditional Random Field](https://arxiv.org/pdf/1909.00301.pdf), EMNLP 2019. [[Code]](https://github.com/liujch1998/SoftLabelCCRF)
 
+1. [Binary Image Selection (BISON): Interpretable Evaluation of Visual Grounding](https://arxiv.org/abs/1901.06595), arXiv 2019 [[code]](https://github.com/facebookresearch/binary-image-selection)
+
 1. [Learning Cross-modal Context Graph for Visual Grounding](https://arxiv.org/pdf/1911.09042.pdf), AAAI 2020. [[Code]](https://github.com/youngfly11/LCMCG-PyTorch)
 
 1. [Visual-Semantic Graph Matching for Visual Grounding](https://dl.acm.org/doi/abs/10.1145/3394171.3413902), ACMMM 2020
 
 1. [Language-Aware Fine-Grained Object Representation for Referring Expression Comprehension](https://dl.acm.org/doi/abs/10.1145/3394171.3413850), ACMMM 2020
 
-1. [Give Me Something to Eat: Referring Expression Comprehension with Commonsense Knowledge](https://arxiv.org/abs/2006.01629), ADMMM 2020
+1. [Give Me Something to Eat: Referring Expression Comprehension with Commonsense Knowledge](https://arxiv.org/abs/2006.01629), ACMMM 2020
 
 1. [Cascade Grouped Attention Network for Referring Expression Segmentation](https://dl.acm.org/doi/abs/10.1145/3394171.3414006), ACMMM 2020
 
@@ -188,8 +190,6 @@
 1. [A Real-Time Cross-Modality Correlation Filtering Method for Referring Expression Comprehension](https://openaccess.thecvf.com/content_CVPR_2020/html/Liao_A_Real-Time_Cross-Modality_Correlation_Filtering_Method_for_Referring_Expression_Comprehension_CVPR_2020_paper.html), CVPR 2020.
 
 1. [What Does BERT with Vision Look At?](https://www.aclweb.org/anthology/2020.acl-main.469/), ACL 2020
-
-1. [Binary Image Selection (BISON): Interpretable Evaluation of Visual Grounding](https://arxiv.org/abs/1901.06595), arXiv 2019 [[code]](https://github.com/facebookresearch/binary-image-selection)
 
 ---
 
