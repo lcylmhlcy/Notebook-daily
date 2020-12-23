@@ -29,6 +29,8 @@
 1. [Revisiting Visual Grounding](https://arxiv.org/pdf/1904.02225.pdf), Arvix 2019
 	- Critique of Referring Relationship paper
 
+1. [Visual Referring Expression Recognition: What Do Systems Actually Learn?](https://arxiv.org/abs/1805.11818), NAACL 2018 short.
+	- Critique of Visual Grounding paper
 ---
 
 # Multimodal Fusion
@@ -48,28 +50,6 @@
 1. [Tensor Fusion Network for Multimodal Sentiment Analysis](https://arxiv.org/abs/1707.07250), EMNLP 2017 [[code]](https://github.com/A2Zadeh/TensorFusionNetwork)
 
 1. [Jointly Modeling Deep Video and Compositional Text to Bridge Vision and Language in a Unified Framework](http://web.eecs.umich.edu/~jjcorso/pubs/xu_corso_AAAI2015_v2t.pdf), AAAI 2015
-
----
-
-# Related - VG (image)
-
-1. [Grounded Language Learning Fast and Slow](https://arxiv.org/abs/2009.01719), arXiv 2020
-
-1. [VIOLIN: A Large-Scale Dataset for Video-and-Language Inference](https://arxiv.org/abs/2003.11618), CVPR 2020 [[code]](https://github.com/jimmy646/violin)
-
-1. [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/abs/1811.10652), CVPR 2019
-
-1. [Multilevel Language and Vision Integration for Text-to-Clip Retrieval](https://arxiv.org/abs/1804.05113), AAAI 2019 [[code]](https://github.com/VisionLearningGroup/Text-to-Clip_Retrieval)
-
-1. [Finding “It”: Weakly-Supervised Reference-Aware Visual Grounding in Instructional Videos](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.pdf), CVPR 2018
-
-1. [Grounding Visual Explanations](https://link.springer.com/chapter/10.1007/978-3-030-01216-8_17), ECCV 2018.
-
-1. [Gated-Attention Architectures for Task-Oriented Language Grounding](https://arxiv.org/abs/1706.07230), AAAI 2018 [[code]](https://github.com/devendrachaplot/DeepRL-Grounding)
-
-1. [Grounding language acquisition by training semantic parsers using captioned videos](https://cbmm.mit.edu/sites/default/files/publications/Ross-et-al_ACL2018_Grounding%20language%20acquisition%20by%20training%20semantic%20parsing%20using%20caption%20videos.pdf), ACL 2018
-
-1. [Interpretable and Globally Optimal Prediction for Textual Grounding using Image Concepts](https://arxiv.org/abs/1803.11209), NeurIPS 2017
 
 ---
 
@@ -204,6 +184,28 @@
 1. [What Does BERT with Vision Look At?](https://www.aclweb.org/anthology/2020.acl-main.469/), ACL 2020
 
 1. [Binary Image Selection (BISON): Interpretable Evaluation of Visual Grounding](https://arxiv.org/abs/1901.06595), arXiv 2019 [[code]](https://github.com/facebookresearch/binary-image-selection)
+
+---
+
+# Related - VG (image)
+
+1. [Grounded Language Learning Fast and Slow](https://arxiv.org/abs/2009.01719), arXiv 2020
+
+1. [VIOLIN: A Large-Scale Dataset for Video-and-Language Inference](https://arxiv.org/abs/2003.11618), CVPR 2020 [[code]](https://github.com/jimmy646/violin)
+
+1. [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/abs/1811.10652), CVPR 2019
+
+1. [Multilevel Language and Vision Integration for Text-to-Clip Retrieval](https://arxiv.org/abs/1804.05113), AAAI 2019 [[code]](https://github.com/VisionLearningGroup/Text-to-Clip_Retrieval)
+
+1. [Finding “It”: Weakly-Supervised Reference-Aware Visual Grounding in Instructional Videos](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.pdf), CVPR 2018
+
+1. [Grounding Visual Explanations](https://link.springer.com/chapter/10.1007/978-3-030-01216-8_17), ECCV 2018.
+
+1. [Gated-Attention Architectures for Task-Oriented Language Grounding](https://arxiv.org/abs/1706.07230), AAAI 2018 [[code]](https://github.com/devendrachaplot/DeepRL-Grounding)
+
+1. [Grounding language acquisition by training semantic parsers using captioned videos](https://cbmm.mit.edu/sites/default/files/publications/Ross-et-al_ACL2018_Grounding%20language%20acquisition%20by%20training%20semantic%20parsing%20using%20caption%20videos.pdf), ACL 2018
+
+1. [Interpretable and Globally Optimal Prediction for Textual Grounding using Image Concepts](https://arxiv.org/abs/1803.11209), NeurIPS 2017
 
 ---
 
