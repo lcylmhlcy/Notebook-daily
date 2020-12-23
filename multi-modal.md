@@ -11,6 +11,10 @@
 
 1. [Referring Expression Comprehension: A Survey of Methods and Datasets](https://arxiv.org/abs/2007.09554), Arxiv 2020.
 
+1. [Survey on Deep Multi-modal Data Analytics: Collaboration, Rivalry and Fusion](https://arxiv.org/abs/2006.08159), arxiv 2020.
+
+1. [A survey on multi-modal social event detection](https://www.sciencedirect.com/science/article/pii/S0950705120301271), Knowledge-Based Systems 2020
+
 1. [Visual question answering: A survey of methods and datasets](https://www.sciencedirect.com/science/article/pii/S1077314217300772), CVIU 2017.
 
 ---
@@ -20,7 +24,7 @@
 
 1. [Referring relationships](https://arxiv.org/pdf/1803.10362.pdf), CVPR 2018. [[Code]](https://github.com/StanfordVL/ReferringRelationships) [[Website]](https://cs.stanford.edu/people/ranjaykrishna/referringrelationships/index.html)
 
-1. [Differentiable Scene Graphs](https://arxiv.org/pdf/1902.10200.pdf), 2019
+1. [Differentiable Scene Graphs](https://arxiv.org/pdf/1902.10200.pdf), arxiv 2019
 
 1. [CPARR: Category-based Proposal Analysis for Referring Relationships](https://openaccess.thecvf.com/content_CVPRW_2020/html/w56/He_CPARR_Category-Based_Proposal_Analysis_for_Referring_Relationships_CVPRW_2020_paper.html), CVPR 2020 Workshop
 
