@@ -199,6 +199,8 @@
 
 # Related - VG (image)
 
+1. [Chain of Reasoning for Visual Question Answering](https://proceedings.neurips.cc/paper/2018/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf), NPIS 2018.
+
 1. [Grounded Language Learning Fast and Slow](https://arxiv.org/abs/2009.01719), arXiv 2020
 
 1. [VIOLIN: A Large-Scale Dataset for Video-and-Language Inference](https://arxiv.org/abs/2003.11618), CVPR 2020 [[code]](https://github.com/jimmy646/violin)
