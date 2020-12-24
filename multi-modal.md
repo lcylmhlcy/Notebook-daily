@@ -199,6 +199,10 @@
 
 # Related - VG (image)
 
+1. [MUREL: Multimodal Relational Reasoning for Visual Question Answering](https://openaccess.thecvf.com/content_CVPR_2019/html/Cadene_MUREL_Multimodal_Relational_Reasoning_for_Visual_Question_Answering_CVPR_2019_paper.html), CVPR 2019. [[Pytorch code]](https://github.com/Cadene/murel.bootstrap.pytorch)
+
+1. [Transparency by Design: Closing the Gap Between Performance and Interpretability in Visual Reasoning](https://openaccess.thecvf.com/content_cvpr_2018/html/Mascharka_Transparency_by_Design_CVPR_2018_paper.html), CVPR 2018.
+
 1. [Chain of Reasoning for Visual Question Answering](https://proceedings.neurips.cc/paper/2018/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf), NPIS 2018.
 
 1. [Grounded Language Learning Fast and Slow](https://arxiv.org/abs/2009.01719), arXiv 2020
