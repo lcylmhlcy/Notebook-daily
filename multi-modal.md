@@ -201,6 +201,10 @@
 
 # Related - VG (image)
 
+1. [Detecting Visual Relationships with Deep Relational Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8099835), CVPR 2017.
+
+1. [Visual Relationships as Functions: Enabling Few-Shot Scene Graph Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9022385), ICCVW 2019.
+
 1. [Language-Conditioned Graph Networks for Relational Reasoning](https://arxiv.org/pdf/1905.04405.pdf), ICCV 2019.
 
 1. [MUREL: Multimodal Relational Reasoning for Visual Question Answering](https://openaccess.thecvf.com/content_CVPR_2019/html/Cadene_MUREL_Multimodal_Relational_Reasoning_for_Visual_Question_Answering_CVPR_2019_paper.html), CVPR 2019. [[Pytorch code]](https://github.com/Cadene/murel.bootstrap.pytorch)
