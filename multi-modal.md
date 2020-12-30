@@ -201,6 +201,8 @@
 
 # Related - VG (image)
 
+1. [Hierarchical Relational Inference](https://arxiv.org/pdf/2010.03635.pdf), AAAI 2021.
+
 1. [Globetrotter: Unsupervised Multilingual Translation from Visual Alignment](https://arxiv.org/pdf/2012.04631.pdf), Arxiv 2020. [[Code]](https://github.com/cvlab-columbia/globetrotter)
 
 1. [Detecting Visual Relationships with Deep Relational Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8099835), CVPR 2017.
