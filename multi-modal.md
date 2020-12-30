@@ -201,6 +201,8 @@
 
 # Related - VG (image)
 
+1. [Globetrotter: Unsupervised Multilingual Translation from Visual Alignment](https://arxiv.org/pdf/2012.04631.pdf), Arxiv 2020. [[Code]](https://github.com/cvlab-columbia/globetrotter)
+
 1. [Detecting Visual Relationships with Deep Relational Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8099835), CVPR 2017.
 
 1. [Visual Relationships as Functions: Enabling Few-Shot Scene Graph Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9022385), ICCVW 2019.
