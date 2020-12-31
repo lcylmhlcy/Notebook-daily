@@ -43,7 +43,7 @@
 
 1. [CAN: Revisiting Feature Co-Action for Click-Through Rate Prediction](https://arxiv.org/pdf/2011.05625.pdf), Arxiv 2020. Alibaba.
 
-1. [Deep Multimodal Fusion by Channel Exchanging](https://proceedings.neurips.cc/paper/2020/file/339a18def9898dd60a634b2ad8fbbd58-Paper.pdf), AAAI 2020. [[code]](https://github.com/yikaiw/CEN)
+1. [Deep Multimodal Fusion by Channel Exchanging](https://proceedings.neurips.cc/paper/2020/file/339a18def9898dd60a634b2ad8fbbd58-Paper.pdf), NIPS 2020. [[code]](https://github.com/yikaiw/CEN)
 
 1. [Dynamic Fusion for Multimodal Data](https://arxiv.org/abs/1911.03821), arXiv 2019
 
