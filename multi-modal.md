@@ -17,6 +17,8 @@
 
 1. [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/pdf/1907.09358.pdf), Arxiv 2020. 127 Pages.
 
+1. [Multimodal Machine Learning: A Survey and Taxonomy](https://arxiv.org/pdf/1705.09406.pdf), TPAMI 2018.
+
 1. [Visual question answering: A survey of methods and datasets](https://www.sciencedirect.com/science/article/pii/S1077314217300772), CVIU 2017.
 
 ---
@@ -32,14 +34,15 @@
 
 1. [Learning latent scene-graph representations for referring relationships](https://www.researchgate.net/profile/Roei_Herzig/publication/331397250_Differentiable_Scene_Graphs/links/5c7d2e43458515831f826ad5/Differentiable-Scene-Graphs.pdf), Arxiv 2019
 
-1. [Revisiting Visual Grounding](https://arxiv.org/pdf/1904.02225.pdf), Arvix 2019
-	- Critique of Referring Relationship paper
+2. [Revisiting Visual Grounding](https://arxiv.org/pdf/1904.02225.pdf), Arvix 2019. **Critique of Referring Relationship paper**
 
-1. [Visual Referring Expression Recognition: What Do Systems Actually Learn?](https://arxiv.org/abs/1805.11818), NAACL 2018 short.
-	- Critique of Visual Grounding paper
+3. [Visual Referring Expression Recognition: What Do Systems Actually Learn?](https://arxiv.org/abs/1805.11818), NAACL 2018 short. **Critique of Visual Grounding paper**
+
 ---
 
 # Multimodal Fusion
+
+1. [Learning Deep Multimodal Feature Representation with Asymmetric Multi-layer Fusion](https://dl.acm.org/doi/pdf/10.1145/3394171.3413621), ACMMM 2020.
 
 1. [CAN: Revisiting Feature Co-Action for Click-Through Rate Prediction](https://arxiv.org/pdf/2011.05625.pdf), Arxiv 2020. Alibaba.
 
@@ -102,6 +105,8 @@
 1. [Interpretable and Globally Optimal Prediction for Textual Grounding using Image Concepts](https://arxiv.org/abs/1803.11209), NeurIPS 2017
 
 1. [Detecting Visual Relationships with Deep Relational Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8099835), CVPR 2017.
+
+1. [Modulating early visual processing by language](https://papers.nips.cc/paper/2017/file/6fab6e3aa34248ec1e34a4aeedecddc8-Paper.pdf), NIPS 2017.
 
 ---
 
