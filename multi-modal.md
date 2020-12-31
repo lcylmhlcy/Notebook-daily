@@ -1,9 +1,11 @@
 # Top Conferences and Journals for Multi-modal
+**Image Captioning, Visual Grounding/Referring expression comprehension, VQA, Visual Reasoning**
 1. Vision[C]: CVPR, ICCV, ECCV
 1. AI[C]: NIPS, AAAI, ICASSP, IJCAI
 1. Multimedia[C]: ACMMM, ICME
 1. Vision[J]: TPAMI, TIP, IJCV, PR
 1. Multimedia[J]: TMM
+
 
 ---
 
@@ -13,7 +15,7 @@
 
 1. [Survey on Deep Multi-modal Data Analytics: Collaboration, Rivalry and Fusion](https://arxiv.org/abs/2006.08159), arxiv 2020.
 
-1. [A survey on multi-modal social event detection](https://www.sciencedirect.com/science/article/pii/S0950705120301271), Knowledge-Based Systems 2020
+1. [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/pdf/1907.09358.pdf), Arxiv 2020. 127 Pages.
 
 1. [Visual question answering: A survey of methods and datasets](https://www.sciencedirect.com/science/article/pii/S1077314217300772), CVIU 2017.
 
@@ -39,7 +41,9 @@
 
 # Multimodal Fusion
 
-1. [MUTAN: Multimodal Tucker Fusion for Visual Question Answering](https://arxiv.org/pdf/1705.06676.pdf), ICCV 2017.
+1. [CAN: Revisiting Feature Co-Action for Click-Through Rate Prediction](https://arxiv.org/pdf/2011.05625.pdf), Arxiv 2020. Alibaba.
+
+1. [Deep Multimodal Fusion by Channel Exchanging](https://proceedings.neurips.cc/paper/2020/file/339a18def9898dd60a634b2ad8fbbd58-Paper.pdf), AAAI 2020. [[code]](https://github.com/yikaiw/CEN)
 
 1. [Dynamic Fusion for Multimodal Data](https://arxiv.org/abs/1911.03821), arXiv 2019
 
@@ -53,9 +57,51 @@
 
 1. [Memory Fusion Network for Multi-view Sequential Learning](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/17341/16122), AAAI 2018 [[code]](https://github.com/pliang279/MFN)
 
+1. [MUTAN: Multimodal Tucker Fusion for Visual Question Answering](https://arxiv.org/pdf/1705.06676.pdf), ICCV 2017.
+
 1. [Tensor Fusion Network for Multimodal Sentiment Analysis](https://arxiv.org/abs/1707.07250), EMNLP 2017 [[code]](https://github.com/A2Zadeh/TensorFusionNetwork)
 
 1. [Jointly Modeling Deep Video and Compositional Text to Bridge Vision and Language in a Unified Framework](http://web.eecs.umich.edu/~jjcorso/pubs/xu_corso_AAAI2015_v2t.pdf), AAAI 2015
+
+---
+
+# Related - VG (image)
+
+1. [Hierarchical Relational Inference](https://arxiv.org/pdf/2010.03635.pdf), AAAI 2021.
+
+1. [Globetrotter: Unsupervised Multilingual Translation from Visual Alignment](https://arxiv.org/pdf/2012.04631.pdf), Arxiv 2020. [[Code]](https://github.com/cvlab-columbia/globetrotter)
+
+1. [Grounded Language Learning Fast and Slow](https://arxiv.org/abs/2009.01719), arXiv 2020
+
+1. [Counterfactual Samples Synthesizing for Robust Visual Question Answering](https://arxiv.org/pdf/2003.06576.pdf), CVPR 2020. [[code]](https://github.com/yanxinzju/CSS-VQA)
+
+1. [VIOLIN: A Large-Scale Dataset for Video-and-Language Inference](https://arxiv.org/abs/2003.11618), CVPR 2020 [[code]](https://github.com/jimmy646/violin)
+
+1. [Visual Relationships as Functions: Enabling Few-Shot Scene Graph Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9022385), ICCVW 2019.
+
+1. [Language-Conditioned Graph Networks for Relational Reasoning](https://arxiv.org/pdf/1905.04405.pdf), ICCV 2019.
+
+1. [MUREL: Multimodal Relational Reasoning for Visual Question Answering](https://openaccess.thecvf.com/content_CVPR_2019/html/Cadene_MUREL_Multimodal_Relational_Reasoning_for_Visual_Question_Answering_CVPR_2019_paper.html), CVPR 2019. [[Pytorch code]](https://github.com/Cadene/murel.bootstrap.pytorch)
+
+1. [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/abs/1811.10652), CVPR 2019
+
+1. [Multilevel Language and Vision Integration for Text-to-Clip Retrieval](https://arxiv.org/abs/1804.05113), AAAI 2019 [[code]](https://github.com/VisionLearningGroup/Text-to-Clip_Retrieval)
+
+1. [Finding “It”: Weakly-Supervised Reference-Aware Visual Grounding in Instructional Videos](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.pdf), CVPR 2018
+
+1. [Grounding Visual Explanations](https://link.springer.com/chapter/10.1007/978-3-030-01216-8_17), ECCV 2018.
+
+1. [Gated-Attention Architectures for Task-Oriented Language Grounding](https://arxiv.org/abs/1706.07230), AAAI 2018 [[code]](https://github.com/devendrachaplot/DeepRL-Grounding)
+
+1. [Transparency by Design: Closing the Gap Between Performance and Interpretability in Visual Reasoning](https://openaccess.thecvf.com/content_cvpr_2018/html/Mascharka_Transparency_by_Design_CVPR_2018_paper.html), CVPR 2018.
+
+1. [Chain of Reasoning for Visual Question Answering](https://proceedings.neurips.cc/paper/2018/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf), NPIS 2018.
+
+1. [Grounding language acquisition by training semantic parsers using captioned videos](https://cbmm.mit.edu/sites/default/files/publications/Ross-et-al_ACL2018_Grounding%20language%20acquisition%20by%20training%20semantic%20parsing%20using%20caption%20videos.pdf), ACL 2018
+
+1. [Interpretable and Globally Optimal Prediction for Textual Grounding using Image Concepts](https://arxiv.org/abs/1803.11209), NeurIPS 2017
+
+1. [Detecting Visual Relationships with Deep Relational Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8099835), CVPR 2017.
 
 ---
 
@@ -199,47 +245,11 @@
 
 ---
 
-# Related - VG (image)
-
-1. [Hierarchical Relational Inference](https://arxiv.org/pdf/2010.03635.pdf), AAAI 2021.
-
-1. [Globetrotter: Unsupervised Multilingual Translation from Visual Alignment](https://arxiv.org/pdf/2012.04631.pdf), Arxiv 2020. [[Code]](https://github.com/cvlab-columbia/globetrotter)
-
-1. [Detecting Visual Relationships with Deep Relational Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8099835), CVPR 2017.
-
-1. [Visual Relationships as Functions: Enabling Few-Shot Scene Graph Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9022385), ICCVW 2019.
-
-1. [Language-Conditioned Graph Networks for Relational Reasoning](https://arxiv.org/pdf/1905.04405.pdf), ICCV 2019.
-
-1. [MUREL: Multimodal Relational Reasoning for Visual Question Answering](https://openaccess.thecvf.com/content_CVPR_2019/html/Cadene_MUREL_Multimodal_Relational_Reasoning_for_Visual_Question_Answering_CVPR_2019_paper.html), CVPR 2019. [[Pytorch code]](https://github.com/Cadene/murel.bootstrap.pytorch)
-
-1. [Transparency by Design: Closing the Gap Between Performance and Interpretability in Visual Reasoning](https://openaccess.thecvf.com/content_cvpr_2018/html/Mascharka_Transparency_by_Design_CVPR_2018_paper.html), CVPR 2018.
-
-1. [Chain of Reasoning for Visual Question Answering](https://proceedings.neurips.cc/paper/2018/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf), NPIS 2018.
-
-1. [Grounded Language Learning Fast and Slow](https://arxiv.org/abs/2009.01719), arXiv 2020
-
-1. [VIOLIN: A Large-Scale Dataset for Video-and-Language Inference](https://arxiv.org/abs/2003.11618), CVPR 2020 [[code]](https://github.com/jimmy646/violin)
-
-1. [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/abs/1811.10652), CVPR 2019
-
-1. [Multilevel Language and Vision Integration for Text-to-Clip Retrieval](https://arxiv.org/abs/1804.05113), AAAI 2019 [[code]](https://github.com/VisionLearningGroup/Text-to-Clip_Retrieval)
-
-1. [Finding “It”: Weakly-Supervised Reference-Aware Visual Grounding in Instructional Videos](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.pdf), CVPR 2018
-
-1. [Grounding Visual Explanations](https://link.springer.com/chapter/10.1007/978-3-030-01216-8_17), ECCV 2018.
-
-1. [Gated-Attention Architectures for Task-Oriented Language Grounding](https://arxiv.org/abs/1706.07230), AAAI 2018 [[code]](https://github.com/devendrachaplot/DeepRL-Grounding)
-
-1. [Grounding language acquisition by training semantic parsers using captioned videos](https://cbmm.mit.edu/sites/default/files/publications/Ross-et-al_ACL2018_Grounding%20language%20acquisition%20by%20training%20semantic%20parsing%20using%20caption%20videos.pdf), ACL 2018
-
-1. [Interpretable and Globally Optimal Prediction for Textual Grounding using Image Concepts](https://arxiv.org/abs/1803.11209), NeurIPS 2017
-
----
-
 # References
-1. https://github.com/pliang279/awesome-multimodal-ml#multimodal-fusion
-1. https://github.com/Eurus-Holmes/Awesome-Multimodal-Research
-1. https://github.com/TheShadow29/awesome-grounding
-1. https://github.com/iworldtong/Awesome-Temporal-Sentence-Grounding-in-Videos
-1. https://github.com/WuJie1010/Temporally-language-grounding
+1. https://github.com/pliang279/awesome-multimodal-ml
+2. https://github.com/Eurus-Holmes/Awesome-Multimodal-Research
+3. https://github.com/TheShadow29/awesome-grounding
+4. https://github.com/iworldtong/Awesome-Temporal-Sentence-Grounding-in-Videos
+5. https://github.com/WuJie1010/Temporally-language-grounding
+6. https://github.com/alisure-ml/awesome-visual-relationship-detection
+7. [多模态中NLP与CV融合的一些方式](https://zhuanlan.zhihu.com/p/93125122)
