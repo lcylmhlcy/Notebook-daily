@@ -248,6 +248,8 @@
 
 1. [A Real-Time Cross-Modality Correlation Filtering Method for Referring Expression Comprehension](https://openaccess.thecvf.com/content_CVPR_2020/html/Liao_A_Real-Time_Cross-Modality_Correlation_Filtering_Method_for_Referring_Expression_Comprehension_CVPR_2020_paper.html), CVPR 2020.
 
+1. [Improving One-stage Visual Grounding by Recursive Sub-query Construction](https://arxiv.org/pdf/2008.01059.pdf), ECCV 2020. [[code]](https://github.com/zyang-ur/ReSC). **last paper: ICCV2019**
+
 1. [What Does BERT with Vision Look At?](https://www.aclweb.org/anthology/2020.acl-main.469/), ACL 2020
 
 ---
