@@ -37,13 +37,13 @@
 1. [CVPR'2020] [Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions](https://arxiv.org/pdf/2004.03967.pdf)  
     - 场景理解（scene understanding）一直是计算机视觉领域的研究热点。它不仅包括识别场景中的对象，还包括识别它们在给定上下文中的关系。基于这一目标，最近的一系列工作解决了3D语义分割和场景布局预测问题。在我们的工作中，我们关注场景图，这是一种在图中组织场景实体的数据结构，其中对象是节点，它们的关系建模为边。我们利用场景图上的推理作为实现3D场景理解、映射对象及其关系的一种方式。特别地，我们提出了一种从场景的点云回归场景图的学习方法。我们的新体系结构是基于PointNet和图卷积网络(GCN)的。此外，我们还介绍了一个半自动生成的数据集3DSSG，它包含了语义丰富的三维场景图。我们展示了我们的方法在一个领域无关的检索任务中的应用，其中图作为3D-3D和2D-3D匹配的中间表示。
   
-1. [CVPR'2020] [Graph-Structured Referring Expression Reasoning in The Wild](https://arxiv.org/pdf/2004.08814.pdf) [【Github】](https://github.com/sibeiyang/sgmn)    
+1. [CVPR'2020] [Graph-Structured Referring Expression Reasoning in The Wild](https://arxiv.org/pdf/2004.08814.pdf) [[Github]](https://github.com/sibeiyang/sgmn)    
     - Grounding referring expressions的目标是参照自然语言表达式在图像中定位一个目标。指代表达式（referring expression）的语言结构为视觉内容提供了推理的布局，并且该结构对于校准和共同理解图像与指代表达式是十分重要的。本文提出了一种场景图引导的模块化网络(SGMN)，它在表达式的语言结构指导下，用神经模块对语义图和场景图进行推理。特别地，我们将图像（image）建模为结构化语义图，并将表达式解析为语言场景图。语言场景图不仅对表达式的语言结构进行解码，而且与图像语义图具有一致的表示。除了探索指代表达式基础的结构化解决方案外，我们还提出了Ref-Reasning，一个用于结构化指代表达式推理的大规模真实数据集。我们使用不同的表达式模板和函数式程序自动生成图像场景图上的指代表达式。该数据集配备了真实世界的可视化内容以及具有不同推理布局的语义丰富的表达式。实验结果表明，SGMN不仅在新的Ref-Reasning数据集上的性能明显优于现有的算法，而且在常用的基准数据集上也超过了最先进的结构化方法。它还可以为推理提供可解释的可视化证据。
   
 2. [CVPR'2020] [Say As Y ou Wish: Fine-grained Control of Image Caption Generation with Abstract Scene Graphs](https://arxiv.org/pdf/2003.00387.pdf)  
     - 人类能够随心所欲地用粗到细的细节来描述图像内容。然而，大多数图像字幕模型是意图不可知的（intention-agnostic），不能主动根据不同的用户意图生成各种描述。在这项工作中，我们提出了抽象场景图(ASG)结构来在细粒度层次上表示用户意图，并控制生成的描述应该是什么和有多详细。ASG是一个由三种类型的抽象节点(对象、属性、关系)组成的有向图，它们以图像为基础，没有任何具体的语义标签。因此，这些节点可以很容易通过手动或自动获得。与在VisualGenome和MSCOCO数据集上精心设计的基线相比，我们的模型在ASG上实现了更好的可控性条件。它还通过自动采样不同的ASG作为控制信号，显著提高了字幕多样性。
   
-1. [CVPR'2020] [Semantic Image Manipulation Using Scene Graphs](https://www.researchgate.net/publication/340523427_Semantic_Image_Manipulation_Using_Scene_Graphs) [【Github】](https://he-dhamo.github.io/SIMSG/)  
+1. [CVPR'2020] [Semantic Image Manipulation Using Scene Graphs](https://www.researchgate.net/publication/340523427_Semantic_Image_Manipulation_Using_Scene_Graphs) [[Github]](https://he-dhamo.github.io/SIMSG/)  
     - 图像处理可以被认为是图像生成的特例，其中要生成的图像是对现有图像的修改。在很大程度上，图像生成和处理都是对原始像素进行操作的任务。然而，在学习丰富的图像和对象表示方面的显著进展已经为主要由语义驱动的诸如文本到图像或布局到图像生成之类的任务开辟了道路。在我们的工作中，我们解决了从场景图进行图像处理的新问题，在该问题中，用户可以仅通过对从图像生成的语义图的节点或边进行修改来编辑图像。我们的目标是对给定constellation中的图像信息进行编码，然后在此基础上生成新的constellation，例如替换对象，甚至改变对象之间的关系，同时尊重原始图像的语义和样式。我们引入了空间语义场景图网络，该网络不需要直接监督constellation变化或图像编辑。这使得从现有的现实世界数据集中训练系统成为可能，而无需额外的注释工作。
   
 2. [CVPR'2020] [Spatio-Temporal Graph for Video Captioning with Knowledge Distillation](https://arxiv.org/pdf/2003.13942.pdf)  
@@ -58,7 +58,7 @@
 2. [ICLR'2020] [VL-BERT: Pre-training of Generic Visual-Linguistic Representations](https://arxiv.org/abs/1908.08530), 微软亚洲研究院
     - 研究员提出了一种新的通用的多模态预训练模型VL-BERT，该模型采用简单而强大的Transformer模型作为主干网络，并将其输入扩展为同时包含视觉与语言输入的多模态形式，适用于绝大多数视觉语义下游任务。为了让VL-BERT模型利用更为通用的特征表示，研究员在大规模图片描述生成数据集Conceptual Captions中进行VL-BERT的预训练，实验证明此预训练过程可以显著提高下游的视觉语义任务的效果，包含视觉常识推理、视觉问答与引用表达式理解等。
   
-3. [CVPR'2020] [Visual Commonsense R-CNN](https://arxiv.org/abs/2002.12204) [[zhihu]](https://zhuanlan.zhihu.com/p/111306353) [[Github]](https://github.com/Wangt-CN/VC-R-CNN), 电子科技大学、阿里达摩院  
+3. [CVPR'2020] [Visual Commonsense R-CNN](https://arxiv.org/abs/2002.12204), 电子科技大学&阿里达摩院  [[zhihu]](https://zhuanlan.zhihu.com/p/111306353) [[Github]](https://github.com/Wangt-CN/VC-R-CNN) 
     - 本文提出了一种新的基于CNN的视频编码和基于视觉特征的视觉视觉区域表示方法。给定一组图像中检测到的目标区域（例如，使用更快的R-CNN），与其他无监督特征学习方法（如word2vec）一样，VC R-CNN的代理训练目标是预测区域的上下文对象。然而，二者在本质上有所不同：VC R-CNN的预测采用的是因果干预：P（Y | do（X）），而其他预测方法则是使用常规的似然函数P（Y | X）。这也是为什么VC R-CNN可以学习“有意义”知识的核心原因，就像椅子可以坐着一样——而不仅仅是“常见”的共现现象，椅子很容易被观察到。我们广泛地将VC R-CNN特性应用于三个流行任务的流行模型中：图像字幕、VQA和VCR，并观察到它们的一致性能提升，实现了许多新的技术状态。
   
 4. [贝叶斯深度学习2020综述论文](https://www.zhuanzhi.ai/paper/9b781282204cb581a31aa0e8b570dd95), MIT&港科大  
@@ -70,7 +70,7 @@
 2. [《数据因果性学习: 问题与方法》2020综述论文](https://www.zhuanzhi.ai/paper/6ad7902913e98bd48540a5596b978edc)  
     - 这项工作考虑了这样一个问题: 获取大量数据的便利程度如何影响我们学习因果效应和关系的能力。在大数据时代，学习因果关系与传统因果关系有哪些不同或相同之处?为了回答这个问题，这项综述提供了一个在因果关系和机器学习之间联系的全面和结构化的回顾。
   
-1. [ACMMM'2020] [Dual Temporal Memory Network for Efficient Video Object Segmentation]()  
+1. [ACMMM'2020] [Dual Temporal Memory Network for Efficient Video Object Segmentation](https://arxiv.org/abs/2003.06125)  
     - 半监督视频目标分割方面的研究工作，旨在给定初始帧掩模标注的前提下，持续分割出后续帧中的特定目标，在多媒体领域具有重要的应用价值。现有工作往往只通过光流等技术利用短时时序信息或者通过RNN捕捉长时时序信息，没有充分利用这两种信息之间的互补特性。本工作提出了双时空记忆网络来实现视频中指定目标的分割。亮点在于：第一，提出了短时记忆子网络，利用新颖的图(Graph)结构捕捉短时时序；第二，提出了长时记忆子网络，利用匹配(Matching)方法捕捉长时时序；第三，通过分割子网络，融合短时、长时子网络的时序信息，生成分割结果。最终结果在该领域的多个公开数据集上均达到了先进水准。下图是本文的整体研究思路。
   
 2. https://gm-neurips-2020.github.io/
@@ -78,3 +78,5 @@
 3. [Arxiv'2018] [Why do deep convolutional networks generalize so poorly to small image transformations?](https://www.jmlr.org/papers/volume20/19-519/19-519.pdf)
    
 4. [CVPR'2011] [Unbiased look at dataset bias](https://ieeexplore.ieee.org/abstract/document/5995347), MIT.
+
+1. [ACPR'2017] [A Deeper Look at Dataset Bias](https://link.springer.com/chapter/10.1007/978-3-319-58347-1_2)
