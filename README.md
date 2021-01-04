@@ -8,6 +8,8 @@
 5. 小样本/零样本学习
 6. 模仿学习
 7. 异构并行模型
+8. 元学习 meta learning/learning to learn
+9. few-shot learning (元学习在监督学习领域的应用)
 
 ---
 
