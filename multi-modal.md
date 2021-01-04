@@ -70,7 +70,7 @@
 
 # Related - VG (image)
 
-1. [UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning](https://arxiv.org/pdf/2012.15409.pdf), Arxiv 2020. [[code]](https://github.com/weili-baidu/UNIMO). **VQA challenge TOP**
+1. [UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning](https://arxiv.org/pdf/2012.15409.pdf), Arxiv 2020. [[code]](https://github.com/weili-baidu/UNIMO). **VQA TOP**
 
 1. [Hierarchical Relational Inference](https://arxiv.org/pdf/2010.03635.pdf), AAAI 2021.
 
@@ -82,7 +82,7 @@
 
 1. [VIOLIN: A Large-Scale Dataset for Video-and-Language Inference](https://arxiv.org/abs/2003.11618), CVPR 2020 [[code]](https://github.com/jimmy646/violin)
 
-1. [Visual Relationships as Functions: Enabling Few-Shot Scene Graph Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9022385), ICCVW 2019.
+1. [Visual Relationships as Functions: Enabling Few-Shot Scene Graph Prediction](https://arxiv.org/pdf/1906.04876.pdf), ICCVW 2019.
 
 1. [Language-Conditioned Graph Networks for Relational Reasoning](https://arxiv.org/pdf/1905.04405.pdf), ICCV 2019.
 
