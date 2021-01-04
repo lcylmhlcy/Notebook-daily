@@ -28,7 +28,7 @@
 
 1. [Referring relationships](https://arxiv.org/pdf/1803.10362.pdf), CVPR 2018. [[Code]](https://github.com/StanfordVL/ReferringRelationships) [[Website]](https://cs.stanford.edu/people/ranjaykrishna/referringrelationships/index.html)
 
-1. [Differentiable Scene Graphs](https://arxiv.org/pdf/1902.10200.pdf), arxiv 2019
+1. [Differentiable Scene Graphs](https://arxiv.org/pdf/1902.10200.pdf), WACV 2020.
 
 1. [CPARR: Category-based Proposal Analysis for Referring Relationships](https://openaccess.thecvf.com/content_CVPRW_2020/html/w56/He_CPARR_Category-Based_Proposal_Analysis_for_Referring_Relationships_CVPRW_2020_paper.html), CVPR 2020 Workshop
 
