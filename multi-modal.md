@@ -70,6 +70,8 @@
 
 # Related - VG (image)
 
+1. [UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning](https://arxiv.org/pdf/2012.15409.pdf), Arxiv 2020. [[code]](https://github.com/weili-baidu/UNIMO). **VQA challenge TOP**
+
 1. [Hierarchical Relational Inference](https://arxiv.org/pdf/2010.03635.pdf), AAAI 2021.
 
 1. [Globetrotter: Unsupervised Multilingual Translation from Visual Alignment](https://arxiv.org/pdf/2012.04631.pdf), Arxiv 2020. [[Code]](https://github.com/cvlab-columbia/globetrotter)
