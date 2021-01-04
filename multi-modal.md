@@ -11,6 +11,8 @@
 
 # Survey
 
+1. [Visual Relationship Detection using Scene Graphs: A Survey](https://arxiv.org/pdf/2005.08045.pdf), Arxiv 2020.
+
 1. [Referring Expression Comprehension: A Survey of Methods and Datasets](https://arxiv.org/abs/2007.09554), Arxiv 2020.
 
 1. [Survey on Deep Multi-modal Data Analytics: Collaboration, Rivalry and Fusion](https://arxiv.org/abs/2006.08159), arxiv 2020.
@@ -69,6 +71,10 @@
 ---
 
 # Related - VG (image)
+
+1. [Learning from Very Few Samples: A Survey](https://arxiv.org/pdf/2009.02653.pdf), Arxiv 2020.
+
+1. [One-Shot Learning for Long-Tail Visual Relation Detection](https://ojs.aaai.org/index.php/AAAI/article/view/6904), AAAI 2020.
 
 1. [UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning](https://arxiv.org/pdf/2012.15409.pdf), Arxiv 2020. [[code]](https://github.com/weili-baidu/UNIMO). **VQA TOP**
 
