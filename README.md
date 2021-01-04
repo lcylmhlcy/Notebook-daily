@@ -1,15 +1,14 @@
 # 我的日常科研笔记
 
-## 新研究点
+## 新方法
 1. 图卷积
 2. 因果学习
 3. 贝叶斯学习
 4. 对抗攻击
-5. 小样本/零样本学习
-6. 模仿学习
-7. 异构并行模型
-8. 元学习 meta learning/learning to learn
-9. few-shot learning (元学习在监督学习领域的应用)
+5. 模仿学习
+6. 异构并行模型
+7. 元学习 meta learning/learning to learn
+8. few-shot / zero-shot learning (元学习在监督学习领域的应用)
 
 ---
 
@@ -110,4 +109,5 @@
   **摘要**：半监督视频目标分割方面的研究工作，旨在给定初始帧掩模标注的前提下，持续分割出后续帧中的特定目标，在多媒体领域具有重要的应用价值。现有工作往往只通过光流等技术利用短时时序信息或者通过RNN捕捉长时时序信息，没有充分利用这两种信息之间的互补特性。本工作提出了双时空记忆网络来实现视频中指定目标的分割。亮点在于：第一，提出了短时记忆子网络，利用新颖的图(Graph)结构捕捉短时时序；第二，提出了长时记忆子网络，利用匹配(Matching)方法捕捉长时时序；第三，通过分割子网络，融合短时、长时子网络的时序信息，生成分割结果。最终结果在该领域的多个公开数据集上均达到了先进水准。下图是本文的整体研究思路。
   
 25. https://gm-neurips-2020.github.io/
-
+26. [Arxiv'2018] [Why do deep convolutional networks generalize so poorly to small image transformations?](https://www.jmlr.org/papers/volume20/19-519/19-519.pdf)
+27. [CVPR'2011] [Unbiased look at dataset bias](https://ieeexplore.ieee.org/abstract/document/5995347), MIT.
