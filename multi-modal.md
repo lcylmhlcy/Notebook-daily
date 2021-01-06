@@ -72,6 +72,8 @@
 
 # Related - VG (image)
 
+1. [VinVL: Making Visual Representations Matter in Vision-Language Models](https://arxiv.org/abs/2101.00529), Arxiv 2021.
+
 1. [Learning from Very Few Samples: A Survey](https://arxiv.org/pdf/2009.02653.pdf), Arxiv 2020.
 
 1. [One-Shot Learning for Long-Tail Visual Relation Detection](https://ojs.aaai.org/index.php/AAAI/article/view/6904), AAAI 2020.
