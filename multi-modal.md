@@ -34,11 +34,9 @@
 
 1. [CPARR: Category-based Proposal Analysis for Referring Relationships](https://openaccess.thecvf.com/content_CVPRW_2020/html/w56/He_CPARR_Category-Based_Proposal_Analysis_for_Referring_Relationships_CVPRW_2020_paper.html), CVPR 2020 Workshop
 
-1. [Learning latent scene-graph representations for referring relationships](https://www.researchgate.net/profile/Roei_Herzig/publication/331397250_Differentiable_Scene_Graphs/links/5c7d2e43458515831f826ad5/Differentiable-Scene-Graphs.pdf), Arxiv 2019
+1. [Revisiting Visual Grounding](https://arxiv.org/pdf/1904.02225.pdf), Arvix 2019. **Critique of Referring Relationship paper**
 
-2. [Revisiting Visual Grounding](https://arxiv.org/pdf/1904.02225.pdf), Arvix 2019. **Critique of Referring Relationship paper**
-
-3. [Visual Referring Expression Recognition: What Do Systems Actually Learn?](https://arxiv.org/abs/1805.11818), NAACL 2018 short. **Critique of Visual Grounding paper**
+1. [Visual Referring Expression Recognition: What Do Systems Actually Learn?](https://arxiv.org/abs/1805.11818), NAACL 2018 short. **Critique of Visual Grounding paper**
 
 ---
 
