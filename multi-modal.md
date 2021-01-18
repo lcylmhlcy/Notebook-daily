@@ -114,6 +114,8 @@
 
 1. [Detecting Visual Relationships with Deep Relational Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8099835), CVPR 2017.
 
+1. [A simple neural network module for relational reasoning](https://papers.nips.cc/paper/2017/file/e6acf4b0f69f6f6e60e9a815938aa1ff-Paper.pdf), NPIS 2017.
+
 1. [Modulating early visual processing by language](https://papers.nips.cc/paper/2017/file/6fab6e3aa34248ec1e34a4aeedecddc8-Paper.pdf), NIPS 2017.
 
 ---
