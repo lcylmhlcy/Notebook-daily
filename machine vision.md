@@ -1,0 +1,1 @@
+- [YolactEdge: Real-time Instance Segmentation on the Edge](https://github.com/haotian-liu/yolact_edge)
