@@ -1,1 +1,2 @@
 - [YolactEdge: Real-time Instance Segmentation on the Edge](https://github.com/haotian-liu/yolact_edge)
+- [AAAI2021] [YOLObile: Real-Time Object Detection on Mobile Devices via Compression-Compilation](https://arxiv.org/abs/2009.05697) [[Code]](https://github.com/nightsnack/YOLObile)

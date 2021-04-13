@@ -15,11 +15,15 @@
 - [ACMMM2020] [KBGN: Knowledge-Bridge Graph Network for Adaptive Vision-Text Reasoning in Visual Dialogue](https://www.zhuanzhi.ai/paper/6a3e359d8827752a98f2e5daa7079d2a)
 - [NIPS2020] [Deep Multimodal Fusion by Channel Exchanging](https://github.com/yikaiw/CEN)
 - [CVPR2021] [VirTex: Learning Visual Representations from Textual Annotations](https://github.com/kdexd/virtex)
+- [AAAI2021] [SMIL: Multimodal Learning with Severely Missing Modality](https://arxiv.org/pdf/2103.05677.pdf) [[Code]](https://github.com/mengmenm/SMIL)
+- [ICLR2021] [Iterated learning for emergent systematicity in VQA](https://openreview.net/pdf?id=Pd_oMxH8IlF)
 
 
 ## Video/Action
 - [ACMMM2020] [Dual Temporal Memory Network for Efficient Video Object Segmentation](https://arxiv.org/abs/2003.06125)
 - [ICCV2019] [Compositional Video Prediction](https://github.com/JudyYe/CVP)
+- [Reformulating HOI Detection as Adaptive Set Prediction](https://arxiv.org/pdf/2103.05983.pdf)
+- [ICLR2021] [AdaFuse: Adaptive Temporal Fusion Network for Efficient Action Recognition](https://arxiv.org/pdf/2102.05775.pdf) [[Code]](https://github.com/mengyuest/AdaFuse)
 
 
 ## Graph NN
@@ -43,7 +47,8 @@
 
 ## Causal
 - [CVPR2020] [Visual Commonsense R-CNN](https://arxiv.org/abs/2002.12204), 电子科技大学&阿里达摩院  [[zhihu]](https://zhuanlan.zhihu.com/p/111306353) [[Github]](https://github.com/Wangt-CN/VC-R-CNN)
-- [《数据因果性学习: 问题与方法》2020综述论文](https://www.zhuanzhi.ai/paper/6ad7902913e98bd48540a5596b978edc)  
+- [《数据因果性学习: 问题与方法》2020综述论文](https://www.zhuanzhi.ai/paper/6ad7902913e98bd48540a5596b978edc)
+- [Extracting Causal Viusal Features for Limited Lable Classification](https://arxiv.org/pdf/2103.12322.pdf)
 
 
 ## Bayes
@@ -59,6 +64,8 @@
 - [CVPR2020] [Destruction and Construction Learning for Fine-grained Image Recognition](https://github.com/JDAI-CV/DCL)
 - [CVPR2021] [MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition](https://github.com/BIT-DA/MetaSAug)
 - [CVPR2021] [Learning Continuous Image Representation with Local Implicit Image Function](https://github.com/yinboc/liif)
+- [CVPR2021] [CReST: A Class-Rebalancing Self-Training Framework for Imbalanced Semi-Supervised Learning]()
+- [CVPR2021] [Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification](https://arxiv.org/pdf/2103.14267.pdf) [[Code]](https://k-han.github.io/HybridLT)
 
 
 ## Few-shot/meta
@@ -68,4 +75,15 @@
 - [Hands-On-Meta-Learning-With-Python](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python)
 - [NIPS2019] [Visual Concept-Metaconcept Learning (VCML)](https://github.com/Glaciohound/VCML)
 - [CVPR2021] [Towards Open World Object Detection](https://github.com/JosephKJ/OWOD)
+- [CVPR2021] [Counterfactual Zero-Shot and Open-Set Visual Recognition](https://arxiv.org/abs/2103.00887)
 - [ICLR2021] [Concept Learners for Few-Shot Learning](https://github.com/snap-stanford/comet)
+
+## Semi-supervised/Unsupervised
+- [CVPR2021] [SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification](https://arxiv.org/pdf/2103.16725.pdf) [[Code]](https://github.com/zijian-hu/SimPLE)
+
+
+## Others
+- [ICLR2021] [he Deep Bootstrap Framework: Good Online Learners are Good Offline Generalizers](https://arxiv.org/pdf/2010.08127.pdf) [[Dataset]](https://github.com/preetum/cifar5m)
+- [CVPR2021] [Dynamic Metric Learning: Towards a Scalable Metric Space to Accommodate Multiple Semantic Scales](https://arxiv.org/pdf/2103.11781v1.pdf) [[Code]](https://github.com/SupetZYK/DynamicMetricLearning)
+- [亚利桑那州立大学周纵苇：视觉的目的是什么？](https://hub.baai.ac.cn/view/6777)
+- [Li Feifei] [Embodied Intelligence via Learning and Evolution](https://arxiv.org/pdf/2102.02202.pdf)
