@@ -30,12 +30,12 @@
 - [CVPR2020 Tutorial][Learning Representations via Graph-structured Networks](https://xiaolonw.github.io/graphnnv2/)
 - [KDD2020] [XGNN-可解释图神经网络，从模型级解释构建可信赖GNN](https://xiaolonw.github.io/graphnnv2/)
 - [ICML2020] [Contrastive Multi-View Representation Learning on Graphs](https://arxiv.org/pdf/2006.05582.pdf)
-- [Graph Mining and Learning NIPS2020](https://gm-neurips-2020.github.io/)
+- [NIPS2020] [Graph Mining and Learning](https://gm-neurips-2020.github.io/)
 - [Contrastive Learning of Structured World Models](https://github.com/tkipf/c-swm)
 
 
 ## 1D data
-- [KDD'2020] [Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data](https://arxiv.org/abs/2006.12715), 高德机器学习团队 
+- [KDD2020] [Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data](https://arxiv.org/abs/2006.12715), 高德机器学习团队 
 
 
 ## Reasoning
