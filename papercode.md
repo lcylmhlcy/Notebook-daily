@@ -80,6 +80,7 @@
 
 ## Semi-supervised/Unsupervised
 - [CVPR2021] [SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification](https://arxiv.org/pdf/2103.16725.pdf) [[Code]](https://github.com/zijian-hu/SimPLE)
+- [LeCun] [Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/abs/2103.03230)
 
 
 ## Interpret
