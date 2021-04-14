@@ -78,9 +78,13 @@
 - [CVPR2021] [Counterfactual Zero-Shot and Open-Set Visual Recognition](https://arxiv.org/abs/2103.00887)
 - [ICLR2021] [Concept Learners for Few-Shot Learning](https://github.com/snap-stanford/comet)
 
-## Semi-supervised/Unsupervised
+## Semi-supervised/Unsupervised/Self-supervised
+- [ICCV2015] [Unsupervised Visual Representation Learning by Context Prediction](https://arxiv.org/abs/1505.05192)
+- [2018] [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
+- [ICLR2019] [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670) [Yoshua Bengio]
+- [CVPR2020] [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722) [Kaiming He]
 - [CVPR2021] [SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification](https://arxiv.org/pdf/2103.16725.pdf) [[Code]](https://github.com/zijian-hu/SimPLE)
-- [LeCun] [Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/abs/2103.03230)
+- [2021] [Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/abs/2103.03230) [LeCun]
 
 
 ## Interpret
@@ -91,4 +95,4 @@
 - [ICLR2021] [he Deep Bootstrap Framework: Good Online Learners are Good Offline Generalizers](https://arxiv.org/pdf/2010.08127.pdf) [[Dataset]](https://github.com/preetum/cifar5m)
 - [CVPR2021] [Dynamic Metric Learning: Towards a Scalable Metric Space to Accommodate Multiple Semantic Scales](https://arxiv.org/pdf/2103.11781v1.pdf) [[Code]](https://github.com/SupetZYK/DynamicMetricLearning)
 - [亚利桑那州立大学周纵苇：视觉的目的是什么？](https://hub.baai.ac.cn/view/6777)
-- [Li Feifei] [Embodied Intelligence via Learning and Evolution](https://arxiv.org/pdf/2102.02202.pdf)
+- [2021] [Embodied Intelligence via Learning and Evolution](https://arxiv.org/pdf/2102.02202.pdf) [Feifei Li]
