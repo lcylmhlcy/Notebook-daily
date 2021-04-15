@@ -9,7 +9,7 @@
   - NAML、Repitle、Meta-SGD
 - 学习优化器
 
-数据集以task划分 
+数据集以task划分  
 Meta-train：支撑集、查询集  
 Meta-test：支撑集、查询集  
   
@@ -40,3 +40,20 @@ MAML、ADML、CAML
 - [ICML2017] [Model-agnostic meta-learning for fast adaptation of deep networks](https://arxiv.org/abs/1703.03400)
 - [2018] [Adversarial meta-learning](https://arxiv.org/abs/1806.03316)
 - [ICML2019] [Fast context adaptation via meta-learning](https://arxiv.org/abs/1810.03642)
+
+### Meta-SGD/Repitle
+- [2017] [Meta-sgd: Learning to learn quickly for few-shot learning](https://arxiv.org/abs/1707.09835)
+- [2018] [On First-Order Meta-Learning Algorithms](https://arxiv.org/abs/1803.02999)
+
+### 梯度一致作为优化目标
+- [2018] [Gradient Agreement as an Optimization Objective for Meta-Learning](https://arxiv.org/abs/1810.08178)
+
+### 未来方向
+TMAL任务无关、元模仿学习MIL、无监督CACTUs、概念空间元学习
+- [CVPR2019] [Task agnostic meta-learning for few-shot learning](https://arxiv.org/abs/1805.07722)
+- [ICRL2017] [One-shot visual imitation learning via meta-learning](https://arxiv.org/abs/1709.04905)
+- [ICLR2018] [Unsupervised Learning via Meta-Learning](https://arxiv.org/abs/1810.02334)
+- [2018] [Deep Meta-Learning: Learning to Learn in the Concept Space](https://arxiv.org/abs/1802.03596)
+
+# 参考
+- [Hands-On Meta Learning With Python](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python)
