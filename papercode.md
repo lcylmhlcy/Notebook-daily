@@ -31,23 +31,23 @@
 - [KDD2020] [XGNN-可解释图神经网络，从模型级解释构建可信赖GNN](https://xiaolonw.github.io/graphnnv2/)
 - [ICML2020] [Contrastive Multi-View Representation Learning on Graphs](https://arxiv.org/pdf/2006.05582.pdf)
 - [NIPS2020] [Graph Mining and Learning](https://gm-neurips-2020.github.io/)
-- [Contrastive Learning of Structured World Models](https://github.com/tkipf/c-swm)
+- [2020] [Contrastive Learning of Structured World Models](https://github.com/tkipf/c-swm)
 
 
 ## 1D data
-- [KDD2020] [Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data](https://arxiv.org/abs/2006.12715), 高德机器学习团队 
+- [KDD2020] [Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data](https://arxiv.org/abs/2006.12715)
 
 
 ## Reasoning
 - [ICLR2020] [CLEVRER数据集，推动视频理解的因果逻辑推理](https://arxiv.org/abs/1910.01442), MIT & DeepMind, [[Project]]
-- [CVPR2020] [Graph-Structured Referring Expression Reasoning in The Wild](https://arxiv.org/pdf/2004.08814.pdf) [[Github]](https://github.com/sibeiyang/sgmn)
+- [CVPR2020] [Graph-Structured Referring Expression Reasoning in The Wild](https://arxiv.org/pdf/2004.08814.pdf) [[Github](https://github.com/sibeiyang/sgmn)]
 - [ICCV2017] [Inferring and Executing Programs for Visual Reasoning](https://github.com/facebookresearch/clevr-iep)
 - [CVPR2021] [Transformation driven Visual Reasoning](https://github.com/hughplay/TVR)
 
 
 ## Causal
-- [CVPR2020] [Visual Commonsense R-CNN](https://arxiv.org/abs/2002.12204), 电子科技大学&阿里达摩院  [[zhihu]](https://zhuanlan.zhihu.com/p/111306353) [[Github]](https://github.com/Wangt-CN/VC-R-CNN)
-- [《数据因果性学习: 问题与方法》2020综述论文](https://www.zhuanzhi.ai/paper/6ad7902913e98bd48540a5596b978edc)
+- [CVPR2020] [Visual Commonsense R-CNN](https://arxiv.org/abs/2002.12204) [[zhihu](https://zhuanlan.zhihu.com/p/111306353)] [[Github](https://github.com/Wangt-CN/VC-R-CNN)]
+- [2020] [数据因果性学习: 问题与方法综述](https://www.zhuanzhi.ai/paper/6ad7902913e98bd48540a5596b978edc)
 - [Extracting Causal Viusal Features for Limited Lable Classification](https://arxiv.org/pdf/2103.12322.pdf)
 
 
@@ -83,8 +83,8 @@
 - [2018] [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
 - [ICLR2019] [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670) [Yoshua Bengio]
 - [CVPR2020] [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722) [Kaiming He]
-- [CVPR2021] [SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification](https://arxiv.org/pdf/2103.16725.pdf) [[Code]](https://github.com/zijian-hu/SimPLE)
-- [2021] [Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/abs/2103.03230) [LeCun]
+- [CVPR2021] [SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification](https://arxiv.org/pdf/2103.16725.pdf) [[Code](https://github.com/zijian-hu/SimPLE)]
+- [2021] [Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/abs/2103.03230) [LeCun] [[Github](https://github.com/facebookresearch/barlowtwins)]
 
 
 ## Interpret
@@ -92,7 +92,7 @@
 
 
 ## Others
-- [ICLR2021] [he Deep Bootstrap Framework: Good Online Learners are Good Offline Generalizers](https://arxiv.org/pdf/2010.08127.pdf) [[Dataset]](https://github.com/preetum/cifar5m)
-- [CVPR2021] [Dynamic Metric Learning: Towards a Scalable Metric Space to Accommodate Multiple Semantic Scales](https://arxiv.org/pdf/2103.11781v1.pdf) [[Code]](https://github.com/SupetZYK/DynamicMetricLearning)
+- [ICLR2021] [he Deep Bootstrap Framework: Good Online Learners are Good Offline Generalizers](https://arxiv.org/pdf/2010.08127.pdf) [[Dataset](https://github.com/preetum/cifar5m)]
+- [CVPR2021] [Dynamic Metric Learning: Towards a Scalable Metric Space to Accommodate Multiple Semantic Scales](https://arxiv.org/pdf/2103.11781v1.pdf) [[Code](https://github.com/SupetZYK/DynamicMetricLearning)]
 - [亚利桑那州立大学周纵苇：视觉的目的是什么？](https://hub.baai.ac.cn/view/6777)
 - [2021] [Embodied Intelligence via Learning and Evolution](https://arxiv.org/pdf/2102.02202.pdf) [Feifei Li]
