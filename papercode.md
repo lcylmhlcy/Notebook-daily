@@ -68,10 +68,11 @@
 
 
 ## Few-shot/meta
-- [ECCv2018] [Partial Convolution Layer for Padding and Image Inpainting](https://arxiv.org/pdf/1811.11718.pdf) [[Code](https://github.com/NVIDIA/partialconv)]
-- [CVPR2018] [Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/abs/1711.06025) [[Code](https://github.com/floodsung/LearningToCompare_FSL)]
 - [Demo] [Code for few shot](https://github.com/oscarknagg/few-shot)
 - [Demo] [Hands-On-Meta-Learning-With-Python](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python)
+- [NIPS2016] [Matching Networks for One Shot Learning](https://arxiv.org/pdf/1606.04080.pdf)
+- [NIPS2017] [Prototypical Networks for Few-shot Learning](https://arxiv.org/pdf/1703.05175.pdf)
+- [CVPR2018] [Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/abs/1711.06025) [[Code](https://github.com/floodsung/LearningToCompare_FSL)]
 - [NIPS2019] [Visual Concept-Metaconcept Learning](http://vcml.csail.mit.edu/data/papers/2019NeurIPS-VCML.pdf) [[Code](https://github.com/Glaciohound/VCML)]
 - [CVPR2021] [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603) [[Code](https://github.com/JosephKJ/OWOD)]
 - [CVPR2021] [Counterfactual Zero-Shot and Open-Set Visual Recognition](https://arxiv.org/abs/2103.00887)
@@ -91,6 +92,7 @@
 
 
 ## Others
+- [ECCV2018] [Partial Convolution Layer for Padding and Image Inpainting](https://arxiv.org/pdf/1811.11718.pdf) [[Code](https://github.com/NVIDIA/partialconv)]
 - [ICLR2021] [The Deep Bootstrap Framework: Good Online Learners are Good Offline Generalizers](https://arxiv.org/pdf/2010.08127.pdf) [[Dataset](https://github.com/preetum/cifar5m)]
 - [CVPR2021] [Dynamic Metric Learning: Towards a Scalable Metric Space to Accommodate Multiple Semantic Scales](https://arxiv.org/pdf/2103.11781v1.pdf) [[Code](https://github.com/SupetZYK/DynamicMetricLearning)]
 - [亚利桑那州立大学周纵苇：视觉的目的是什么？](https://hub.baai.ac.cn/view/6777)
