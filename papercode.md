@@ -80,10 +80,9 @@
 - [ICLR2017] [Optimization as a Model for Few-Shot Learning](https://openreview.net/forum?id=rJY0-Kcll)
 - [CVPR2018] [Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/abs/1711.06025) [[Code](https://github.com/floodsung/LearningToCompare_FSL)]
 - [CVPR2018] [Dynamic Few-Shot Visual Learning without Forgetting](https://arxiv.org/abs/1804.09458) [[Code](https://github.com/gidariss/FewShotWithoutForgetting)]
-- [NIPS2018] [TADAM: Task dependent adaptive metric for improved few-shot learning](https://arxiv.org/abs/1805.10123)
+- [NIPS2018] [TADAM: Task dependent adaptive metric for improved few-shot learning](https://arxiv.org/abs/1805.10123) [[Code](https://github.com/ElementAI/TADAM)]
 - [ICLR2018] [Meta-Learning for Semi-Supervised Few-Shot Classification](https://arxiv.org/abs/1803.00676)
 - [NIPS2019] [Visual Concept-Metaconcept Learning](http://vcml.csail.mit.edu/data/papers/2019NeurIPS-VCML.pdf) [[Code](https://github.com/Glaciohound/VCML)]
-- [NIPS2019] [Towards Automatic Concept-based Explanations](https://arxiv.org/abs/1902.03129)
 - [NIPS2019] [Cross Attention Network for Few-shot Classification](https://arxiv.org/abs/1910.07677)
 - [NIPS2019] [Learning to Propagate for **Graph** Meta-Learning](https://arxiv.org/abs/1909.05024) [[Code](https://github.com/liulu112601/Gated-Propagation-Net)]
 - [NIPS2019] [Adaptive Cross-Modal Few-Shot Learning](https://arxiv.org/abs/1902.07104)
@@ -106,7 +105,7 @@
 - [ICLR2019] [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670) [**Bengio**]
 - [CVPR2020] [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722) [**Kaiming He**]
 - [CVPR2021] [SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification](https://arxiv.org/pdf/2103.16725.pdf) [[Code](https://github.com/zijian-hu/SimPLE)]
-- [2021] [Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/abs/2103.03230) [**LeCun**] [[Github](https://github.com/facebookresearch/barlowtwins)]
+- [2021] [Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/abs/2103.03230) [**LeCun**] [[Code](https://github.com/facebookresearch/barlowtwins)]
 
 
 ## Interpret
@@ -118,6 +117,7 @@
 - [AAAI2018] [Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions](https://arxiv.org/abs/1710.04806)
 - [CVPR2019] [Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks](https://arxiv.org/abs/1908.02686)
 - [NIPS2019] [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://arxiv.org/abs/1806.10574)
+- [NIPS2019] [Towards Automatic Concept-based Explanations](https://arxiv.org/abs/1902.03129)
 
 
 ## Others
