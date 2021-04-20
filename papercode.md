@@ -67,7 +67,7 @@
 - [CVPR2021] [Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification](https://arxiv.org/pdf/2103.14267.pdf) [[Code](https://k-han.github.io/HybridLT)]
 
 
-## Few-shot/meta/concept
+## Few-shot/meta/concept/openset
 - [Demo] [Code for few shot](https://github.com/oscarknagg/few-shot)
 - [Demo] [Hands-On-Meta-Learning-With-Python](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python)
 - [TPAMI2006] [One-shot learning of object categories](https://ieeexplore.ieee.org/abstract/document/1597116) [**Feifei Li**]
@@ -82,22 +82,33 @@
 - [CVPR2018] [Dynamic Few-Shot Visual Learning without Forgetting](https://arxiv.org/abs/1804.09458) [[Code](https://github.com/gidariss/FewShotWithoutForgetting)]
 - [NIPS2018] [TADAM: Task dependent adaptive metric for improved few-shot learning](https://arxiv.org/abs/1805.10123) [[Code](https://github.com/ElementAI/TADAM)]
 - [ICLR2018] [Meta-Learning for Semi-Supervised Few-Shot Classification](https://arxiv.org/abs/1803.00676)
+  - 在原型网络上优化
 - [NIPS2019] [Visual Concept-Metaconcept Learning](http://vcml.csail.mit.edu/data/papers/2019NeurIPS-VCML.pdf) [[Code](https://github.com/Glaciohound/VCML)]
+  - concept跟metaconcept的定义，制定推理过程
 - [NIPS2019] [Cross Attention Network for Few-shot Classification](https://arxiv.org/abs/1910.07677)
+  - 基于relation网络，套SENet
 - [NIPS2019] [Learning to Propagate for **Graph** Meta-Learning](https://arxiv.org/abs/1909.05024) [[Code](https://github.com/liulu112601/Gated-Propagation-Net)]
 - [NIPS2019] [Adaptive Cross-Modal Few-Shot Learning](https://arxiv.org/abs/1902.07104)
+  - 把词语作为文本输入，非常简单的多模态融合，基于原型网络
 - [ICML2019] [Infinite Mixture Prototypes for Few-Shot Learning](https://arxiv.org/abs/1902.04552)
+  - 基于原型网络，原先一个类别一个聚类，变成一个类别一组聚类
 - [ICLR2019] [A Closer Look at Few-shot Classification](https://arxiv.org/abs/1904.04232) [[Code](https://github.com/wyharveychen/CloserLookFewShot)]
+  - Baseline and Baseline++ 
 - [ICLR2019] [Meta-Learning with Latent Embedding Optimization](https://arxiv.org/abs/1807.05960)
 - [ICCV2019] [Diversity with Cooperation: Ensemble Methods for Few-Shot Classification](https://arxiv.org/abs/1903.11341)
-- [ICCV2019] [Learning Compositional Representations for Few-Shot Recognition](https://arxiv.org/abs/1812.09213)
-- [CVPR2019] [Meta-Learning with Differentiable Convex Optimization](https://arxiv.org/abs/1904.03758)
+- [ICCV2019] [Learning Compositional Representations for Few-Shot Recognition](https://arxiv.org/abs/1812.09213) [[Code](https://drive.google.com/file/d/12Hn9pmBjYKGCWzumUmsbdi7viq-L3-IU/view)]
+  - 使用属性标签，提出一种concept拼接方法
+- [CVPR2019] [Meta-Learning with Differentiable Convex Optimization](https://arxiv.org/abs/1904.03758) [[Code](https://github.com/kjunelee/MetaOptNet)]
+  - 没看懂
 - [ICLR2020] [Meta-dataset: A dataset of datasets for learning to learn from few examples](https://arxiv.org/abs/1903.03096) [[Code](https://github.com/google-research/meta-dataset)]
-- [CVPR2020] [DeepEMD: Differentiable Earth Mover's Distance for Few-Shot Learning](https://arxiv.org/abs/2003.06777)
+- [CVPR2020] [DeepEMD: Differentiable Earth Mover's Distance for Few-Shot Learning](https://arxiv.org/abs/2003.06777) [[Code](https://github.com/icoz69/DeepEMD)]
+  - 基于image regions，三种情况FCN、Grid、Sampling
 - [IJCAI2020] [Multi-attention meta learning for few-shot fine-grained image recognition](http://vipl.ict.ac.cn/homepage/jsq/publication/2020-Zhu-IJCAI-PRICAI.pdf)
+  - 基于MAML，引入CBAM注意力机制
 - [CVPR2021] [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603) [[Code](https://github.com/JosephKJ/OWOD)]
-- [CVPR2021] [Counterfactual Zero-Shot and Open-Set Visual Recognition](https://arxiv.org/abs/2103.00887)
+- [CVPR2021] [Counterfactual Zero-Shot and Open-Set Visual Recognition](https://arxiv.org/abs/2103.00887) [[Code](https://github.com/yue-zhongqi/gcm-cf)]
 - [ICLR2021] [Concept Learners for Few-Shot Learning](https://arxiv.org/pdf/2007.07375.pdf) [[Code](https://github.com/snap-stanford/comet)]
+  - 基于原型网络，随机生成concept
 
 ## Semi-supervised/Unsupervised/Self-supervised
 - [ICCV2015] [Unsupervised Visual Representation Learning by Context Prediction](https://arxiv.org/abs/1505.05192)
@@ -114,10 +125,12 @@
 - [ICCV2017] [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
 - [NIPS2018] [Towards Robust Interpretability with Self-Explaining Neural Networks](https://arxiv.org/abs/1806.07538)
 - [ICML2018] [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/abs/1711.11279)
+  - TACV importance score
 - [AAAI2018] [Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions](https://arxiv.org/abs/1710.04806)
 - [CVPR2019] [Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks](https://arxiv.org/abs/1908.02686)
 - [NIPS2019] [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://arxiv.org/abs/1806.10574)
 - [NIPS2019] [Towards Automatic Concept-based Explanations](https://arxiv.org/abs/1902.03129)
+  - 找到响应最高的concept，有点意思
 
 
 ## Others
