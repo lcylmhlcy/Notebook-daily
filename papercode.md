@@ -41,6 +41,7 @@
 
 ## Concept learning
 - [AMCSS2011] [One shot learning of simple visual concepts](https://escholarship.org/content/qt4ht821jx/qt4ht821jx.pdf)
+- [Philosophical Psychology 2012] [Concept possession, experimental semantics, and hybrid theories of reference](https://www.tandfonline.com/doi/abs/10.1080/09515089.2011.627538)
 - [Science2015] [Human-level concept learning through probabilistic program induction](https://science.sciencemag.org/content/350/6266/1332/)
 - [ICLRW2018] [Concept Learning with Energy-Based Models](https://arxiv.org/abs/1811.02486)
 - [Nature2020] [Concept whitening for interpretable image recognition](https://www.nature.com/articles/s42256-020-00265-z) [[Code](https://github.com/zhiCHEN96/ConceptWhitening)]
@@ -54,20 +55,29 @@
 
 
 ## Interpret
+- [2014] [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/abs/1312.6034)
+- [2016] [Model-Agnostic Interpretability of Machine Learning](https://arxiv.org/abs/1606.05386)
 - [KDD2016] ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938)
+- [2017] [SmoothGrad: removing noise by adding noise](https://arxiv.org/abs/1706.03825)
 - [NIPS2017] [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874)
+- [ICML2017] [Axiomatic Attribution for Deep Networks](https://arxiv.org/abs/1703.01365)
 - [ICCV2017] [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
 - [NIPS2018] [Towards Robust Interpretability with Self-Explaining Neural Networks](https://arxiv.org/abs/1806.07538)
-- [NIPS2018] [Sanity checks for saliency maps](https://arxiv.org/abs/1810.03292)
+- [NIPS2018] [Sanity checks for saliency maps](https://arxiv.org/abs/1810.03292) [**Goodfellow**]
 - [ICML2018] [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/abs/1711.11279) [Google]
   - TCAV importance score，量化concept对模型影响度
   - concept: high-level, human-friendly; feature: low-level
 - [AAAI2018] [Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions](https://arxiv.org/abs/1710.04806)
+- [ECCV2018] [Interpretable basis decomposition for visual explanation](http://bzhou.ie.cuhk.edu.hk/publication/eccv18-IBD.pdf)
+  - concept
 - [CVPR2019] [Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks](https://arxiv.org/abs/1908.02686)
 - [NIPS2019] [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://arxiv.org/abs/1806.10574)
+- [AAAI2019] [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547)
+- [ICAIS2019] [Knockoffs for the mass: new feature importance statistics with false discovery guarantees](https://arxiv.org/abs/1807.06214)
+- [ExplainableAI2019] [The (un) reliability of saliency methods](https://arxiv.org/abs/1711.00867)
 - [NIPS2019] [Towards Automatic Concept-based Explanations](https://arxiv.org/abs/1902.03129) [[Code](https://github.com/amiratag/ACE)]
   - 找到响应最高的concept，基于TCAV
-
+- [2021] [Manipulating and Measuring Model Interpretability](https://arxiv.org/abs/1802.07810)
 
 ## Semi-supervised/Unsupervised
 - [ICCV2015] [Unsupervised Visual Representation Learning by Context Prediction](https://arxiv.org/abs/1505.05192)
