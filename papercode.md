@@ -65,7 +65,7 @@
 - [AAAI2018] [Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions](https://arxiv.org/abs/1710.04806)
 - [CVPR2019] [Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks](https://arxiv.org/abs/1908.02686)
 - [NIPS2019] [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://arxiv.org/abs/1806.10574)
-- [NIPS2019] [Towards Automatic Concept-based Explanations](https://arxiv.org/abs/1902.03129)
+- [NIPS2019] [Towards Automatic Concept-based Explanations](https://arxiv.org/abs/1902.03129) [[Code](https://github.com/amiratag/ACE)]
   - 找到响应最高的concept，基于TCAV
 
 
