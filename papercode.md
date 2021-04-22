@@ -55,28 +55,39 @@
 
 
 ## Interpret
+- [NIPS2009] [Reading tea leaves: How humans interpret topic models](https://www.cs.ubc.ca/~rjoty/Webpage/nips2009-rtl.pdf)
 - [2014] [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/abs/1312.6034)
+- [2014] [Methods and Models for Interpretable Linear Classification](https://arxiv.org/abs/1405.4047)
+- [ECCV2014] [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)
+- [NIPS2014] [The bayesian case model: A generative approach for case-based reasoning and prototype classification](https://proceedings.neurips.cc/paper/2014/file/390e982518a50e280d8e2b535462ec1f-Paper.pdf)
+- [AISTATS2015] [Falling Rule Lists](https://arxiv.org/abs/1411.5899)
 - [2016] [Model-Agnostic Interpretability of Machine Learning](https://arxiv.org/abs/1606.05386)
 - [KDD2016] ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938)
 - [2017] [SmoothGrad: removing noise by adding noise](https://arxiv.org/abs/1706.03825)
 - [NIPS2017] [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874)
+- [NIPS2017] [Real Time Image Saliency for Black Box Classifiers](https://arxiv.org/abs/1705.07857)
 - [ICML2017] [Axiomatic Attribution for Deep Networks](https://arxiv.org/abs/1703.01365)
+- [ICML2017] [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/abs/1703.04730)
 - [ICCV2017] [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
 - [NIPS2018] [Towards Robust Interpretability with Self-Explaining Neural Networks](https://arxiv.org/abs/1806.07538)
 - [NIPS2018] [Sanity checks for saliency maps](https://arxiv.org/abs/1810.03292) [**Goodfellow**]
 - [ICML2018] [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/abs/1711.11279) [Google]
   - TCAV importance score，量化concept对模型影响度
   - concept: high-level, human-friendly; feature: low-level
+  - prodeces estimates of how important that a concept was for the prediction
 - [AAAI2018] [Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions](https://arxiv.org/abs/1710.04806)
 - [ECCV2018] [Interpretable basis decomposition for visual explanation](http://bzhou.ie.cuhk.edu.hk/publication/eccv18-IBD.pdf)
-  - concept
+  - decomposes the prediction of one image into human-interpretable **conceptual components**
+- [CVPR2018] [Deep Image Prior](https://arxiv.org/abs/1711.10925) [[Code](https://github.com/DmitryUlyanov/deep-image-prior)]
 - [CVPR2019] [Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks](https://arxiv.org/abs/1908.02686)
 - [NIPS2019] [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://arxiv.org/abs/1806.10574)
 - [AAAI2019] [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547)
-- [ICAIS2019] [Knockoffs for the mass: new feature importance statistics with false discovery guarantees](https://arxiv.org/abs/1807.06214)
+- [AISTATS2019] [Knockoffs for the mass: new feature importance statistics with false discovery guarantees](https://arxiv.org/abs/1807.06214)
 - [ExplainableAI2019] [The (un) reliability of saliency methods](https://arxiv.org/abs/1711.00867)
 - [NIPS2019] [Towards Automatic Concept-based Explanations](https://arxiv.org/abs/1902.03129) [[Code](https://github.com/amiratag/ACE)]
   - 找到响应最高的concept，基于TCAV
+  - without human supervision
+  - concept-based explanation: meaningfulness, coherency, and importance
 - [2021] [Manipulating and Measuring Model Interpretability](https://arxiv.org/abs/1802.07810)
 
 ## Semi-supervised/Unsupervised
