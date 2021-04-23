@@ -1,12 +1,16 @@
 ## Few-shot/meta/openset
 - [Demo] [Code for few shot](https://github.com/oscarknagg/few-shot)
 - [Demo] [Hands-On-Meta-Learning-With-Python](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python)
+- [NIPS1996] [Is learning the n-th thing any easier than learning the first?](https://people.eecs.berkeley.edu/~russell/classes/cs294/f05/papers/thrun-1996.pdf)
 - [TPAMI2006] [One-shot learning of object categories](https://ieeexplore.ieee.org/abstract/document/1597116) [**Feifei Li**]
+- [2014] [Tinkering Under the Hood: Interactive Zero-Shot Learning with Net Surgery](https://arxiv.org/abs/1612.04901)
 - [ICCV2015] [One Shot Learning via Compositions of Meaningful Patches](https://ieeexplore.ieee.org/abstract/document/7410499)
 - [ICMLW2015] [Siamese neural networks for one-shot image recognition](http://www.cs.toronto.edu/~gkoch/files/msc-thesis.pdf)
+- [ECCV2016] [Learning to learn: Model regression networks for easy small sample learning](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_37)
 - [NIPS2016] [Matching Networks for One Shot Learning](https://arxiv.org/pdf/1606.04080.pdf)
 - [NIPS2017] [Prototypical Networks for Few-shot Learning](https://arxiv.org/pdf/1703.05175.pdf)
 - [ICLR2017] [Optimization as a Model for Few-Shot Learning](https://openreview.net/forum?id=rJY0-Kcll)
+- [ICML2017] [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
 - [CVPR2018] [Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/abs/1711.06025) [[Code](https://github.com/floodsung/LearningToCompare_FSL)]
 - [CVPR2018] [Dynamic Few-Shot Visual Learning without Forgetting](https://arxiv.org/abs/1804.09458) [[Code](https://github.com/gidariss/FewShotWithoutForgetting)]
 - [NIPS2018] [TADAM: Task dependent adaptive metric for improved few-shot learning](https://arxiv.org/abs/1805.10123) [[Code](https://github.com/ElementAI/TADAM)]
@@ -39,11 +43,25 @@
   - 基于原型网络，随机生成concept
 
 
-## Concept learning
+## Concept learning/Compositional representations/part-based
+- [MIT Technical report 1970] [Learning structural descriptions from examples](https://dspace.mit.edu/handle/1721.1/6884)
+- [Biological Sciences 1978] [Representation and recognition of the spatial organization of three-dimensional shapes](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.1978.0020)
+- [MIT Press 1982] [Vision: A computational investigation into the human representation and processing of visual information](http://papers.cumincad.org/cgi-bin/works/Show?fafahttp://papers.cumincad.org/cgi-bin/works/Show?fafa)
+- [Cognition 1984] [Parts of recognition](https://www.sciencedirect.com/science/article/pii/0010027784900222)
+- [Psychological review 1987] [Recognition-by-components: a theory of human image understanding](https://psycnet.apa.org/record/1987-20898-001)
 - [AMCSS2011] [One shot learning of simple visual concepts](https://escholarship.org/content/qt4ht821jx/qt4ht821jx.pdf)
+- [CVPR2007] [Towards scalable representations of object categories: Learning a hierarchy of parts](http://www.mobvis.org/publications/cvpr07_fidler_leonardis.pdf)
+- [TPAMI2009] [Object Detection with Discriminatively Trained Part Based Models](http://vision.stanford.edu/teaching/cs231b_spring1415/papers/dpm.pdf)
+- [CVPR2009] [Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer](http://ftp.idiap.ch/pub/courses/EE-700/material/28-11-2012/lampert-cvpr2009.pdf)
+- [CVPR2010] [Part and Appearance Sharing: Recursive Compositional Models for Multi-View Multi-Object Detection](http://www.cs.jhu.edu/~alanlab/Pubs10/zhu2010part.pdf)
+- [CVPR2011] [Shared Parts for Deformable Part-based Models](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.225.6520&rep=rep1&type=pdf)
 - [Philosophical Psychology 2012] [Concept possession, experimental semantics, and hybrid theories of reference](https://www.tandfonline.com/doi/abs/10.1080/09515089.2011.627538)
 - [Science2015] [Human-level concept learning through probabilistic program induction](https://science.sciencemag.org/content/350/6266/1332/)
+- [Behavioral and brain sciences 2017] [Building machines that learn and think like people](https://core.ac.uk/download/pdf/141473153.pdf)
+- [CVPR2017] [From Red Wine to Red Tomato: Composition with Context](https://www.cs.cmu.edu/~imisra/data/composing_cvpr17.pdf)
+- [CVPR2017] [Teaching compositionality to cnns](https://arxiv.org/abs/1706.04313)
 - [ICLRW2018] [Concept Learning with Energy-Based Models](https://arxiv.org/abs/1811.02486)
+- [ICLR2019] [Measuring Compositionality in Representation Learning](https://arxiv.org/abs/1902.07181)
 - [Nature2020] [Concept whitening for interpretable image recognition](https://www.nature.com/articles/s42256-020-00265-z) [[Code](https://github.com/zhiCHEN96/ConceptWhitening)]
 
 
@@ -56,10 +74,11 @@
 
 ## Interpret
 - [NIPS2009] [Reading tea leaves: How humans interpret topic models](https://www.cs.ubc.ca/~rjoty/Webpage/nips2009-rtl.pdf)
-- [2014] [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/abs/1312.6034)
+- [ICLRW2014] [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/abs/1312.6034)
 - [2014] [Methods and Models for Interpretable Linear Classification](https://arxiv.org/abs/1405.4047)
 - [ECCV2014] [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)
 - [NIPS2014] [The bayesian case model: A generative approach for case-based reasoning and prototype classification](https://proceedings.neurips.cc/paper/2014/file/390e982518a50e280d8e2b535462ec1f-Paper.pdf)
+- [CVPR2015] [Understanding Deep Image Representations by Inverting Them](https://arxiv.org/abs/1412.0035)
 - [AISTATS2015] [Falling Rule Lists](https://arxiv.org/abs/1411.5899)
 - [2016] [Model-Agnostic Interpretability of Machine Learning](https://arxiv.org/abs/1606.05386)
 - [KDD2016] ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938)
@@ -80,6 +99,7 @@
   - decomposes the prediction of one image into human-interpretable **conceptual components**
 - [CVPR2018] [Deep Image Prior](https://arxiv.org/abs/1711.10925) [[Code](https://github.com/DmitryUlyanov/deep-image-prior)]
 - [CVPR2019] [Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks](https://arxiv.org/abs/1908.02686)
+- [TPAMI2018] [Interpreting Deep Visual Representations via Network Dissection](https://ieeexplore.ieee.org/abstract/document/8417924)
 - [NIPS2019] [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://arxiv.org/abs/1806.10574)
 - [AAAI2019] [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547)
 - [AISTATS2019] [Knockoffs for the mass: new feature importance statistics with false discovery guarantees](https://arxiv.org/abs/1807.06214)
