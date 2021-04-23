@@ -49,6 +49,7 @@
 - [MIT Press 1982] [Vision: A computational investigation into the human representation and processing of visual information](http://papers.cumincad.org/cgi-bin/works/Show?fafahttp://papers.cumincad.org/cgi-bin/works/Show?fafa)
 - [Cognition 1984] [Parts of recognition](https://www.sciencedirect.com/science/article/pii/0010027784900222)
 - [Psychological review 1987] [Recognition-by-components: a theory of human image understanding](https://psycnet.apa.org/record/1987-20898-001)
+- [CVPR2000] [Learning from one example through shared densities on transforms](https://people.cs.umass.edu/~elm/papers/cvpr2000.pdf)
 - [AMCSS2011] [One shot learning of simple visual concepts](https://escholarship.org/content/qt4ht821jx/qt4ht821jx.pdf)
 - [CVPR2007] [Towards scalable representations of object categories: Learning a hierarchy of parts](http://www.mobvis.org/publications/cvpr07_fidler_leonardis.pdf)
 - [TPAMI2009] [Object Detection with Discriminatively Trained Part Based Models](http://vision.stanford.edu/teaching/cs231b_spring1415/papers/dpm.pdf)
