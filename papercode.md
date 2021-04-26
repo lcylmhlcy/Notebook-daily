@@ -113,6 +113,7 @@
 
 ## Semi-supervised/Unsupervised
 - [ICCV2015] [Unsupervised Visual Representation Learning by Context Prediction](https://arxiv.org/abs/1505.05192)
+- [CVPR2018] [Unsupervised discovery of object landmarks as structural representations](https://arxiv.org/abs/1804.04412) [[Code](https://github.com/YutingZhang/lmdis-rep)]
 - [CVPR2021] [SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification](https://arxiv.org/pdf/2103.16725.pdf) [[Code](https://github.com/zijian-hu/SimPLE)]
 
 
