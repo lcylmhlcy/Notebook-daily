@@ -70,6 +70,7 @@
 - [2018] [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
 - [ICLR2019] [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670) [**Bengio**]
 - [CVPR2020] [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722) [**Kaiming He**]
+- [2020] [Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566) [**Kaiming He**]
 - [2021] [Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/abs/2103.03230) [**LeCun**] [[Code](https://github.com/facebookresearch/barlowtwins)]
 
 
