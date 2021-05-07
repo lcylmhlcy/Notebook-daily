@@ -1,26 +1,18 @@
 ## Few-shot/meta/openset
 - [Demo] [Code for few shot](https://github.com/oscarknagg/few-shot)
 - [Demo] [Hands-On-Meta-Learning-With-Python](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python)
-- [NIPS1996] [Is learning the n-th thing any easier than learning the first?](https://people.eecs.berkeley.edu/~russell/classes/cs294/f05/papers/thrun-1996.pdf)
-- [TPAMI2006] [One-shot learning of object categories](https://ieeexplore.ieee.org/abstract/document/1597116) [**Feifei Li**]
-- [2014] [Tinkering Under the Hood: Interactive Zero-Shot Learning with Net Surgery](https://arxiv.org/abs/1612.04901)
-- [ICCV2015] [One Shot Learning via Compositions of Meaningful Patches](https://ieeexplore.ieee.org/abstract/document/7410499)
+
+### distance metric
 - [ICMLW2015] [Siamese neural networks for one-shot image recognition](http://www.cs.toronto.edu/~gkoch/files/msc-thesis.pdf)
-- [ECCV2016] [Learning to learn: Model regression networks for easy small sample learning](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_37)
 - [NIPS2016] [Matching Networks for One Shot Learning](https://arxiv.org/pdf/1606.04080.pdf)
 - [NIPS2017] [Prototypical Networks for Few-shot Learning](https://arxiv.org/pdf/1703.05175.pdf)
-- [ICLR2017] [Optimization as a Model for Few-Shot Learning](https://openreview.net/forum?id=rJY0-Kcll)
-- [ICML2017] [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
 - [CVPR2018] [Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/abs/1711.06025) [[Code](https://github.com/floodsung/LearningToCompare_FSL)]
 - [CVPR2018] [Dynamic Few-Shot Visual Learning without Forgetting](https://arxiv.org/abs/1804.09458) [[Code](https://github.com/gidariss/FewShotWithoutForgetting)]
-- [NIPS2018] [TADAM: Task dependent adaptive metric for improved few-shot learning](https://arxiv.org/abs/1805.10123) [[Code](https://github.com/ElementAI/TADAM)]
+- [CVPR2018] [Low-Shot Learning with Imprinted Weights](https://arxiv.org/abs/1712.07136)
 - [ICLR2018] [Meta-Learning for Semi-Supervised Few-Shot Classification](https://arxiv.org/abs/1803.00676)
   - 在原型网络上优化
-- [NIPS2019] [Visual Concept-Metaconcept Learning](http://vcml.csail.mit.edu/data/papers/2019NeurIPS-VCML.pdf) [[Code](https://github.com/Glaciohound/VCML)]
-  - concept跟metaconcept的定义，制定推理过程
 - [NIPS2019] [Cross Attention Network for Few-shot Classification](https://arxiv.org/abs/1910.07677)
   - 基于relation网络，套SENet
-- [NIPS2019] [Learning to Propagate for **Graph** Meta-Learning](https://arxiv.org/abs/1909.05024) [[Code](https://github.com/liulu112601/Gated-Propagation-Net)]
 - [NIPS2019] [Adaptive Cross-Modal Few-Shot Learning](https://arxiv.org/abs/1902.07104)
   - 把词语作为文本输入，非常简单的多模态融合，基于原型网络
 - [ICML2019] [Infinite Mixture Prototypes for Few-Shot Learning](https://arxiv.org/abs/1902.04552)
@@ -28,6 +20,7 @@
 - [ICLR2019] [A Closer Look at Few-shot Classification](https://arxiv.org/abs/1904.04232) [[Code](https://github.com/wyharveychen/CloserLookFewShot)]
   - Baseline and Baseline++ 
 - [ICLR2019] [Meta-Learning with Latent Embedding Optimization](https://arxiv.org/abs/1807.05960)
+- [ICLR2019] [Meta-learning with differentiable closed-form solvers](https://arxiv.org/abs/1805.08136) [[Code](https://github.com/bertinetto/r2d2)]
 - [ICCV2019] [Diversity with Cooperation: Ensemble Methods for Few-Shot Classification](https://arxiv.org/abs/1903.11341)
 - [ICCV2019] [Learning Compositional Representations for Few-Shot Recognition](https://arxiv.org/abs/1812.09213) [[Code](https://drive.google.com/file/d/12Hn9pmBjYKGCWzumUmsbdi7viq-L3-IU/view)]
   - 使用属性标签，提出一种concept拼接方法
@@ -37,10 +30,26 @@
   - 基于image regions，三种情况FCN、Grid、Sampling
 - [IJCAI2020] [Multi-attention meta learning for few-shot fine-grained image recognition](http://vipl.ict.ac.cn/homepage/jsq/publication/2020-Zhu-IJCAI-PRICAI.pdf)
   - 基于MAML，引入CBAM注意力机制
-- [CVPR2021] [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603) [[Code](https://github.com/JosephKJ/OWOD)]
-- [CVPR2021] [Counterfactual Zero-Shot and Open-Set Visual Recognition](https://arxiv.org/abs/2103.00887) [[Code](https://github.com/yue-zhongqi/gcm-cf)]
 - [ICLR2021] [Concept Learners for Few-Shot Learning](https://arxiv.org/pdf/2007.07375.pdf) [[Code](https://github.com/snap-stanford/comet)]
   - 基于原型网络，随机生成concept
+
+### graph
+- [NIPS2019] [Learning to Propagate for **Graph** Meta-Learning](https://arxiv.org/abs/1909.05024) [[Code](https://github.com/liulu112601/Gated-Propagation-Net)]
+
+### others based
+- [NIPS1996] [Is learning the n-th thing any easier than learning the first?](https://people.eecs.berkeley.edu/~russell/classes/cs294/f05/papers/thrun-1996.pdf)
+- [TPAMI2006] [One-shot learning of object categories](https://ieeexplore.ieee.org/abstract/document/1597116) [**Feifei Li**]
+- [2014] [Tinkering Under the Hood: Interactive Zero-Shot Learning with Net Surgery](https://arxiv.org/abs/1612.04901)
+- [ICCV2015] [One Shot Learning via Compositions of Meaningful Patches](https://ieeexplore.ieee.org/abstract/document/7410499)
+- [ECCV2016] [Learning to learn: Model regression networks for easy small sample learning](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_37)
+- [ICLR2017] [Optimization as a Model for Few-Shot Learning](https://openreview.net/forum?id=rJY0-Kcll)
+- [ICML2017] [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
+- [NIPS2018] [TADAM: Task dependent adaptive metric for improved few-shot learning](https://arxiv.org/abs/1805.10123) [[Code](https://github.com/ElementAI/TADAM)]
+
+### openset
+- [CVPR2021] [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603) [[Code](https://github.com/JosephKJ/OWOD)]
+- [CVPR2021] [Counterfactual Zero-Shot and Open-Set Visual Recognition](https://arxiv.org/abs/2103.00887) [[Code](https://github.com/yue-zhongqi/gcm-cf)]
+
 
 
 ## Concept learning/Compositional representations/part-based
@@ -63,6 +72,8 @@
 - [CVPR2017] [Teaching compositionality to cnns](https://arxiv.org/abs/1706.04313)
 - [ICLRW2018] [Concept Learning with Energy-Based Models](https://arxiv.org/abs/1811.02486)
 - [ICLR2019] [Measuring Compositionality in Representation Learning](https://arxiv.org/abs/1902.07181)
+- [NIPS2019] [Visual Concept-Metaconcept Learning](http://vcml.csail.mit.edu/data/papers/2019NeurIPS-VCML.pdf) [[Code](https://github.com/Glaciohound/VCML)]
+  - concept跟metaconcept的定义，制定推理过程
 - [Nature2020] [Concept whitening for interpretable image recognition](https://www.nature.com/articles/s42256-020-00265-z) [[Code](https://github.com/zhiCHEN96/ConceptWhitening)]
 
 
