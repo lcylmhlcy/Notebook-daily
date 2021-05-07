@@ -6,3 +6,8 @@ What: learn a generator from data in the base classes and use the learned genera
 
 ## domain adaptation
 - [2018] [Domain Adaption in One-Shot Learning](https://link.springer.com/chapter/10.1007/978-3-030-10925-7_35)
+- [ICLR2018] [Learning to cluster in order to transfer across domains and tasks](https://arxiv.org/abs/1711.10125)
+  
+## Reduce intra-class variations of features
+- [CVPR2015/TIP2016] [Deep Transfer Metric Learning](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.707.2664&rep=rep1&type=pdf)
+- [CVPR2018] [Dynamic Few-Shot Visual Learning without Forgetting](https://arxiv.org/abs/1804.09458) [[Code](https://github.com/gidariss/FewShotWithoutForgetting)]
