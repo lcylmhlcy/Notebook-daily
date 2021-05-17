@@ -132,6 +132,7 @@
   - without human supervision
   - concept-based explanation: meaningfulness, coherency, and importance
 - [2021] [Manipulating and Measuring Model Interpretability](https://arxiv.org/abs/1802.07810)
+- [ICML WHI 2020] [Robust Semantic Interpretability: Revisiting Concept Activation Vectors](https://arxiv.org/abs/2104.02768) [[Code](https://github.com/keiserlab/rcav)]
 
 ## Semi-supervised/Unsupervised
 - [ICCV2015] [Unsupervised Visual Representation Learning by Context Prediction](https://arxiv.org/abs/1505.05192)
