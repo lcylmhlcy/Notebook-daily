@@ -123,6 +123,7 @@
 - [ECCV2018] [Interpretable basis decomposition for visual explanation](http://bzhou.ie.cuhk.edu.hk/publication/eccv18-IBD.pdf)
   - decomposes the prediction of one image into human-interpretable **conceptual components**
 - [CVPR2018] [Deep Image Prior](https://arxiv.org/abs/1711.10925) [[Code](https://github.com/DmitryUlyanov/deep-image-prior)]
+- [CVPR2018] [The unreasonable effectiveness of deep features as a perceptual metric](https://arxiv.org/abs/1801.03924) [[Code](https://github.com/richzhang/PerceptualSimilarity)]
 - [CVPR2019] [Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks](https://arxiv.org/abs/1908.02686)
 - [TPAMI2018] [Interpreting Deep Visual Representations via Network Dissection](https://ieeexplore.ieee.org/abstract/document/8417924)
 - [NIPS2019] [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://arxiv.org/abs/1806.10574)
