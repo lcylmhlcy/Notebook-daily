@@ -93,6 +93,7 @@
 - [AAAI2021] [Train a One-Million-Way Instance Classifier for Unsupervised Visual Representation Learning](https://arxiv.org/abs/2102.04848) [Alibaba]
 - [2021] [Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/abs/2103.03230) [**LeCun**] [[Code](https://github.com/facebookresearch/barlowtwins)]
 - [2021] [An Empirical Study of Training Self-Supervised Visual Transformers](https://arxiv.org/abs/2104.02057) [**Kaiming He**] [**MOCO v3**]
+- [2021] [VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning](https://arxiv.org/pdf/2105.04906.pdf) [**LeCun**]
 
 
 ## Interpret
