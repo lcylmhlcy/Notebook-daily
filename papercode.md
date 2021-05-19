@@ -91,6 +91,7 @@
 - [2020] [Big self-supervised models are strong semi-supervised learners](https://arxiv.org/abs/2006.10029) [**Hinton**] [**SIMCLR v2**] [[Code](https://github.com/google-research/simclr)]
 - [2020] [Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566) [**Kaiming He**] [**SIMSIAM**]
 - [AAAI2021] [Train a One-Million-Way Instance Classifier for Unsupervised Visual Representation Learning](https://arxiv.org/abs/2102.04848) [Alibaba]
+- [2021] [Whitening for Self-Supervised Representation Learning](https://arxiv.org/abs/2007.06346)
 - [2021] [Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/abs/2103.03230) [**LeCun**] [[Code](https://github.com/facebookresearch/barlowtwins)]
 - [2021] [An Empirical Study of Training Self-Supervised Visual Transformers](https://arxiv.org/abs/2104.02057) [**Kaiming He**] [**MOCO v3**]
 - [2021] [VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning](https://arxiv.org/pdf/2105.04906.pdf) [**LeCun**]
