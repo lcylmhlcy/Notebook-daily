@@ -16,6 +16,8 @@
 - [CVPR2021] [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603) [[Code](https://github.com/JosephKJ/OWOD)]
 - [CVPR2021] [Counterfactual Zero-Shot and Open-Set Visual Recognition](https://arxiv.org/abs/2103.00887) [[Code](https://github.com/yue-zhongqi/gcm-cf)]
 
+
+
 ## Semi-supervised/Unsupervised
 - [ICCV2015] [Unsupervised Visual Representation Learning by Context Prediction](https://arxiv.org/abs/1505.05192)
 - [CVPR2018] [Unsupervised discovery of object landmarks as structural representations](https://arxiv.org/abs/1804.04412) [[Code](https://github.com/YutingZhang/lmdis-rep)]
@@ -32,6 +34,8 @@
 - [CVPR2019] [Destruction and Construction Learning for Fine-grained Image Recognition](https://openreview.net/forum?id=HibvKgQe_pH) [[Code](https://github.com/JDAI-CV/DCL)]
 - [CVPR2021] [MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition](https://arxiv.org/abs/2103.12579) [[Code](https://github.com/BIT-DA/MetaSAug)]
 - [CVPR2021] [Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161) [[Code](https://github.com/yinboc/liif)]
+- [CVPR2021] [Noise-resistant Deep Metric Learning with Ranking-based Instance Selection](https://arxiv.org/abs/2103.16047) [[Code](https://github.com/alibaba-edu/Ranking-based-Instance-Selection)]
+  - 第一篇尝试解决存在大量标签噪音的深度度量学习问题
 
 
 ## Reasoning
@@ -86,6 +90,7 @@
 - [ICML2020] [Contrastive Multi-View Representation Learning on Graphs](https://arxiv.org/pdf/2006.05582.pdf)
 - [NIPS2020 Tutorial] [Graph Mining and Learning](https://gm-neurips-2020.github.io/)
 - [2020] [Contrastive Learning of Structured World Models](http://arxiv.org/abs/1911.12247) [[Code](https://github.com/tkipf/c-swm)]
+- [ICML2021] [Graphnorm: A principled approach to accelerating graph neural network training](https://arxiv.org/abs/2009.03294) [[Code](https://github.com/lsj2408/GraphNorm)]
 
 
 ## 1D data
