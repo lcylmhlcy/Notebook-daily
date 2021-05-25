@@ -36,6 +36,7 @@
 - [CVPR2021] [Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161) [[Code](https://github.com/yinboc/liif)]
 - [CVPR2021] [Noise-resistant Deep Metric Learning with Ranking-based Instance Selection](https://arxiv.org/abs/2103.16047) [[Code](https://github.com/alibaba-edu/Ranking-based-Instance-Selection)]
   - 第一篇尝试解决存在大量标签噪音的深度度量学习问题
+- [CVPR2021] [Correlated Input-Dependent Label Noise in Large-Scale Image Classification](https://arxiv.org/abs/2105.10305) [**GoogleAI**]
 
 
 ## Reasoning
