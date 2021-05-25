@@ -39,6 +39,11 @@
 - [CVPR2021] [Correlated Input-Dependent Label Noise in Large-Scale Image Classification](https://arxiv.org/abs/2105.10305) [**GoogleAI**]
 
 
+## MLP
+- [ICLR2021] [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
+- [2021] [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/pdf/2105.01601.pdf) [[Code](https://github.com/google-research/vision_transformer/tree/linen)]
+
+
 ## Reasoning
 - [ICLR2020] [CLEVRER: CoLlision Events for Video REpresentation and Reasoning](https://arxiv.org/abs/1910.01442) [**DeepMind**] [[Project](http://clevrer.csail.mit.edu/)]
 - [CVPR2020] [Graph-Structured Referring Expression Reasoning in The Wild](https://arxiv.org/pdf/2004.08814.pdf) [[Github](https://github.com/sibeiyang/sgmn)]
