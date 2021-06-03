@@ -11,6 +11,7 @@
 - [ICLR2017] [Optimization as a Model for Few-Shot Learning](https://openreview.net/forum?id=rJY0-Kcll)
 - [ICML2017] [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
 - [NIPS2018] [TADAM: Task dependent adaptive metric for improved few-shot learning](https://arxiv.org/abs/1805.10123) [[Code](https://github.com/ElementAI/TADAM)]
+- [ICLR2021] [Zero-shot Synthesis with Group-Supervised Learning](https://arxiv.org/abs/2009.06586) [[Code](https://github.com/gyhandy/Group-Supervised-Learning)]
 
 ### openset
 - [CVPR2021] [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603) [[Code](https://github.com/JosephKJ/OWOD)]
@@ -37,6 +38,7 @@
 - [CVPR2021] [Noise-resistant Deep Metric Learning with Ranking-based Instance Selection](https://arxiv.org/abs/2103.16047) [[Code](https://github.com/alibaba-edu/Ranking-based-Instance-Selection)]
   - 第一篇尝试解决存在大量标签噪音的深度度量学习问题
 - [CVPR2021] [Correlated Input-Dependent Label Noise in Large-Scale Image Classification](https://arxiv.org/abs/2105.10305) [**GoogleAI**]
+- [CVPR2021] [Deep Stable Learning for Out-Of-Distribution Generalization](https://arxiv.org/abs/2104.07876)
 
 
 ## MLP
@@ -81,6 +83,7 @@
 - [CVPR2021] [VirTex: Learning Visual Representations from Textual Annotations](https://arxiv.org/abs/2006.06666) [[Code](https://github.com/kdexd/virtex)]
 - [AAAI2021] [SMIL: Multimodal Learning with Severely Missing Modality](https://arxiv.org/pdf/2103.05677.pdf) [[Code](https://github.com/mengmenm/SMIL)]
 - [ICLR2021] [Iterated learning for emergent systematicity in VQA](https://openreview.net/pdf?id=Pd_oMxH8IlF)
+- [ICLR2021] [Trusted Multi-View Classification](https://arxiv.org/abs/2102.02051) [[Code](https://github.com/hanmenghan/TMC)]
 
 
 ## Video/Action
@@ -88,6 +91,7 @@
 - [ICCV2019] [Compositional Video Prediction](https://arxiv.org/abs/1908.08522) [[Code](https://github.com/JudyYe/CVP)]
 - [2021] [Reformulating HOI Detection as Adaptive Set Prediction](https://arxiv.org/pdf/2103.05983.pdf)
 - [ICLR2021] [AdaFuse: Adaptive Temporal Fusion Network for Efficient Action Recognition](https://arxiv.org/pdf/2102.05775.pdf) [[Code](https://github.com/mengyuest/AdaFuse)]
+- [CVPR2021] [Self-supervised Video Representation Learning by Context and Motion Decoupling](https://arxiv.org/abs/2104.00862)
 
 
 ## Graph NN
@@ -96,6 +100,7 @@
 - [ICML2020] [Contrastive Multi-View Representation Learning on Graphs](https://arxiv.org/pdf/2006.05582.pdf)
 - [NIPS2020 Tutorial] [Graph Mining and Learning](https://gm-neurips-2020.github.io/)
 - [2020] [Contrastive Learning of Structured World Models](http://arxiv.org/abs/1911.12247) [[Code](https://github.com/tkipf/c-swm)]
+- [ICLRW2020] [An Energy-Based View of Graph Neural Networks](https://arxiv.org/abs/2104.1349)
 - [ICML2021] [Graphnorm: A principled approach to accelerating graph neural network training](https://arxiv.org/abs/2009.03294) [[Code](https://github.com/lsj2408/GraphNorm)]
 
 
@@ -109,3 +114,4 @@
 - [CVPR2021] [Dynamic Metric Learning: Towards a Scalable Metric Space to Accommodate Multiple Semantic Scales](https://arxiv.org/pdf/2103.11781v1.pdf) [[Code](https://github.com/SupetZYK/DynamicMetricLearning)]
 - [亚利桑那州立大学周纵苇：视觉的目的是什么？](https://hub.baai.ac.cn/view/6777)
 - [2021] [Embodied Intelligence via Learning and Evolution](https://arxiv.org/pdf/2102.02202.pdf) [**Feifei Li**]
+- [ICML2021] [Cross-domain Imitation from Observations](https://arxiv.org/abs/2105.10037)
