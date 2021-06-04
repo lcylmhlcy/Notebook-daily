@@ -97,7 +97,7 @@
 - [ICCV2017] [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
 - [NIPS2018] [Towards Robust Interpretability with Self-Explaining Neural Networks](https://arxiv.org/abs/1806.07538)
 - [NIPS2018] [Sanity checks for saliency maps](https://arxiv.org/abs/1810.03292) [**Goodfellow**]
-- [-] [ICML2018] [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/abs/1711.11279) [Google]
+- [x] [ICML2018] [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/abs/1711.11279) [Google]
   - TCAV importance score，量化concept对模型影响度
   - concept: high-level, human-friendly; feature: low-level
   - prodeces estimates of how important that a concept was for the prediction
@@ -114,7 +114,7 @@
 - [AAAI2019] [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547)
 - [AISTATS2019] [Knockoffs for the mass: new feature importance statistics with false discovery guarantees](https://arxiv.org/abs/1807.06214)
 - [ExplainableAI2019] [The (un) reliability of saliency methods](https://arxiv.org/abs/1711.00867)
-- [-] [NIPS2019] [Towards Automatic Concept-based Explanations](https://arxiv.org/abs/1902.03129) [[Code](https://github.com/amiratag/ACE)]
+- [x] [NIPS2019] [Towards Automatic Concept-based Explanations](https://arxiv.org/abs/1902.03129) [[Code](https://github.com/amiratag/ACE)]
   - 找到响应最高的concept，基于TCAV
   - without human supervision
   - concept-based explanation: meaningfulness, coherency, and importance
