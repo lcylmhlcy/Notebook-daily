@@ -106,8 +106,10 @@
   - decomposes the prediction of one image into human-interpretable **conceptual components**
 - [CVPR2018] [Deep Image Prior](https://arxiv.org/abs/1711.10925) [[Code](https://github.com/DmitryUlyanov/deep-image-prior)]
 - [CVPR2018] [The unreasonable effectiveness of deep features as a perceptual metric](https://arxiv.org/abs/1801.03924) [[Code](https://github.com/richzhang/PerceptualSimilarity)]
-- [CVPR2019] [Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks](https://arxiv.org/abs/1908.02686)
 - [TPAMI2018] [Interpreting Deep Visual Representations via Network Dissection](https://ieeexplore.ieee.org/abstract/document/8417924)
+- [CVPR2019] [Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks](https://arxiv.org/abs/1908.02686)
+- [CVPR2019] [Interpreting CNNs via Decision Trees](https://arxiv.org/abs/1802.00121)
+- [CVPR2019] [Learning to Explain With Complemental Examples](https://arxiv.org/abs/1812.01280)
 - [NIPS2019] [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://arxiv.org/abs/1806.10574)
 - [AAAI2019] [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547)
 - [AISTATS2019] [Knockoffs for the mass: new feature importance statistics with false discovery guarantees](https://arxiv.org/abs/1807.06214)
