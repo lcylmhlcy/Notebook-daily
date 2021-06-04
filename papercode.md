@@ -102,7 +102,7 @@
   - concept: high-level, human-friendly; feature: low-level
   - prodeces estimates of how important that a concept was for the prediction
 - [AAAI2018] [Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions](https://arxiv.org/abs/1710.04806)
-- [ECCV2018] [Interpretable basis decomposition for visual explanation](http://bzhou.ie.cuhk.edu.hk/publication/eccv18-IBD.pdf)
+- [ECCV2018] [Interpretable basis decomposition for visual explanation](http://bzhou.ie.cuhk.edu.hk/publication/eccv18-IBD.pdf) [[Code](https://github.com/CSAILVision/IBD)]
   - decomposes the prediction of one image into human-interpretable **conceptual components**
 - [CVPR2018] [Deep Image Prior](https://arxiv.org/abs/1711.10925) [[Code](https://github.com/DmitryUlyanov/deep-image-prior)]
 - [CVPR2018] [The unreasonable effectiveness of deep features as a perceptual metric](https://arxiv.org/abs/1801.03924) [[Code](https://github.com/richzhang/PerceptualSimilarity)]
