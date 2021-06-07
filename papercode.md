@@ -118,5 +118,7 @@
   - 找到响应最高的concept，基于TCAV
   - without human supervision
   - concept-based explanation: meaningfulness, coherency, and importance
-- [2021] [Manipulating and Measuring Model Interpretability](https://arxiv.org/abs/1802.07810)
+- [ACMMM2020] [Concept-based Explanation for Fine-grained Images and Its Application in Infectious Keratitis Classification](https://dl.acm.org/doi/10.1145/3394171.3413557) [[Code](https://github.com/createrfang/VisualConceptMining)]
 - [ICML WHI 2020] [Robust Semantic Interpretability: Revisiting Concept Activation Vectors](https://arxiv.org/abs/2104.02768) [[Code](https://github.com/keiserlab/rcav)]
+- [ICML2020] [Concept Bottleneck Models](http://proceedings.mlr.press/v119/koh20a/koh20a.pdf) [[Code](https://github.com/yewsiang/ConceptBottleneck)]
+- [2021] [Manipulating and Measuring Model Interpretability](https://arxiv.org/abs/1802.07810)
