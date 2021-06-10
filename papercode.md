@@ -60,7 +60,7 @@
 
 
 ## Self-supervised
-- [2018] [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
+- [2018] [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) [**CPC**] [**InfoNCE**]
 - [ECCV2018] [Deep clustering for unsupervised learning of visual features](https://arxiv.org/abs/1807.05520) 
 - [ICLR2019] [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670) [**Bengio**]
 - [CVPR2020] [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722) [**Kaiming He**] [**MOCO**] [[Code](https://github.com/facebookresearch/moco)]
@@ -68,11 +68,11 @@
 - [NIPS2020] [Unsupervised learning of visual features by contrasting cluster assignments](https://arxiv.org/abs/2006.09882) [**SWAV**]
 - [NIPS2020] [Bootstrap your own latent: A new approach to self-supervised learning](https://arxiv.org/abs/2006.07733) [DeepMind] [**BYOL**]
 - [2020] [AdCo: Adversarial Contrast for Efficient Learning of Unsupervised Representations from Self-Trained Negative Adversaries](https://arxiv.org/abs/2011.08435)
+- [ICML2020] [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272)
 - [ICML2020] [A simple framework for contrastive learning of visual representations](https://arxiv.org/abs/2002.05709) [**Hinton**] [**SIMCLR**]
 - [2020] [Improved baselines with momentum contrastive learning](https://arxiv.org/abs/2003.04297) [**Kaiming He**] [**MOCO v2**]
 - [2020] [Big self-supervised models are strong semi-supervised learners](https://arxiv.org/abs/2006.10029) [**Hinton**] [**SIMCLR v2**] [[Code](https://github.com/google-research/simclr)]
 - [2020] [Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566) [**Kaiming He**] [**SIMSIAM**]
-- [AAAI2021] [Train a One-Million-Way Instance Classifier for Unsupervised Visual Representation Learning](https://arxiv.org/abs/2102.04848) [Alibaba]
 - [2021] [Whitening for Self-Supervised Representation Learning](https://arxiv.org/abs/2007.06346)
 - [2021] [Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/abs/2103.03230) [**LeCun**] [[Code](https://github.com/facebookresearch/barlowtwins)]
 - [2021] [An Empirical Study of Training Self-Supervised Visual Transformers](https://arxiv.org/abs/2104.02057) [**Kaiming He**] [**MOCO v3**]
