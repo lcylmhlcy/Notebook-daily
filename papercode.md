@@ -4,9 +4,9 @@
 
 ### distance metric
 - [ICMLW2015] [Siamese neural networks for one-shot image recognition](http://www.cs.toronto.edu/~gkoch/files/msc-thesis.pdf)
-- [NIPS2016] [Matching Networks for One Shot Learning](https://arxiv.org/pdf/1606.04080.pdf)
-- [NIPS2017] [Prototypical Networks for Few-shot Learning](https://arxiv.org/pdf/1703.05175.pdf)
-- [CVPR2018] [Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/abs/1711.06025) [[Code](https://github.com/floodsung/LearningToCompare_FSL)]
+- [NIPS2016] [**baseline**] [Matching Networks for One Shot Learning](https://arxiv.org/pdf/1606.04080.pdf)
+- [NIPS2017] [**Strong baseline**] [Prototypical Networks for Few-shot Learning](https://arxiv.org/pdf/1703.05175.pdf)
+- [CVPR2018] [**baseline**] [Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/abs/1711.06025) [[Code](https://github.com/floodsung/LearningToCompare_FSL)]
 - [CVPR2018] [Dynamic Few-Shot Visual Learning without Forgetting](https://arxiv.org/abs/1804.09458) [[Code](https://github.com/gidariss/FewShotWithoutForgetting)]
 - [CVPR2018] [Low-Shot Learning with Imprinted Weights](https://arxiv.org/abs/1712.07136)
 - [ICLR2018] [Meta-Learning for Semi-Supervised Few-Shot Classification](https://arxiv.org/abs/1803.00676)
@@ -60,22 +60,22 @@
 
 
 ## Self-supervised
-- [2018] [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) [**CPC**] [**InfoNCE**]
+- [2018] [**CPC**] [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) [**InfoNCE**]
 - [ECCV2018] [Deep clustering for unsupervised learning of visual features](https://arxiv.org/abs/1807.05520) 
 - [ICLR2019] [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670) [**Bengio**]
-- [CVPR2020] [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722) [**Kaiming He**] [**MOCO**] [[Code](https://github.com/facebookresearch/moco)]
-- [CVPR2020] [Self-Supervised Learning of Pretext-Invariant Representations](https://arxiv.org/abs/1912.01991) [**PIRL**]
-- [NIPS2020] [Unsupervised learning of visual features by contrasting cluster assignments](https://arxiv.org/abs/2006.09882) [**SWAV**]
-- [NIPS2020] [Bootstrap your own latent: A new approach to self-supervised learning](https://arxiv.org/abs/2006.07733) [DeepMind] [**BYOL**]
+- [CVPR2020] [**MOCO**] [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722) [**Kaiming He**] [[Code](https://github.com/facebookresearch/moco)]
+- [CVPR2020] [**PIRL**] [Self-Supervised Learning of Pretext-Invariant Representations](https://arxiv.org/abs/1912.01991)
+- [NIPS2020] [**SWAV**] [Unsupervised learning of visual features by contrasting cluster assignments](https://arxiv.org/abs/2006.09882)
+- [NIPS2020] [**BYOL**] [Bootstrap your own latent: A new approach to self-supervised learning](https://arxiv.org/abs/2006.07733) [DeepMind]
 - [2020] [AdCo: Adversarial Contrast for Efficient Learning of Unsupervised Representations from Self-Trained Negative Adversaries](https://arxiv.org/abs/2011.08435)
 - [ICML2020] [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272)
-- [ICML2020] [A simple framework for contrastive learning of visual representations](https://arxiv.org/abs/2002.05709) [**Hinton**] [**SIMCLR**]
-- [2020] [Improved baselines with momentum contrastive learning](https://arxiv.org/abs/2003.04297) [**Kaiming He**] [**MOCO v2**]
-- [2020] [Big self-supervised models are strong semi-supervised learners](https://arxiv.org/abs/2006.10029) [**Hinton**] [**SIMCLR v2**] [[Code](https://github.com/google-research/simclr)]
-- [2020] [Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566) [**Kaiming He**] [**SIMSIAM**]
+- [ICML2020] [**SIMCLR**] [A simple framework for contrastive learning of visual representations](https://arxiv.org/abs/2002.05709) [**Hinton**]
+- [2020] [**MOCO v2**] [Improved baselines with momentum contrastive learning](https://arxiv.org/abs/2003.04297) [**Kaiming He**]
+- [2020] [**SIMCLR v2**] [Big self-supervised models are strong semi-supervised learners](https://arxiv.org/abs/2006.10029) [**Hinton**] [[Code](https://github.com/google-research/simclr)]
+- [2020] [**SIMSIAM**] [Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566) [**Kaiming He**]
 - [2021] [Whitening for Self-Supervised Representation Learning](https://arxiv.org/abs/2007.06346)
 - [2021] [Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/abs/2103.03230) [**LeCun**] [[Code](https://github.com/facebookresearch/barlowtwins)]
-- [2021] [An Empirical Study of Training Self-Supervised Visual Transformers](https://arxiv.org/abs/2104.02057) [**Kaiming He**] [**MOCO v3**]
+- [2021] [**MOCO v3**] [An Empirical Study of Training Self-Supervised Visual Transformers](https://arxiv.org/abs/2104.02057) [**Kaiming He**]
 - [2021] [VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning](https://arxiv.org/pdf/2105.04906.pdf) [**LeCun**]
 
 
