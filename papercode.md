@@ -135,6 +135,6 @@
 - [ICMLW2020] [Robust Semantic Interpretability: Revisiting Concept Activation Vectors](https://arxiv.org/abs/2104.02768) [[Code](https://github.com/keiserlab/rcav)]
 - [ ] [ICML2020] [Concept Bottleneck Models](http://proceedings.mlr.press/v119/koh20a/koh20a.pdf) [[SUP](http://proceedings.mlr.press/v119/koh20a/koh20a-supp.pdf)] [[Code](https://github.com/yewsiang/ConceptBottleneck)]
 - [NIPS2020] [On Completeness-aware Concept-Based Explanations in Deep Neural Networks](https://arxiv.org/abs/1910.07969) [[Code](https://github.com/chihkuanyeh/concept_exp)]
-- [2021] [Manipulating and Measuring Model Interpretability](https://arxiv.org/abs/1802.07810)
+- [CHI2021] [Manipulating and Measuring Model Interpretability](https://arxiv.org/abs/1802.07810)
 - [ ] [ICLR2021] [Debiasing Concept-based Explanations with Causal Analysis](https://arxiv.org/abs/2007.11500)
-- [ICLRW2021] [Do Concept Bottleneck Models Learn as Intended?](https://arxiv.org/abs/2105.04289)
+- [ ] [ICLRW2021] [Do Concept Bottleneck Models Learn as Intended?](https://arxiv.org/abs/2105.04289)
