@@ -101,6 +101,7 @@
 - [ICML2017] [Axiomatic Attribution for Deep Networks](https://arxiv.org/abs/1703.01365)
 - [ICML2017] [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/abs/1703.04730)
 - [ICCV2017] [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
+- [CVPR2017] [Network Dissection: Quantifying Interpretability of Deep Visual Representations](https://arxiv.org/abs/1704.05796)
 - [NIPS2018] [Towards Robust Interpretability with Self-Explaining Neural Networks](https://arxiv.org/abs/1806.07538)
 - [NIPS2018] [Sanity checks for saliency maps](https://arxiv.org/abs/1810.03292) [**Goodfellow**]
 - [x] [ICML2018] [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/abs/1711.11279) [Google]
