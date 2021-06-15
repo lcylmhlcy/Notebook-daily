@@ -25,6 +25,7 @@
 - [ICCV2019] [Learning Compositional Representations for Few-Shot Recognition](https://arxiv.org/abs/1812.09213) [[Code](https://drive.google.com/file/d/12Hn9pmBjYKGCWzumUmsbdi7viq-L3-IU/view)]
   - 使用属性标签，提出一种concept拼接方法
 - [CVPR2019] [Meta-Learning with Differentiable Convex Optimization](https://arxiv.org/abs/1904.03758) [[Code](https://github.com/kjunelee/MetaOptNet)]
+- [CVPR2019] [Few-Shot Learning with Localization in Realistic Settings](https://arxiv.org/abs/1904.08502) [[Code](https://github.com/daviswer/fewshotlocal)]
 - [ICLR2020] [Meta-dataset: A dataset of datasets for learning to learn from few examples](https://arxiv.org/abs/1903.03096) [[Code](https://github.com/google-research/meta-dataset)]
 - [IJCAI2020] [Multi-attention meta learning for few-shot fine-grained image recognition](http://vipl.ict.ac.cn/homepage/jsq/publication/2020-Zhu-IJCAI-PRICAI.pdf)
   - 基于MAML，引入CBAM注意力机制
