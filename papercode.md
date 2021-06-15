@@ -11,10 +11,10 @@
 - [CVPR2018] [Low-Shot Learning with Imprinted Weights](https://arxiv.org/abs/1712.07136)
 - [ICLR2018] [Meta-Learning for Semi-Supervised Few-Shot Classification](https://arxiv.org/abs/1803.00676)
   - 在原型网络上优化
-- [NIPS2019] [Cross Attention Network for Few-shot Classification](https://arxiv.org/abs/1910.07677)
-  - 基于relation网络，套SENet
 - [NIPS2019] [Adaptive Cross-Modal Few-Shot Learning](https://arxiv.org/abs/1902.07104)
   - 把词语作为文本输入，非常简单的多模态融合，基于原型网络
+- [NIPS2019] [Cross Attention Network for Few-shot Classification](https://arxiv.org/abs/1910.07677)
+  - 基于relation网络，套SENet
 - [ICML2019] [Infinite Mixture Prototypes for Few-Shot Learning](https://arxiv.org/abs/1902.04552)
   - 基于原型网络，原先一个类别一个聚类，变成一个类别一组聚类
 - [ICLR2019] [A Closer Look at Few-shot Classification](https://arxiv.org/abs/1904.04232) [[Code](https://github.com/wyharveychen/CloserLookFewShot)]
@@ -26,12 +26,17 @@
   - 使用属性标签，提出一种concept拼接方法
 - [CVPR2019] [Meta-Learning with Differentiable Convex Optimization](https://arxiv.org/abs/1904.03758) [[Code](https://github.com/kjunelee/MetaOptNet)]
 - [ICLR2020] [Meta-dataset: A dataset of datasets for learning to learn from few examples](https://arxiv.org/abs/1903.03096) [[Code](https://github.com/google-research/meta-dataset)]
-- [CVPR2020] [DeepEMD: Differentiable Earth Mover's Distance for Few-Shot Learning](https://arxiv.org/abs/2003.06777) [[Code](https://github.com/icoz69/DeepEMD)]
-  - 基于image regions，三种情况FCN、Grid、Sampling
 - [IJCAI2020] [Multi-attention meta learning for few-shot fine-grained image recognition](http://vipl.ict.ac.cn/homepage/jsq/publication/2020-Zhu-IJCAI-PRICAI.pdf)
   - 基于MAML，引入CBAM注意力机制
+- [CVPR2020] [DeepEMD: Differentiable Earth Mover's Distance for Few-Shot Learning](https://arxiv.org/abs/2003.06777) [[Code](https://github.com/icoz69/DeepEMD)]
+  - 基于image regions，三种情况FCN、Grid、Sampling
+- [CVPR2020] [Adaptive Subspaces for Few-Shot Learning](https://openaccess.thecvf.com/content_CVPR_2020/html/Simon_Adaptive_Subspaces_for_Few-Shot_Learning_CVPR_2020_paper.html) [[Code](https://github.com/chrysts/dsn_fewshot)]
+- [CVPR2020] [Few-Shot Learning via Embedding Adaptation with Set-to-Set Functions](https://arxiv.org/abs/1812.03664) [[Code](https://github.com/Sha-Lab/FEAT)]
+- [CVPR2020] [Revisiting Pose-Normalization for Fine-Grained Few-Shot Recognition](https://arxiv.org/abs/2004.00705) [[Code](https://github.com/Tsingularity/PoseNorm_Fewshot)]
 - [ICLR2021] [Concept Learners for Few-Shot Learning](https://arxiv.org/pdf/2007.07375.pdf) [[Code](https://github.com/snap-stanford/comet)]
   - 基于原型网络，随机生成concept
+- [CVPR2021] [Few-Shot Classification with Feature Map Reconstruction Networks](https://arxiv.org/abs/2012.01506) [[Code](https://github.com/Tsingularity/FRN)]
+
 
 
 ## Concept learning/Compositional representations/part-based
