@@ -69,7 +69,7 @@
 - [2018] [**CPC**] [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) [**InfoNCE**]
 - [ECCV2018] [Deep clustering for unsupervised learning of visual features](https://arxiv.org/abs/1807.05520) 
 - [ICLR2019] [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670) [**Bengio**]
-- [CVPR2020] [**MOCO**] [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722) [**Kaiming He**] [[Code](https://github.com/facebookresearch/moco)]
+- [CVPR2020] [**MOCO**] [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722) [[Code](https://github.com/facebookresearch/moco)] [**Kaiming He**]
 - [CVPR2020] [**PIRL**] [Self-Supervised Learning of Pretext-Invariant Representations](https://arxiv.org/abs/1912.01991)
 - [NIPS2020] [**SWAV**] [Unsupervised learning of visual features by contrasting cluster assignments](https://arxiv.org/abs/2006.09882)
 - [NIPS2020] [**BYOL**] [Bootstrap your own latent: A new approach to self-supervised learning](https://arxiv.org/abs/2006.07733) [DeepMind]
@@ -77,10 +77,10 @@
 - [ICML2020] [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272)
 - [ICML2020] [**SIMCLR**] [A simple framework for contrastive learning of visual representations](https://arxiv.org/abs/2002.05709) [**Hinton**]
 - [2020] [**MOCO v2**] [Improved baselines with momentum contrastive learning](https://arxiv.org/abs/2003.04297) [**Kaiming He**]
-- [2020] [**SIMCLR v2**] [Big self-supervised models are strong semi-supervised learners](https://arxiv.org/abs/2006.10029) [**Hinton**] [[Code](https://github.com/google-research/simclr)]
+- [2020] [**SIMCLR v2**] [Big self-supervised models are strong semi-supervised learners](https://arxiv.org/abs/2006.10029) [[Code](https://github.com/google-research/simclr)] [**Hinton**]
 - [2020] [**SIMSIAM**] [Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566) [**Kaiming He**]
 - [ICML2021] [Whitening for Self-Supervised Representation Learning](https://arxiv.org/abs/2007.06346)
-- [2021] [Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/abs/2103.03230) [**LeCun**] [[Code](https://github.com/facebookresearch/barlowtwins)]
+- [2021] [Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/abs/2103.03230) [[Code](https://github.com/facebookresearch/barlowtwins)] [**LeCun**]
 - [2021] [**MOCO v3**] [An Empirical Study of Training Self-Supervised Visual Transformers](https://arxiv.org/abs/2104.02057) [**Kaiming He**]
 - [2021] [VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning](https://arxiv.org/pdf/2105.04906.pdf) [**LeCun**]
 
@@ -108,15 +108,15 @@
   - concept: high-level, human-friendly; feature: low-level
   - prodeces estimates of how important that a concept was for the prediction
 - [AAAI2018] [Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions](https://arxiv.org/abs/1710.04806)
-- [ ] [ECCV2018] [Interpretable basis decomposition for visual explanation](http://bzhou.ie.cuhk.edu.hk/publication/eccv18-IBD.pdf) [[Code](https://github.com/CSAILVision/IBD)]
+- [x] [ECCV2018] [Interpretable basis decomposition for visual explanation](http://bzhou.ie.cuhk.edu.hk/publication/eccv18-IBD.pdf) [[Code](https://github.com/CSAILVision/IBD)]
   - decomposes the prediction of one image into human-interpretable **conceptual components**
 - [CVPR2018] [Deep Image Prior](https://arxiv.org/abs/1711.10925) [[Code](https://github.com/DmitryUlyanov/deep-image-prior)]
 - [CVPR2018] [The unreasonable effectiveness of deep features as a perceptual metric](https://arxiv.org/abs/1801.03924) [[Code](https://github.com/richzhang/PerceptualSimilarity)]
 - [TPAMI2018] [Interpreting Deep Visual Representations via Network Dissection](https://ieeexplore.ieee.org/abstract/document/8417924)
-- [ ] [CVPR2019] [Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks](https://arxiv.org/abs/1908.02686)
-- [ ] [CVPR2019] [Interpreting CNNs via Decision Trees](https://arxiv.org/abs/1802.00121)
+- [CVPR2019] [Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks](https://arxiv.org/abs/1908.02686)
+- [CVPR2019] [Interpreting CNNs via Decision Trees](https://arxiv.org/abs/1802.00121)
 - [CVPR2019] [Learning to Explain With Complemental Examples](https://arxiv.org/abs/1812.01280)
-- [ ] [NIPS2019] [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://arxiv.org/abs/1806.10574)
+- [NIPS2019] [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://arxiv.org/abs/1806.10574)
 - [AAAI2019] [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547)
 - [AISTATS2019] [Knockoffs for the mass: new feature importance statistics with false discovery guarantees](https://arxiv.org/abs/1807.06214)
 - [ExplainableAI2019] [The (un) reliability of saliency methods](https://arxiv.org/abs/1711.00867)
@@ -127,5 +127,5 @@
 - [2019] [Interpretability beyond classification output: Semantic bottleneck networks](https://arxiv.org/abs/1907.10882)
 - [ACMMM2020] [Concept-based Explanation for Fine-grained Images and Its Application in Infectious Keratitis Classification](https://dl.acm.org/doi/10.1145/3394171.3413557) [[Code](https://github.com/createrfang/VisualConceptMining)]
 - [ICML WHI 2020] [Robust Semantic Interpretability: Revisiting Concept Activation Vectors](https://arxiv.org/abs/2104.02768) [[Code](https://github.com/keiserlab/rcav)]
-- [ICML2020] [Concept Bottleneck Models](http://proceedings.mlr.press/v119/koh20a/koh20a.pdf) [[Code](https://github.com/yewsiang/ConceptBottleneck)]
+- [ ] [ICML2020] [Concept Bottleneck Models](http://proceedings.mlr.press/v119/koh20a/koh20a.pdf) [[Code](https://github.com/yewsiang/ConceptBottleneck)]
 - [2021] [Manipulating and Measuring Model Interpretability](https://arxiv.org/abs/1802.07810)
