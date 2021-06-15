@@ -39,6 +39,7 @@
   - 第一篇尝试解决存在大量标签噪音的深度度量学习问题
 - [CVPR2021] [Correlated Input-Dependent Label Noise in Large-Scale Image Classification](https://arxiv.org/abs/2105.10305) [**GoogleAI**]
 - [CVPR2021] [Deep Stable Learning for Out-Of-Distribution Generalization](https://arxiv.org/abs/2104.07876)
+- [ICML2021] [Delving into Deep Imbalanced Regression](https://arxiv.org/abs/2102.09554) [[Code](https://github.com/YyzHarry/imbalanced-regression)]
 
 
 ## MLP
@@ -51,6 +52,7 @@
 - [CVPR2020] [Graph-Structured Referring Expression Reasoning in The Wild](https://arxiv.org/pdf/2004.08814.pdf) [[Github](https://github.com/sibeiyang/sgmn)]
 - [ICCV2017] [Inferring and Executing Programs for Visual Reasoning](https://arxiv.org/abs/1705.03633) [[Code](https://github.com/facebookresearch/clevr-iep)]
 - [CVPR2021] [Transformation driven Visual Reasoning](https://arxiv.org/pdf/2011.13160) [[Code](https://github.com/hughplay/TVR)]
+- [ICML2021] [Efficient Iterative Amortized Inference for Learning Symmetric and Disentangled Multi-Object Representations](http://arxiv.org/abs/2106.03630v1) [[Code](https://github.com/pemami4911/EfficientMORL)]
 
 
 ## Causal
