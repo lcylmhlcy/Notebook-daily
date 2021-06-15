@@ -122,12 +122,19 @@
 - [AAAI2019] [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547)
 - [AISTATS2019] [Knockoffs for the mass: new feature importance statistics with false discovery guarantees](https://arxiv.org/abs/1807.06214)
 - [ExplainableAI2019] [The (un) reliability of saliency methods](https://arxiv.org/abs/1711.00867)
+- [NIPS2019] [A Benchmark for Interpretability Methods in Deep Neural Networks](https://arxiv.org/abs/1806.10758)
 - [x] [NIPS2019] [Towards Automatic Concept-based Explanations](https://arxiv.org/abs/1902.03129) [[Code](https://github.com/amiratag/ACE)]
   - 找到响应最高的concept，基于TCAV
   - without human supervision
   - concept-based explanation: meaningfulness, coherency, and importance
 - [2019] [Interpretability beyond classification output: Semantic bottleneck networks](https://arxiv.org/abs/1907.10882)
+- [2019] [Explaining Classifiers with Causal Concept Effect (CaCE)](https://arxiv.org/abs/1907.07165)
+  - propose a different causal prior graph to model the spurious correlations among the concepts and remove them using conditional variational autoencoders.
+- [ICMLA2019] [Concept Saliency Maps to Visualize Relevant Features in Deep Generative Models](https://arxiv.org/abs/1910.13140) [[Code](https://github.com/lenbrocki/concept-saliency-maps)]
 - [ACMMM2020] [Concept-based Explanation for Fine-grained Images and Its Application in Infectious Keratitis Classification](https://dl.acm.org/doi/10.1145/3394171.3413557) [[Code](https://github.com/createrfang/VisualConceptMining)]
-- [ICML WHI 2020] [Robust Semantic Interpretability: Revisiting Concept Activation Vectors](https://arxiv.org/abs/2104.02768) [[Code](https://github.com/keiserlab/rcav)]
-- [ ] [ICML2020] [Concept Bottleneck Models](http://proceedings.mlr.press/v119/koh20a/koh20a.pdf) [[Code](https://github.com/yewsiang/ConceptBottleneck)]
+- [ICMLW2020] [Robust Semantic Interpretability: Revisiting Concept Activation Vectors](https://arxiv.org/abs/2104.02768) [[Code](https://github.com/keiserlab/rcav)]
+- [ ] [ICML2020] [Concept Bottleneck Models](http://proceedings.mlr.press/v119/koh20a/koh20a.pdf) [[SUP](http://proceedings.mlr.press/v119/koh20a/koh20a-supp.pdf)] [[Code](https://github.com/yewsiang/ConceptBottleneck)]
+- [NIPS2020] [On Completeness-aware Concept-Based Explanations in Deep Neural Networks](https://arxiv.org/abs/1910.07969) [[Code](https://github.com/chihkuanyeh/concept_exp)]
 - [2021] [Manipulating and Measuring Model Interpretability](https://arxiv.org/abs/1802.07810)
+- [ ] [ICLR2021] [Debiasing Concept-based Explanations with Causal Analysis](https://arxiv.org/abs/2007.11500)
+- [ICLRW2021] [Do Concept Bottleneck Models Learn as Intended?](https://arxiv.org/abs/2105.04289)
