@@ -134,7 +134,7 @@
 - [ICMLA2019] [Concept Saliency Maps to Visualize Relevant Features in Deep Generative Models](https://arxiv.org/abs/1910.13140) [[Code](https://github.com/lenbrocki/concept-saliency-maps)]
 - [ACMMM2020] [Concept-based Explanation for Fine-grained Images and Its Application in Infectious Keratitis Classification](https://dl.acm.org/doi/10.1145/3394171.3413557) [[Code](https://github.com/createrfang/VisualConceptMining)]
 - [ICMLW2020] [Robust Semantic Interpretability: Revisiting Concept Activation Vectors](https://arxiv.org/abs/2104.02768) [[Code](https://github.com/keiserlab/rcav)]
-- [ ] [ICML2020] [Concept Bottleneck Models](http://proceedings.mlr.press/v119/koh20a/koh20a.pdf) [[SUP](http://proceedings.mlr.press/v119/koh20a/koh20a-supp.pdf)] [[Code](https://github.com/yewsiang/ConceptBottleneck)]
+- [ ] [ICML2020] [Concept Bottleneck Models](http://proceedings.mlr.press/v119/koh20a/koh20a.pdf) [[SUP](http://proceedings.mlr.press/v119/koh20a/koh20a-supp.pdf)] [[Code](https://github.com/yewsiang/ConceptBottleneck)] [**Been Kim**]
   - Build a model where concepts are built-in so that you can control influential concepts.
 - [NIPS2020] [Debugging Tests for Model Explanations](https://arxiv.org/abs/2011.05429) [**Been Kim**]
 - [NIPS2020] [On Completeness-aware Concept-Based Explanations in Deep Neural Networks](https://arxiv.org/abs/1910.07969) [[Code](https://github.com/chihkuanyeh/concept_exp)] [**Been Kim**]
