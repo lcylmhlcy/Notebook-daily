@@ -31,7 +31,7 @@ Only for Paper !!!
 - 概念学习 Concept Learning
 
 ## AI3.0 Vision
-**Data: 2D => 3D | image => video(+audio)**
+**Data: 2D => 3D | image => video(+audio)**  
 **from recognition to cognition (Bottom to Top)**
 - 抽象概况(比如场景图)
 - 事件推理
