@@ -1,8 +1,4 @@
-## Few-shot/meta/openset
-- [Demo] [Code for few shot](https://github.com/oscarknagg/few-shot)
-- [Demo] [Hands-On-Meta-Learning-With-Python](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python)
-
-### distance metric
+## metric-based meta
 - [ICMLW2015] [Siamese neural networks for one-shot image recognition](http://www.cs.toronto.edu/~gkoch/files/msc-thesis.pdf)
 - [NIPS2016] [**baseline**] [Matching Networks for One Shot Learning](https://arxiv.org/pdf/1606.04080.pdf)
 - [NIPS2017] [**Strong baseline**] [Prototypical Networks for Few-shot Learning](https://arxiv.org/pdf/1703.05175.pdf)
@@ -40,31 +36,6 @@
 
 
 
-## Concept learning/Compositional representations/part-based
-- [MIT Technical report 1970] [Learning structural descriptions from examples](https://dspace.mit.edu/handle/1721.1/6884)
-- [Biological Sciences 1978] [Representation and recognition of the spatial organization of three-dimensional shapes](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.1978.0020)
-- [MIT Press 1982] [Vision: A computational investigation into the human representation and processing of visual information](http://papers.cumincad.org/cgi-bin/works/Show?fafahttp://papers.cumincad.org/cgi-bin/works/Show?fafa)
-- [Cognition 1984] [Parts of recognition](https://www.sciencedirect.com/science/article/pii/0010027784900222)
-- [Psychological review 1987] [Recognition-by-components: a theory of human image understanding](https://psycnet.apa.org/record/1987-20898-001)
-- [CVPR2000] [Learning from one example through shared densities on transforms](https://people.cs.umass.edu/~elm/papers/cvpr2000.pdf)
-- [AMCSS2011] [One shot learning of simple visual concepts](https://escholarship.org/content/qt4ht821jx/qt4ht821jx.pdf)
-- [CVPR2007] [Towards scalable representations of object categories: Learning a hierarchy of parts](http://www.mobvis.org/publications/cvpr07_fidler_leonardis.pdf)
-- [TPAMI2009] [Object Detection with Discriminatively Trained Part Based Models](http://vision.stanford.edu/teaching/cs231b_spring1415/papers/dpm.pdf)
-- [CVPR2009] [Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer](http://ftp.idiap.ch/pub/courses/EE-700/material/28-11-2012/lampert-cvpr2009.pdf)
-- [CVPR2010] [Part and Appearance Sharing: Recursive Compositional Models for Multi-View Multi-Object Detection](http://www.cs.jhu.edu/~alanlab/Pubs10/zhu2010part.pdf)
-- [CVPR2011] [Shared Parts for Deformable Part-based Models](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.225.6520&rep=rep1&type=pdf)
-- [Philosophical Psychology 2012] [Concept possession, experimental semantics, and hybrid theories of reference](https://www.tandfonline.com/doi/abs/10.1080/09515089.2011.627538)
-- [Science2015] [Human-level concept learning through probabilistic program induction](https://science.sciencemag.org/content/350/6266/1332/)
-- [Behavioral and brain sciences 2017] [Building machines that learn and think like people](https://core.ac.uk/download/pdf/141473153.pdf)
-- [CVPR2017] [From Red Wine to Red Tomato: Composition with Context](https://www.cs.cmu.edu/~imisra/data/composing_cvpr17.pdf)
-- [CVPR2017] [Teaching compositionality to cnns](https://arxiv.org/abs/1706.04313)
-- [ICLRW2018] [Concept Learning with Energy-Based Models](https://arxiv.org/abs/1811.02486)
-- [ICLR2019] [Measuring Compositionality in Representation Learning](https://arxiv.org/abs/1902.07181)
-- [NIPS2019] [Visual Concept-Metaconcept Learning](http://vcml.csail.mit.edu/data/papers/2019NeurIPS-VCML.pdf) [[Code](https://github.com/Glaciohound/VCML)]
-  - concept跟metaconcept的定义，制定推理过程
-- [Nature2020] [Concept whitening for interpretable image recognition](https://www.nature.com/articles/s42256-020-00265-z) [[Code](https://github.com/zhiCHEN96/ConceptWhitening)]
-
-
 ## Self-supervised
 - [2018] [**CPC**] [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) [**InfoNCE**]
 - [ECCV2018] [Deep clustering for unsupervised learning of visual features](https://arxiv.org/abs/1807.05520) 
@@ -85,49 +56,19 @@
 - [2021] [VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning](https://arxiv.org/pdf/2105.04906.pdf) [**LeCun**]
 
 
-## Interpret
-- [NIPS2009] [Reading tea leaves: How humans interpret topic models](https://www.cs.ubc.ca/~rjoty/Webpage/nips2009-rtl.pdf)
-- [ICLRW2014] [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/abs/1312.6034)
-- [2014] [Methods and Models for Interpretable Linear Classification](https://arxiv.org/abs/1405.4047)
-- [ECCV2014] [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)
-- [NIPS2014] [The bayesian case model: A generative approach for case-based reasoning and prototype classification](https://proceedings.neurips.cc/paper/2014/file/390e982518a50e280d8e2b535462ec1f-Paper.pdf)
-- [CVPR2015] [Understanding Deep Image Representations by Inverting Them](https://arxiv.org/abs/1412.0035)
-- [AISTATS2015] [Falling Rule Lists](https://arxiv.org/abs/1411.5899)
-- [2016] [Model-Agnostic Interpretability of Machine Learning](https://arxiv.org/abs/1606.05386)
-- [KDD2016] ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938)
-- [2017] [SmoothGrad: removing noise by adding noise](https://arxiv.org/abs/1706.03825)
-- [NIPS2017] [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874)
-- [NIPS2017] [Real Time Image Saliency for Black Box Classifiers](https://arxiv.org/abs/1705.07857)
-- [ICML2017] [Axiomatic Attribution for Deep Networks](https://arxiv.org/abs/1703.01365)
-- [ICML2017] [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/abs/1703.04730)
-- [ICCV2017] [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
-- [ICCV2017] [Interpretable Explanations of Black Boxes by Meaningful Perturbation](https://arxiv.org/abs/1704.03296) [[SUP](https://openaccess.thecvf.com/content_ICCV_2017/supplemental/Fong_Interpretable_Explanations_of_ICCV_2017_supplemental.pdf)]
-- [CVPR2017] [Network Dissection: Quantifying Interpretability of Deep Visual Representations](https://arxiv.org/abs/1704.05796)
-- [NIPS2018] [Towards Robust Interpretability with Self-Explaining Neural Networks](https://arxiv.org/abs/1806.07538)
-- [NIPS2018] [Sanity checks for saliency maps](https://arxiv.org/abs/1810.03292) [**Goodfellow**]
+
+## Concept-based Interpret
 - [x] [ICML2018] [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/abs/1711.11279) [**Been Kim**]
   - TCAV importance score，量化concept对模型影响度
   - concept: high-level, human-friendly; feature: low-level
   - prodeces estimates of how important that a concept was for the prediction
-- [AAAI2018] [Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions](https://arxiv.org/abs/1710.04806)
 - [x] [ECCV2018] [Interpretable basis decomposition for visual explanation](http://bzhou.ie.cuhk.edu.hk/publication/eccv18-IBD.pdf) [[Code](https://github.com/CSAILVision/IBD)]
   - decomposes the prediction of one image into human-interpretable **conceptual components**
-- [CVPR2018] [Deep Image Prior](https://arxiv.org/abs/1711.10925) [[Code](https://github.com/DmitryUlyanov/deep-image-prior)]
-- [CVPR2018] [The unreasonable effectiveness of deep features as a perceptual metric](https://arxiv.org/abs/1801.03924) [[Code](https://github.com/richzhang/PerceptualSimilarity)]
-- [TPAMI2018] [Interpreting Deep Visual Representations via Network Dissection](https://ieeexplore.ieee.org/abstract/document/8417924)
-- [CVPR2019] [Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks](https://arxiv.org/abs/1908.02686)
-- [CVPR2019] [Interpreting CNNs via Decision Trees](https://arxiv.org/abs/1802.00121)
-- [CVPR2019] [Learning to Explain With Complemental Examples](https://arxiv.org/abs/1812.01280)
-- [NIPS2019] [This Looks Like That: Deep Learning for Interpretable Image Recognition](https://arxiv.org/abs/1806.10574)
-- [AAAI2019] [Interpretation of Neural Networks is Fragile](https://arxiv.org/abs/1710.10547)
-- [AISTATS2019] [Knockoffs for the mass: new feature importance statistics with false discovery guarantees](https://arxiv.org/abs/1807.06214)
-- [ExplainableAI2019] [The (un) reliability of saliency methods](https://arxiv.org/abs/1711.00867) [**Been Kim**]
-- [NIPS2019] [A Benchmark for Interpretability Methods in Deep Neural Networks](https://arxiv.org/abs/1806.10758)
 - [x] [NIPS2019] [Towards Automatic Concept-based Explanations](https://arxiv.org/abs/1902.03129) [[Code](https://github.com/amiratag/ACE)] [**Been Kim**]
   - 找到响应最高的concept，基于TCAV
   - without human supervision
   - concept-based explanation: meaningfulness, coherency, and importance
-- [2019] [Interpretability beyond classification output: Semantic bottleneck networks](https://arxiv.org/abs/1907.10882)
+- [2019] [EDUCE: Explaining model Decisions through Unsupervised Concepts Extraction](https://arxiv.org/abs/1905.11852)
 - [2019] [Explaining Classifiers with Causal Concept Effect (CaCE)](https://arxiv.org/abs/1907.07165) [**Been Kim**]
   - Make TCAV causal
   - propose a different causal prior graph to model the spurious correlations among the concepts and remove them using conditional variational autoencoders.
@@ -136,10 +77,34 @@
 - [ICMLW2020] [Robust Semantic Interpretability: Revisiting Concept Activation Vectors](https://arxiv.org/abs/2104.02768) [[Code](https://github.com/keiserlab/rcav)]
 - [ ] [ICML2020] [Concept Bottleneck Models](http://proceedings.mlr.press/v119/koh20a/koh20a.pdf) [[SUP](http://proceedings.mlr.press/v119/koh20a/koh20a-supp.pdf)] [[Code](https://github.com/yewsiang/ConceptBottleneck)] [**Been Kim**]
   - Build a model where concepts are built-in so that you can control influential concepts.
-- [NIPS2020] [Debugging Tests for Model Explanations](https://arxiv.org/abs/2011.05429) [**Been Kim**]
 - [NIPS2020] [On Completeness-aware Concept-Based Explanations in Deep Neural Networks](https://arxiv.org/abs/1910.07969) [[Code](https://github.com/chihkuanyeh/concept_exp)] [**Been Kim**]
   - find set of concepts that are "sufficient" to explain predictions.
-- [CHI2021] [Manipulating and Measuring Model Interpretability](https://arxiv.org/abs/1802.07810)
 - [ ] [ICLR2021] [Debiasing Concept-based Explanations with Causal Analysis](https://arxiv.org/abs/2007.11500)
 - [ ] [ICLRW2021] [Do Concept Bottleneck Models Learn as Intended?](https://arxiv.org/abs/2105.04289)
-- [Computational Brain & Behavior (2021)] [Neural Networks Trained on Natural Scenes Exhibit Gestalt Closure](https://arxiv.org/abs/1903.01069) [**Been Kim**]
+
+
+
+## Concept learning/Compositional representations/part-based
+- [MIT Technical report 1970] [Learning structural descriptions from examples](https://dspace.mit.edu/handle/1721.1/6884)
+- [Biological Sciences 1978] [Representation and recognition of the spatial organization of three-dimensional shapes](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.1978.0020)
+- [MIT Press 1982] [Vision: A computational investigation into the human representation and processing of visual information](http://papers.cumincad.org/cgi-bin/works/Show?fafahttp://papers.cumincad.org/cgi-bin/works/Show?fafa)
+- [Cognition 1984] [Parts of recognition](https://www.sciencedirect.com/science/article/pii/0010027784900222)
+- [Psychological review 1987] [Recognition-by-components: a theory of human image understanding](https://psycnet.apa.org/record/1987-20898-001)
+- [MIT 1999] [A Bayesian framework for concept learning](https://dspace.mit.edu/handle/1721.1/16714)
+- [CVPR2000] [Learning from one example through shared densities on transforms](https://people.cs.umass.edu/~elm/papers/cvpr2000.pdf)
+- [AMCSS2011] [One shot learning of simple visual concepts](https://escholarship.org/content/qt4ht821jx/qt4ht821jx.pdf)
+- [CVPR2007] [Towards scalable representations of object categories: Learning a hierarchy of parts](http://www.mobvis.org/publications/cvpr07_fidler_leonardis.pdf)
+- [TPAMI2009] [Object Detection with Discriminatively Trained Part Based Models](http://vision.stanford.edu/teaching/cs231b_spring1415/papers/dpm.pdf)
+- [CVPR2009] [Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer](http://ftp.idiap.ch/pub/courses/EE-700/material/28-11-2012/lampert-cvpr2009.pdf)
+- [CVPR2010] [Part and Appearance Sharing: Recursive Compositional Models for Multi-View Multi-Object Detection](http://www.cs.jhu.edu/~alanlab/Pubs10/zhu2010part.pdf)
+- [CVPR2011] [Shared Parts for Deformable Part-based Models](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.225.6520&rep=rep1&type=pdf)
+- [Philosophical Psychology 2012] [Concept possession, experimental semantics, and hybrid theories of reference](https://www.tandfonline.com/doi/abs/10.1080/09515089.2011.627538)
+- [Science2015] [Human-level concept learning through probabilistic program induction](https://science.sciencemag.org/content/350/6266/1332/)
+- [Behavioral and brain sciences 2017] [Building machines that learn and think like people](https://core.ac.uk/download/pdf/141473153.pdf)
+- [CVPR2017] [From Red Wine to Red Tomato: Composition with Context](https://www.cs.cmu.edu/~imisra/data/composing_cvpr17.pdf)
+- [CVPR2017] [Teaching compositionality to cnns](https://arxiv.org/abs/1706.04313)
+- [ICLRW2018] [Concept Learning with Energy-Based Models](https://arxiv.org/abs/1811.02486)
+- [ICLR2019] [Measuring Compositionality in Representation Learning](https://arxiv.org/abs/1902.07181)
+- [NIPS2019] [Visual Concept-Metaconcept Learning](http://vcml.csail.mit.edu/data/papers/2019NeurIPS-VCML.pdf) [[Code](https://github.com/Glaciohound/VCML)]
+  - concept跟metaconcept的定义，制定推理过程
+- [Nature2020] [Concept whitening for interpretable image recognition](https://www.nature.com/articles/s42256-020-00265-z) [[Code](https://github.com/zhiCHEN96/ConceptWhitening)]
