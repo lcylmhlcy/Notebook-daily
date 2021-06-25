@@ -81,6 +81,7 @@
   - find set of concepts that are "sufficient" to explain predictions.
 - [ ] [ICLR2021] [Debiasing Concept-based Explanations with Causal Analysis](https://arxiv.org/abs/2007.11500)
 - [ ] [ICLRW2021] [Do Concept Bottleneck Models Learn as Intended?](https://arxiv.org/abs/2105.04289)
+- [CVPR2021] [A Peek Into the Reasoning of Neural Networks: Interpreting with Structural Visual Concepts](https://arxiv.org/pdf/2105.00290.pdf) [[Code](https://github.com/gyhandy/Visual-Reasoning-eXplanation)] [[Blog](https://mp.weixin.qq.com/s/FhQsi7twHkGskcE5fshOxA)]
 
 
 
