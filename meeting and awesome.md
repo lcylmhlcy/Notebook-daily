@@ -7,6 +7,11 @@
 6. AAAI-19_slide_poster [Github](https://github.com/zhiyuanhubj/AAAI-19_slide_poster)
 7. CVPR2021 [Github](https://github.com/extreme-assistant/CVPR2021-Paper-Code-Interpretation/blob/master/CVPR2021.md)
 
+
+### toturial
+- https://fgva-cvpr21.github.io/
+- 
+
 ---
 
 ## awesome

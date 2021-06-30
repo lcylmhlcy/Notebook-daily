@@ -93,10 +93,13 @@
 - [ICML2021] [Delving into Deep Imbalanced Regression](https://arxiv.org/abs/2102.09554) [[Code](https://github.com/YyzHarry/imbalanced-regression)]
 
 
-
-## MLP
-- [ICLR2021] [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
-- [2021] [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/pdf/2105.01601.pdf) [[Code](https://github.com/google-research/vision_transformer/tree/linen)]
+## Domain
+- [ICML2021] [Representation Subspace Distance for Domain Adaptation Regression](http://ise.thss.tsinghua.edu.cn/~mlong/doc/Representation-Subspace-Distance-for-Domain-Adaptation-Regression-icml21.pdf)
+  - 分类对特征尺度具有鲁棒性，而回归则不具有鲁棒性，对齐深度表示的分布会改变特征尺度，阻碍领域自适应回归。
+- [ICML2021] [CARTL: Cooperative Adversarially-Robust Transfer Learning](https://arxiv.org/pdf/2106.06667.pdf)
+  - 分析了在迁移学习场景下，当深度神经网络面临对抗样本攻击时，迁移策略对神经网络鲁棒性的影响。
+- [CVPR2021] [Learning Invariant Representations and Risks for Semi-supervised Domain Adaptation](https://arxiv.org/pdf/2010.04647.pdf) [[Code](github.com/Luodian/Learning-Invariant-Representations-and-Risks)]
+- [Prototypical Pseudo Label Denoising and Target Structure Learning for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2101.10979) [[Code](github.com/microsoft/SpareNet)]
 
 
 
@@ -116,9 +119,16 @@
 
 
 
-## Bayes
-- [2021] [A Survey on Bayesian Deep Learning](https://arxiv.org/abs/1604.01662v4) 
-- [Demo] [Bayesian neural network using Pyro and PyTorch on MNIST dataset](https://github.com/paraschopra/bayesian-neural-network-mnist)
+## Graph NN
+- [CVPR2020 Tutorial] [Learning Representations via Graph-structured Networks](https://xiaolonw.github.io/graphnnv2/)
+- [KDD2020] [Xgnn: Towards model-level explanations of graph neural networks](https://arxiv.org/abs/2006.02587)
+- [ICML2020] [Contrastive Multi-View Representation Learning on Graphs](https://arxiv.org/pdf/2006.05582.pdf)
+- [NIPS2020 Tutorial] [Graph Mining and Learning](https://gm-neurips-2020.github.io/)
+- [2020] [Contrastive Learning of Structured World Models](http://arxiv.org/abs/1911.12247) [[Code](https://github.com/tkipf/c-swm)]
+- [ICLRW2020] [An Energy-Based View of Graph Neural Networks](https://arxiv.org/abs/2104.1349)
+- [ICML2021] [Graphnorm: A principled approach to accelerating graph neural network training](https://arxiv.org/abs/2009.03294) [[Code](https://github.com/lsj2408/GraphNorm)]
+- [ICML2021] [Graph Contrastive Learning Automated](https://arxiv.org/abs/2106.07594) [[Code](https://github.com/Shen-Lab/GraphCL_Automated)]
+  - 在对特定图形数据执行GraphCL时自动、自适应、动态地选择数据增强
 
 
 
@@ -151,22 +161,24 @@
 - [2021] [Reformulating HOI Detection as Adaptive Set Prediction](https://arxiv.org/pdf/2103.05983.pdf)
 - [ICLR2021] [AdaFuse: Adaptive Temporal Fusion Network for Efficient Action Recognition](https://arxiv.org/pdf/2102.05775.pdf) [[Code](https://github.com/mengyuest/AdaFuse)]
 - [CVPR2021] [Self-supervised Video Representation Learning by Context and Motion Decoupling](https://arxiv.org/abs/2104.00862)
-
-
-
-## Graph NN
-- [CVPR2020 Tutorial] [Learning Representations via Graph-structured Networks](https://xiaolonw.github.io/graphnnv2/)
-- [KDD2020] [Xgnn: Towards model-level explanations of graph neural networks](https://arxiv.org/abs/2006.02587)
-- [ICML2020] [Contrastive Multi-View Representation Learning on Graphs](https://arxiv.org/pdf/2006.05582.pdf)
-- [NIPS2020 Tutorial] [Graph Mining and Learning](https://gm-neurips-2020.github.io/)
-- [2020] [Contrastive Learning of Structured World Models](http://arxiv.org/abs/1911.12247) [[Code](https://github.com/tkipf/c-swm)]
-- [ICLRW2020] [An Energy-Based View of Graph Neural Networks](https://arxiv.org/abs/2104.1349)
-- [ICML2021] [Graphnorm: A principled approach to accelerating graph neural network training](https://arxiv.org/abs/2009.03294) [[Code](https://github.com/lsj2408/GraphNorm)]
+- [CVPR2021] [SSAN: Separable Self-Attention Network for Video Representation Learning](https://arxiv.org/abs/2105.13033)
+- [CVPR2021] [Unsupervised Visual Representation Learning by Tracking Patches in Video](https://arxiv.org/pdf/2105.02545.pdf) [[Code](github.com/microsoft/CtP)]
 
 
 
 ## 1D data
 - [KDD2020] [Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data](https://arxiv.org/abs/2006.12715)
+
+
+## MLP
+- [ICLR2021] [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
+- [2021] [MLP-Mixer: An all-MLP Architecture for Vision](https://arxiv.org/pdf/2105.01601.pdf) [[Code](https://github.com/google-research/vision_transformer/tree/linen)]
+
+
+
+## Bayes
+- [2021] [A Survey on Bayesian Deep Learning](https://arxiv.org/abs/1604.01662v4) 
+- [Demo] [Bayesian neural network using Pyro and PyTorch on MNIST dataset](https://github.com/paraschopra/bayesian-neural-network-mnist)
 
 
 

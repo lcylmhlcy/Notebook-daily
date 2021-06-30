@@ -33,6 +33,8 @@
 - [ICLR2021] [Concept Learners for Few-Shot Learning](https://arxiv.org/pdf/2007.07375.pdf) [[Code](https://github.com/snap-stanford/comet)]
   - 基于原型网络，随机生成concept
 - [CVPR2021] [Few-Shot Classification with Feature Map Reconstruction Networks](https://arxiv.org/abs/2012.01506) [[Code](https://github.com/Tsingularity/FRN)]
+- [ICML2021] [Unsupervised Embedding Adaptation via Early-Stage Feature Reconstruction for Few-Shot Classification](https://arxiv.org/abs/2106.11486)
+  - 早期特征重建一种新的自适应方案，通过特征重建和维度驱动的早期停止来发现可泛化的特征。
 
 
 
@@ -54,6 +56,7 @@
 - [2021] [Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/abs/2103.03230) [[Code](https://github.com/facebookresearch/barlowtwins)] [**LeCun**]
 - [2021] [**MOCO v3**] [An Empirical Study of Training Self-Supervised Visual Transformers](https://arxiv.org/abs/2104.02057) [**Kaiming He**]
 - [2021] [VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning](https://arxiv.org/pdf/2105.04906.pdf) [**LeCun**]
+- [CVPR2021] [Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning](https://arxiv.org/abs/2011.10043) [[Code](https://github.com/zdaxie/PixPro)]
 
 
 
@@ -81,7 +84,8 @@
   - find set of concepts that are "sufficient" to explain predictions.
 - [ ] [ICLR2021] [Debiasing Concept-based Explanations with Causal Analysis](https://arxiv.org/abs/2007.11500)
 - [ ] [ICLRW2021] [Do Concept Bottleneck Models Learn as Intended?](https://arxiv.org/abs/2105.04289)
-- [CVPR2021] [A Peek Into the Reasoning of Neural Networks: Interpreting with Structural Visual Concepts](https://arxiv.org/pdf/2105.00290.pdf) [[Code](https://github.com/gyhandy/Visual-Reasoning-eXplanation)] [[Blog](https://mp.weixin.qq.com/s/FhQsi7twHkGskcE5fshOxA)]
+- [CVPR2021] [A Peek Into the Reasoning of Neural Networks: Interpreting with Structural Visual Concepts](https://arxiv.org/pdf/2105.00290.pdf) [[Code](https://github.com/gyhandy/Visual-Reasoning-eXplanation)] [[Blog](https://mp.weixin.qq.com/s/FhQsi7twHkGskcE5fshOxA)] [[Video](https://live.yanxishe.com/room/947)]
+  - 使用图卷积构建concept之间的relation
 
 
 
